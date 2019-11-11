@@ -1,0 +1,217 @@
+NameID	Name
+4600018	Apteria aphylla (Nutt.) Barnhart ex Small
+26602846	Azolla caroliniana Willd.
+26602847	Azolla filiculoides Lam.
+26603594	Azolla mexicana C. Presl
+26608433	Azolla microphylla Kaulf.
+40023609	Azolla Lam.
+29201860	Benjaminia reflexa (Benth.) D'Arcy
+40026504	Benjaminia Mart. ex Benj.
+22600001	Brasenia schreberi J.F. Gmel.
+40031054	Brasenia Schreb.
+22600137	Cabomba furcata Schult. & Schult. f.
+22600144	Cabomba haynesii Wiersema
+22600140	Cabomba palaeformis Fassett
+40033874	Cabomba Aubl.
+5200010	Callitriche heterophylla Pursh
+5200002	Callitriche palustris L.
+40035242	Callitriche L.
+7000001	Ceratophyllum demersum L.
+7000006	Ceratophyllum muricatum Cham.
+7000016	Ceratophyllum muricatum subsp. australe (Griseb.) Les
+40004488	Ceratophyllum L.
+26601984	Ceratopteris pteridoides (Hook.) Hieron.
+26600076	Ceratopteris thalictroides (L.) Brongn.
+40004506	Ceratopteris Brongn.
+900217	Echinodorus berteroi (Spreng.) Fassett
+900021	Echinodorus bracteatus Micheli
+900337	Echinodorus bracteatus var. bracteatus 
+900024	Echinodorus grandiflorus (Cham. & Schltdl.) Micheli
+900103	Echinodorus grandiflorus var. grandiflorus 
+900270	Echinodorus grisebachii Small
+900244	Echinodorus nymphaeifolius (Griseb.) Buchenau
+900274	Echinodorus ovalis C. Wright
+900029	Echinodorus paniculatus Micheli
+900275	Echinodorus quadricostatus Fassett
+900340	Echinodorus quadricostatus var. quadricostatus 
+900276	Echinodorus scaber Rataj
+900343	Echinodorus scaber var. scaber 
+900083	Echinodorus subalatus (Mart.) Griseb.
+900031	Echinodorus tenellus (Mart. ex Schult. & Schult. f.) Buchenau
+900277	Echinodorus trialatus Fassett
+900104	Echinodorus tunicatus Small
+40000922	Echinodorus Rich.
+16100033	Egeria densa Planch.
+40001455	Egeria Planch.
+26100017	Eichhornia azurea (Sw.) Kunth
+26100027	Eichhornia crassipes (Mart.) Solms
+26100037	Eichhornia heterosperma Alexander
+26100103	Eichhornia paniculata (Spreng.) Solms
+26100100	Eichhornia paradoxa (Schult. f. ex Mart.) Solms
+40001530	Eichhornia Kunth
+23502985	Habenaria repens Nutt.
+40019629	Habenaria Willd.
+26300074	Halodule beaudettei (Hartog) Hartog
+26300164	Halodule ciliata (Hartog) Hartog
+26300075	Halodule wrightii Asch.
+40020400	Halodule Endl.
+16100041	Halophila baillonis Asch.
+16100055	Halophila decipiens Ostenf.
+16100042	Halophila engelmannii Asch.
+40020437	Halophila Thouars
+26100021	Heteranthera limosa (Sw.) Willd.
+26100132	Heteranthera oblongifolia C. Mart. ex Roem. & Schult.
+26100098	Heteranthera peduncularis Benth.
+26100022	Heteranthera reniformis Ruiz & Pav.
+26100161	Heteranthera seubertiana Solms
+26100038	Heteranthera spicata C. Presl
+40024873	Heteranthera Ruiz & Pav.
+16100005	Hydrilla verticillata (L. f.) Royle
+40028831	Hydrilla Rich.
+4800011	Hydrocleys nymphoides (Willd.) Buchenau
+4800016	Hydrocleys parviflora Seub.
+40028896	Hydrocleys Rich.
+1700823	Hydrocotyle ranunculoides L. f.
+1700824	Hydrocotyle umbellata L.
+40028917	Hydrocotyle L.
+40028960	Hydrolea L.
+16100062	Hydromystria laevigata (Humb. & Bonpl. ex Willd.) Hunz.
+40028993	Hydromystria G. Mey.
+25513369	Hymenachne amplexicaulis (Rudge) Nees
+8500040	Ipomoea aquatica Forssk.
+40031392	Ipomoea L.
+50159482	Landoltia punctata (G. Mey.) Les & D.J. Crawford
+50159481	Landoltia Les & D.J. Crawford
+18100026	Lemna aequinoctialis Welw.
+18100039	Lemna minor L.
+18100046	Lemna minuta Kunth
+18100011	Lemna obscura (Austin) Daubs
+18100014	Lemna valdiviana Phil.
+40003702	Lemna L.
+4800004	Limnocharis flava (L.) Buchenau
+4800006	Limnocharis laforestii Griseb.
+40006900	Limnocharis Bonpl.
+23201670	Ludwigia inclinata (L. f.) M. Gómez
+23200852	Ludwigia sedoides (Bonpl.) H. Hara
+40036407	Ludwigia L.
+15000079	Myriophyllum aquaticum (Vell.) Verdc.
+15000045	Myriophyllum heterophyllum Michx.
+40024418	Myriophyllum L.
+22200022	Najas arguta Kunth
+22200058	Najas guadalupensis (Spreng.) Magnus
+22200059	Najas guadalupensis var. guadalupensis 
+22200006	Najas marina L.
+22200019	Najas wrightiana A. Braun
+40024943	Najas L.
+22600235	Nelumbo lutea Willd.
+40026014	Nelumbo Adans.
+13030317	Neptunia plena (L.) Benth.
+13030321	Neptunia pubescens Benth.
+40027586	Neptunia Lour.
+22600050	Nymphaea amazonum Mart. & Zucc.
+22600051	Nymphaea ampla (Salisb.) DC.
+22600019	Nymphaea caerulea Savigny
+22600075	Nymphaea capensis Thunb.
+22600148	Nymphaea conardii Wiersema
+22600116	Nymphaea glandulifera Rodschied
+22600053	Nymphaea jamesoniana Planch.
+22600022	Nymphaea lotus L.
+22600023	Nymphaea mexicana Zucc.
+22600004	Nymphaea odorata Aiton
+22600154	Nymphaea prolifera Wiersema
+22600055	Nymphaea pulchella DC.
+22600056	Nymphaea rudgeana G. Mey.
+40029644	Nymphaea L.
+20801346	Nymphoides fallax Ornduff
+20800134	Nymphoides indica (L.) Kuntze
+50097267	Nymphoides Ség.
+2716927	Pacourina edulis Aubl.
+40036183	Pacourina Aubl.
+12802303	Phyllanthus fluitans Benth. ex Müll. Arg.
+25700027	Podostemum ceratophyllum Michx.
+50277370	Podostemum rutifolium subsp. ricciiforme (Liebm.) Novelo & C.T. Philbrick
+25700130	Podostemum rutifolium Warm.
+40012821	Podostemum Michx.
+26100101	Pontederia cordata var. cordata 
+26100039	Pontederia parviflora Alexander
+26100030	Pontederia rotundifolia L. f.
+26100072	Pontederia sagittata C. Presl
+40014802	Pontederia L.
+26300085	Potamogeton crispus L.
+26300091	Potamogeton foliosus Raf.
+26300285	Potamogeton foliosus var. foliosus 
+26300028	Potamogeton illinoensis Morong
+26300071	Potamogeton nodosus Poir.
+26300337	Potamogeton paramoanus R.R. Haynes & Holm-Niels.
+26300030	Potamogeton pectinatus L.
+26300031	Potamogeton perfoliatus L.
+26300111	Potamogeton pusillus L.
+26300300	Potamogeton pusillus var. pusillus 
+40015410	Potamogeton L.
+15000055	Proserpinaca palustris L.
+15000058	Proserpinaca pectinata Lam.
+40016436	Proserpinaca L.
+19200371	Rotala mexicana Schltdl. & Cham.
+40027147	Rotala L.
+26300348	Ruppia didyma Sw. ex Wikstr.
+26300130	Ruppia maritima L.
+40027768	Ruppia L.
+900067	Sagittaria guayanensis Kunth
+900336	Sagittaria guayanensis subsp. guayanensis 
+900249	Sagittaria intermedia Micheli
+900070	Sagittaria lancifolia L.
+900264	Sagittaria lancifolia subsp. lancifolia 
+900246	Sagittaria lancifolia subsp. media (Micheli) Bogin
+900008	Sagittaria latifolia Willd.
+900009	Sagittaria latifolia var. latifolia 
+900072	Sagittaria longiloba Engelm. ex J.G. Sm.
+900073	Sagittaria montevidensis Cham. & Schltdl.
+900216	Sagittaria montevidensis subsp. calycina (Engelm.) Bogin
+900231	Sagittaria platyphylla (Engelm.) J.G. Sm.
+900279	Sagittaria rhombifolia Cham.
+40028494	Sagittaria L.
+26602844	Salvinia auriculata Aubl.
+26602845	Salvinia minima Baker
+26608434	Salvinia radula Baker
+26617245	Salvinia sprucei Kuhn
+40029075	Salvinia Ség.
+27906915	Sipanea biflora (Rottb.) Cham. & Schltdl.
+18100042	Spirodela intermedia W. Koch
+18100004	Spirodela polyrhiza (L.) Schleid.
+40003753	Spirodela Schleid.
+26300157	Syringodium filiforme Kütz.
+40009239	Syringodium Kütz.
+16100047	Thalassia testudinum Banks & Sol. ex K.D. Koenig
+40012544	Thalassia Banks ex K.D. Koenig
+16100009	Vallisneria americana Michx.
+16100109	Vallisneria americana var. americana 
+40022775	Vallisneria L.
+25700127	Vanroyenella plumosa Novelo & C.T. Philbrick
+40037923	Vanroyenella Novelo & C.T. Philbrick
+18100029	Wolffia brasiliensis Wedd.
+18100018	Wolffia columbiana H. Karst.
+40026626	Wolffia Horkel ex Schleid.
+18100024	Wolffiella lingulata (Hegelm.) Hegelm.
+18100025	Wolffiella oblonga (Phil.) Hegelm.
+18100088	Wolffiella welwitschii (Hegelm.) Monod
+40026631	Wolffiella Hegelm.
+26300007	Zannichellia palustris L.
+40028139	Zannichellia L.
+40028834	Zosterella Small
+42000325	Alismataceae Vent.
+42000027	Cabombaceae Rich. ex A. Rich.
+42000028	Ceratophyllaceae Gray
+42000335	Cymodoceaceae Vines
+42000188	Haloragaceae R. Br.
+42000326	Hydrocharitaceae Juss.
+50318898	Hydroleaceae R. Br.
+42000324	Limnocharitaceae Takht. ex Cronquist
+42000285	Menyanthaceae Dumort.
+42000332	Najadaceae Juss.
+42000024	Nelumbonaceae A. Rich.
+42000451	Nyssaceae Juss. ex Dumort.
+42000200	Onagraceae Juss.
+42000295	Plantaginaceae Juss.
+42000371	Pontederiaceae Kunth
+42000330	Potamogetonaceae Bercht. & J. Presl
+42000333	Zannichelliaceae Chevall.

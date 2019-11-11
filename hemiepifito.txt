@@ -1,0 +1,91 @@
+NameID	Name
+20300009	Adelobotrys adscendens (Sw.) Triana
+40032199	Adelobotrys DC.
+20303367	Blakea fuchsioides Almeda
+40027946	Blakea P. Browne
+50285567	Blechnum fuscosquamosum A. Rojas
+26612171	Bolbitis lindigii (Mett.) C. Chr.
+26602714	Bolbitis nicotianifolia (Sw.) Alston
+40028913	Bolbitis Schott
+2105811	Chlorospatha croatiana Grayum
+2105810	Chlorospatha croatiana subsp. croatiana 
+40007638	Chlorospatha Engl.
+21300127	Coussapoa asperifolia Trécul
+21300589	Coussapoa brevipes Pittier
+21301255	Coussapoa contorta Cuatrec.
+21300590	Coussapoa crassivenosa Mildbr.
+21301895	Coussapoa macerrima Standl. & L.O. Williams ex Akkermans & C.C. Berg
+21300655	Coussapoa nymphaeifolia Standl.
+21301133	Coussapoa oligocephala Donn. Sm.
+21301553	Coussapoa parvifolia Standl.
+21301134	Coussapoa purpusii Standl.
+21300148	Coussapoa villosa Poepp. & Endl.
+40015586	Coussapoa Aubl.
+40021400	Dahlia Cav.
+100440105	Deamia chontalensis (Alexander) Doweld
+100474794	Deamia montalvoae Cerén, J. Menjívar & S. Arias
+50212188	Ficus sect. Americanae Miq.
+50212190	Ficus sect. Pharmacosycea (Miq.) Benth. & Hook. f.
+21301691	Ficus subg. Pharmacosycea (Miq.) Miq.
+27910727	Manettia arboricola Lorence
+27910230	Manettia microphylla Lorence & Dwyer
+40013170	Manettia Mutis ex L.
+26606031	Maxonia apiifolia (Sw.) C. Chr.
+26606034	Maxonia apiifolia var. dualis (Donn. Sm.) C. Chr.
+40015180	Maxonia C. Chr.
+20302665	Miconia arboricola Almeda
+20301153	Miconia loreyoides Triana
+20302691	Miconia melanotricha var. melanotricha 
+20302692	Miconia melanotricha var. panamensis Gleason
+20304092	Miconia urticoides Triana
+40018467	Miconia Ruiz & Pav.
+2106222	Monstera dissecta N.E. Br. ex Donn. Sm.
+100476104	Monstera limitaris M. Cedeño
+40029303	Notopleura (Benth.) Bremek.
+50194453	Notopleura pithecobia (Standl.) C.M. Taylor
+100409391	Piper brewsteri Callejas
+25000585	Piper flaviramum C. DC.
+25002070	Piper ottoniifolium C. DC.
+25003281	Piper subsessilifolium C. DC.
+26609325	Polybotrya alata R.C. Moran
+26609309	Polybotrya alfredii Brade
+100376499	Polybotrya bipinnata A. Rojas
+26606079	Polybotrya caudata Kunze
+26609331	Polybotrya gomezii R.C. Moran
+26606080	Polybotrya osmundacea Humb. & Bonpl. ex Willd.
+26609234	Polybotrya polybotryoides (Baker) Christ
+40013727	Polybotrya Humb. & Bonpl. ex Willd.
+12301009	Psammisia oppositiflora Luteyn
+40016812	Psammisia Klotzsch
+2200785	Schefflera latiligulata M.J. Cannon & Cannon
+29604085	Schultesianthus megalandrus (Dunal) Hunz.
+26610853	Selaginella chrysoleuca Spring
+20304003	Topobea dimorphophylla Almeda
+20303459	Topobea hexandra Almeda
+40015395	Topobea Aubl.
+50271036	Trichomanes collariatum var. alvaradoi A. Rojas
+26606404	Trichomanes rupestre (Raddi) Bosch
+26606487	Trichomanes tuerckheimii Christ
+40017616	Trichomanes L.
+23511043	Vanilla calyculata Schltr.
+100001172	Vanilla costaricensis Soto Arenas
+100001173	Vanilla cribbiana Soto Arenas
+100001174	Vanilla dressleri Soto Arenas
+23513102	Vanilla hartii Rolfe
+23515850	Vanilla helleri A.D. Hawkes
+23503185	Vanilla inodora Schiede
+50007568	Vanilla insignis Ames
+100354180	Vanilla martinezii Soto Arenas
+23505782	Vanilla odorata C. Presl
+23503186	Vanilla phaeantha Rchb. f.
+23501046	Vanilla planifolia Andrews
+23504083	Vanilla pompona Schiede
+100001178	Vanilla pompona subsp. pompona 
+100354181	Vanilla pompona subsp. pittieri (Schltr.) Dressler
+100001179	Vanilla sarapiquensis Soto Arenas
+23525869	Vanilla trigonocarpa Hoehne
+40023076	Vanilla Mill.
+42000193	Alzateaceae S.A. Graham
+42000394	Dennstaedtiaceae Lotsy
+42000432	Lomariopsidaceae Alston
+42000202	Melastomataceae Juss.

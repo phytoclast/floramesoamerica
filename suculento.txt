@@ -1,0 +1,78 @@
+NameID	Name
+5101070	Acanthocereus horridus Britton & Rose
+5105704	Acanthocereus tetragonus (L.) Hummelinck
+1200371	Agave americana L.
+1201370	Agave angustifolia Haw.
+1201576	Agave cantala Roxb.
+1201577	Agave cantala var. acuispina (Trel.) Gentry
+1201573	Agave chiapensis Jacobi
+1201590	Agave congesta Gentry
+1201575	Agave fourcroydes Lem.
+1201568	Agave ghiesbreghtii Lem. ex Jacobi
+50254130	Agave grijalvensis B. Ullrich
+1201589	Agave hiemiflora Gentry
+1201439	Agave hurteri Trel.
+1202440	Agave isthmensis García-Mend. & F. Palma
+1201588	Agave kewensis Jacobi
+1201441	Agave lagunae Trel.
+1201586	Agave parvidentata Trel.
+1201569	Agave pendula Schnittsp.
+1201637	Agave potatorum Zucc.
+1201447	Agave seemanniana Jacobi
+50183169	Agave sisalana Perrine ex Engelm.
+1201449	Agave tecta Trel.
+1201451	Agave thomasiae Trel.
+1201572	Agave warelliana Baker
+1201585	Agave wercklei F.A.C. Weber ex Wercklé
+40034234	Agave L.
+5107430	Cephalocereus nizandensis (Bravo & T. MacDoug.) Buxb.
+5107432	Cephalocereus totolapensis (Bravo & T. MacDoug.) Buxb.
+40019970	Cynanchum L.
+5108040	Disocactus aurantiacus (Kimnach) Barthlott
+5103882	Disocactus nelsonii (Britton & Rose) Linding.
+5105996	Disocactus quezaltecus (Standl. & Steyerm.) Kimnach
+100451687	Disocactus salvadorensis Cerén, J. Menjívar & S. Arias
+5108043	Disocactus speciosus (Cav.) Barthlott
+2604731	Funastrum glaucum (Kunth) Schltr.
+40011342	Funastrum E. Fourn.
+1200703	Furcraea cabuya Trel.
+1200704	Furcraea cabuya var. integra Trel.
+1201593	Furcraea cahum Trel.
+1201458	Furcraea guatemalensis Trel.
+50141144	Furcraea niquivilensis Matuda ex García-Mend.
+1201461	Furcraea quicheensis Trel.
+1201594	Furcraea stratiotes J.B. Petersen
+40011414	Furcraea Vent.
+100449941	Harrisia caymanensis A.R. Franck
+40021434	Harrisia Britton
+4000125	Heliotropium curassavicum L.
+40022910	Heliotropium L.
+27912271	Hillia allenii C.M. Taylor
+27907342	Hillia grayumii C.M. Taylor
+27910003	Hillia longifilamentosa (Steyerm.) C.M. Taylor
+27909334	Hillia loranthoides Standl.
+27901282	Hillia macrophylla Standl.
+27903694	Hillia maxonii Standl.
+27910004	Hillia triflora (Oerst.) C.M. Taylor
+50123604	Hillia triflora var. triflora 
+27910005	Hillia triflora var. pittieri (Standl.) C.M. Taylor
+27913008	Hillia ulei K. Schum. ex Ule
+40026063	Hillia Jacq.
+5101084	Hylocereus undatus (Haw.) Britton & Rose
+5100480	Nopalea cochenillifera (L.) Salm-Dyck
+5100257	Nopalea gaumeri Britton & Rose
+5100259	Nopalea inaperta Schott ex Griffiths
+5108313	Opuntia crystalenia Griffiths
+5100267	Opuntia eichlamii Rose
+5108236	Opuntia tehuantepecana (Bravo) Bravo
+100404879	Peniocereus canoensis P. House, Gómez-Hin. & H.M. Hern.
+50315697	Peniocereus chiapensis (Bravo) Gómez-Hin. & H.M. Hern.
+27910096	Pentodon pentandrus Vatke
+40004136	Pentodon Hochst.
+33700979	Phyla betulifolia (Kunth) Greene
+33700038	Phyla nodiflora (L.) Greene
+40007402	Phyla Lour.
+27903408	Psychotria olgae Dwyer & M.V. Hayden
+40019204	Psychotria L.
+42000278	Apocynaceae Juss.
+50305200	Heliotropiaceae Schrad.

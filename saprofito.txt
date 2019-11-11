@@ -1,0 +1,44 @@
+NameID	Name
+40018133	Apteria Nutt.
+50082570	Bdallophytum americanum (R. Br.) Eichler ex Solms
+4600030	Cymbocarpa refracta Miers
+40019808	Cymbocarpa Miers
+4600006	Dictyostega orobanchoides (Hook.) Miers
+4600032	Dictyostega orobanchoides subsp. orobanchoides 
+4600034	Dictyostega orobanchoides subsp. purdieana (Benth.) Snelders & Maas
+40030431	Dictyostega Miers
+12800056	Euphorbia tirucalli L.
+4600035	Gymnosiphon brachycephalus Snelders & Maas
+4600009	Gymnosiphon breviflorus Gleason
+4600012	Gymnosiphon divaricatus (Benth.) Benth. & Hook. f.
+4600064	Gymnosiphon minutus Snelders & Maas
+4600036	Gymnosiphon panamensis Jonker
+4600037	Gymnosiphon suaveolens (H. Karst.) Urb.
+4600038	Gymnosiphon tenellus (Benth.) Urb.
+40019034	Gymnosiphon Blume
+17300001	Lacandonia schismatica E. Martínez & Ramos
+40036814	Lacandonia E. Martínez & Ramos
+32800005	Sciaphila albescens Benth.
+32800006	Sciaphila picta Miers
+40033286	Sciaphila Blume
+32800009	Soridium spruceanum Miers
+40002226	Soridium Miers
+40013419	Thismia Griff.
+32800088	Triuris brevistylis Donn. Sm.
+40019752	Triuris Miers
+13800646	Voyria alba (Standl.) L.O. Williams
+13800604	Voyria aphylla (Jacq.) Pers.
+13800605	Voyria aurantiaca Splitg.
+13800608	Voyria flavescens Griseb.
+13801983	Voyria kupperi (Suess.) Ruyters & Maas
+13801347	Voyria parasitica (Schltdl. & Cham.) Ruyters & Maas
+13800610	Voyria pulcherrima (Standl.) L.O. Williams
+13800611	Voyria spruceana Benth.
+13800612	Voyria tenella Hook.
+13800613	Voyria truncata (Standl.) Standl. & Steyerm.
+40025027	Voyria Aubl.
+40025031	Voyriella (Miq.) Miq.
+13800614	Voyriella parviflora (Miq.) Miq.
+42000386	Burmanniaceae Blume
+42000438	Lacandoniaceae E. Martínez & Ramos
+42000338	Triuridaceae Gardner

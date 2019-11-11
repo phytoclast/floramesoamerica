@@ -1,0 +1,3431 @@
+NameID	Name
+13076079	Abarema adenophora (Ducke) Barneby & J.W. Grimes
+13071729	Abarema barbouriana (Standl.) Barneby & J.W. Grimes
+13076345	Abarema idiopoda (S.F. Blake) Barneby & J.W. Grimes
+50052106	Abarema macradenia (Pittier) Barneby & J.W. Grimes
+50095983	Abarema oxyphyllidia Barneby & J.W. Grimes
+50076989	Abarema racemiflora (Donn. Sm.) Barneby & J.W. Grimes
+50095868	Abarema zolleriana (Standl. & Steyerm.) Barneby & J.W. Grimes
+40002736	Abarema Pittier
+24900640	Abies guatemalensis Rehder
+40002848	Abies Mill.
+13000010	Acacia acatlensis Benth.
+13001964	Acacia allenii D.H. Janzen
+50161335	Acacia aristeguietana L. Cárdenas
+50309395	Acacia californica subsp. pringlei (Rose) L. Rico
+50282465	Acacia cedilloi L. Rico
+13000062	Acacia centralis (Britton & Rose) Lundell
+13000064	Acacia chiapensis Saff.
+13023780	Acacia cochliacantha Humb. & Bonpl. ex Willd.
+13000067	Acacia collinsii Saff.
+13000073	Acacia cookii Saff.
+13023804	Acacia cornigera (L.) Willd.
+13000094	Acacia dolichostachya S.F. Blake
+13023942	Acacia farnesiana (L.) Willd.
+13071162	Acacia farnesiana var. farnesiana 
+13071163	Acacia farnesiana var. guanacastensis H.D. Clarke, Seigler & Ebinger
+13000123	Acacia gaumeri S.F. Blake
+13000124	Acacia gentlei Standl.
+13000128	Acacia globulifera Saff.
+13000145	Acacia hindsii Benth.
+13069226	Acacia janzenii Ebinger & Seigler
+13004152	Acacia macracantha Humb. & Bonpl. ex Willd.
+13024208	Acacia mangium Willd.
+13037667	Acacia mayana Lundell
+13004166	Acacia melanoceras Beurl.
+13024220	Acacia melanoxylon R. Br.
+13040593	Acacia mirandae L. Rico
+13004178	Acacia multipinnata Ducke
+13024334	Acacia pennatula (Schltdl. & Cham.) Benth.
+13004202	Acacia picachensis Brandegee
+13004210	Acacia polyphylla DC.
+13004227	Acacia riparia Kunth
+13001976	Acacia ruddiae D.H. Janzen
+13024614	Acacia tenuifolia (L.) Willd.
+13004280	Acacia usumacintensis Lundell
+40003076	Acacia Mill.
+13004299	Acaciella angustissima (Mill.) Britton & Rose
+50278681	Acaciella angustissima var. angustissima 
+40030129	Acanthosyris (Eichler) Griseb.
+50103134	Acanthosyris annonagustata C. Ulloa & P. Jørg.
+200001	Acer negundo L.
+50293405	Acer saccharum subsp. skutchii (Rehder) A.E. Murray
+200019	Acer skutchii Rehder
+40030257	Acer L.
+24800173	Achatocarpus nigricans Triana
+40030394	Achatocarpus Triana
+13046455	Acrocarpus fraxinifolius Arn.
+50135905	Adonidia merrillii (Becc.) Becc.
+33701090	Aegiphila anomala Pittier
+33701092	Aegiphila costaricensis Moldenke
+33701093	Aegiphila deppeana Steud.
+33700887	Aegiphila elata Sw.
+33701094	Aegiphila falcata Donn. Sm.
+33702447	Aegiphila fasciculata Donn. Sm.
+33700069	Aegiphila hastingsiana Moldenke
+33701096	Aegiphila hoehnei Moldenke
+33701065	Aegiphila integrifolia (Jacq.) B.D. Jacks.
+33700073	Aegiphila laeta Kunth
+33700889	Aegiphila martinicensis Jacq.
+33700080	Aegiphila mollis Kunth
+33702450	Aegiphila monstrosa Moldenke
+33701101	Aegiphila odontophylla Donn. Sm.
+33701102	Aegiphila panamensis Moldenke
+33702451	Aegiphila skutchii Moldenke
+33702453	Aegiphila valerii Standl.
+33702489	Aegiphila wigandioides Lundell
+40033232	Aegiphila Jacq.
+28100016	Aegle marmelos (L.) Corrêa
+40033244	Aegle Corrêa
+40034027	Agarista D. Don ex G. Don
+2712269	Ageratina ligustrina (DC.) R.M. King & H.Rob.
+2712279	Ageratina mairetiana (DC.) R.M. King & H.Rob.
+50235904	Agouticarpa curviflora (Dwyer) C.H. Perss.
+50235939	Agouticarpa williamsii (Standl.) C.H. Perss.
+50235810	Agouticarpa C.H. Perss.
+13007698	Albizia adinocephala (Donn. Sm.) Britton & Rose ex Record
+13007700	Albizia carbonaria Britton
+50228004	Albizia duckeana L. Rico
+13002026	Albizia guachapele (Kunth) Dugand
+13025049	Albizia lebbeck (L.) Benth.
+50007167	Albizia leucocalyx (Britton & Rose) L. Rico
+13007716	Albizia niopoides (Spruce ex Benth.) Burkart
+13007718	Albizia occidentalis Brandegee
+50336937	Albizia occidentalis var. plurijuga (Standl.) L. Rico & Gale
+50072427	Albizia pedicellaris (DC.) L. Rico
+13025078	Albizia procera (Roxb.) Benth.
+13047059	Albizia tomentosa (Micheli) Standl.
+100468871	Albizia tomentosa var. purpusii (Britton & Rose) L. Rico & S.L. Gale
+50290525	Albizia xerophytica J. Linares
+40009232	Albizia Durazz.
+12800004	Aleurites moluccanus (L.) Willd.
+50275538	Alibertia atlantica (Dwyer) Delprete & C.H. Perss.
+27900257	Alibertia bertierifolia K. Schum.
+100367231	Alibertia dwyeri Delprete & C.H. Perss.
+27900261	Alibertia edulis (Rich.) A. Rich.
+50270864	Alibertia edulis var. edulis 
+50275537	Alibertia patinoi (Cuatrec.) Delprete & C.H. Perss.
+50068417	Alibertia utleyorum (Dwyer) C.M. Taylor
+40009754	Alibertia A. Rich. ex DC.
+27900293	Allenanthus erythrocarpus Standl.
+27900294	Allenanthus hondurensis Standl.
+50107226	Allenanthus hondurensis var. hondurensis 
+27905958	Allenanthus hondurensis var. parvifolia L.O. Williams
+40010085	Allenanthus Standl.
+3600081	Alnus acuminata Kunth
+40010579	Alnus Mill.
+27903143	Alseis blackiana Hemsl.
+50223467	Alseis costaricensis C.M. Taylor
+27900298	Alseis hondurensis Standl.
+27900307	Alseis yucatanensis Standl.
+40010799	Alseis Schott
+26606642	Alsophila cuspidata (Kunze) D.S. Conant
+26606637	Alsophila erinacea (H. Karst.) D.S. Conant
+26615236	Alsophila erinacea var. erinacea 
+26608813	Alsophila firma (Baker) D.S. Conant
+26613761	Alsophila imrayana (Hook.) D.S. Conant
+26616728	Alsophila imrayana var. basilaris (Christ) Lellinger
+26616733	Alsophila polystichoides Christ
+26606996	Alsophila salvinii Hook.
+26616736	Alsophila tryoniana (G.J. Gastony) D.S. Conant
+40010938	Alsophila R. Br.
+1803617	Alstonia longifolia (A. DC.) Pichon
+40010957	Alstonia R. Br.
+1000001	Alzatea verticillata Ruiz & Pav.
+1000002	Alzatea verticillata subsp. amplifolia S.A. Graham
+40011178	Alzatea Ruiz & Pav.
+100386207	Amaioua glomerulata (Lam. ex Poir.) Delprete & C.H. Perss.
+27903145	Amaioua magnicarpa Dwyer
+27903146	Amaioua pedicellata Dwyer
+40011193	Amaioua Aubl.
+50284921	Ambrosiinae Less.
+33300107	Ampelocera hottlei (Standl.) Standl.
+33300298	Ampelocera macphersonii Todzia
+33300274	Ampelocera macrocarpa Forero & A.H. Gentry
+40012323	Ampelocera Klotzsch
+16800004	Amphipterygium adstringens (Schltdl.) Standl.
+28100051	Amyris attenuata Standl.
+28100393	Amyris balsamifera L.
+28101332	Amyris chiapensis Lundell
+28100054	Amyris costaricensis Standl.
+28100577	Amyris guatemalensis Lundell
+50254218	Amyris magnifolia Gómez-Laur. & Q. Jiménez
+50105865	Amyris oblanceolata A. Pool
+28100583	Amyris pinnata Kunth
+28101292	Amyris sylvatica Jacq.
+28100063	Amyris vestita Lundell
+40012948	Amyris P. Browne
+1300006	Anacardium occidentale L.
+40013027	Anacardium L.
+13015689	Andira galeottiana Standl.
+13048538	Andira inermis (W. Wright) Kunth ex DC.
+13071027	Andira inermis subsp. inermis 
+50230778	Andira taurotesticulata R.T. Penn.
+40013896	Andira Lam.
+50064102	Angostura granulosa (Kallunki) Kallunki
+40014668	Angostura Roem. & Schult.
+1600802	Annona acuminata Saff.
+50303021	Annona billbergii R.E. Fr.
+100437623	Annona caesia G.E. Schatz, C.A. Ramos & O. Ortiz
+1600780	Annona cherimola Mill.
+1601312	Annona diversifolia Saff.
+1600001	Annona muricata L.
+1600671	Annona reticulata L.
+1600100	Annona spraguei Saff.
+1600002	Annona squamosa L.
+40015439	Annona L.
+40016327	Anthodiscus G. Mey.
+32200077	Apeiba membranacea Spruce ex Benth.
+40017154	Apeiba Aubl.
+33300221	Aphananthe monoica (Hemsl.) J.-F. Leroy
+40017256	Aphananthe Planch.
+13047084	Apoplanesia paniculata C. Presl
+40017946	Apoplanesia C. Presl
+27911007	Arachnothryx brenesii (Standl.) Borhidi
+50216139	Arachnothryx chaconii (Lorence) Borhidi
+50216140	Arachnothryx dwyeri (Lorence) Borhidi
+27911040	Arachnothryx galeottii (Standl.) Borhidi
+27911062	Arachnothryx linguiformis (Hemsl.) Borhidi
+27911071	Arachnothryx myriantha (Standl. & Steyerm.) Borhidi
+27911073	Arachnothryx nebulosa (Standl.) Borhidi
+40018420	Arachnothryx Planch.
+2300003	Araucaria angustifolia (Bertol.) Kuntze
+2300010	Araucaria araucana (Molina) K. Koch
+2300011	Araucaria bidwillii Hook.
+40018534	Araucaria Juss.
+40018561	Arbutus L.
+22001011	Ardisia albisepala (Lundell) Pipoly & Ricketson
+22000665	Ardisia amanuensis Lundell
+50220327	Ardisia angucianensis Ricketson & Pipoly
+22000023	Ardisia bracteosa A. DC.
+22001018	Ardisia breedlovei Lundell
+22000026	Ardisia brevis Lundell
+22000036	Ardisia colombiana Lundell
+22000037	Ardisia coloradoana Lundell
+22000038	Ardisia compressa Kunth
+22000040	Ardisia conglomerata Lundell
+22001026	Ardisia cookii Lundell
+22000583	Ardisia copeyana Standl.
+22000932	Ardisia costaricensis Lundell
+22000042	Ardisia crassipedicellata Lundell
+22000585	Ardisia crassipes Lundell
+22001383	Ardisia crassiramea Standl.
+22000043	Ardisia croatii Lundell
+50235252	Ardisia croatii subsp. croatii 
+50220316	Ardisia croatii subsp. correae (Lundell) Ricketson & Pipoly
+22001443	Ardisia cuspidata Benth.
+22000586	Ardisia darienensis Lundell
+22000587	Ardisia dukei Lundell
+22001388	Ardisia dunlapiana P.H. Allen
+22001134	Ardisia elliptica Thunb.
+22000538	Ardisia escallonioides Schltdl. & Cham.
+22000589	Ardisia fendleri Lundell
+22000053	Ardisia fimbrillifera Lundell
+22000056	Ardisia foetida Willd. ex Roem. & Schult.
+22000591	Ardisia furfuracella Standl.
+50242061	Ardisia furfuracella subsp. furfuracella 
+50242060	Ardisia furfuracella subsp. veraguasensis (Lundell) Pipoly & Ricketson
+50220324	Ardisia generalensis Ricketson & Pipoly
+22000592	Ardisia geniculata Lundell
+50220333	Ardisia gigantea Ricketson & Pipoly
+22000595	Ardisia guancheana Lundell
+22000596	Ardisia guianensis (Aubl.) Mez
+50242057	Ardisia herrerana Pipoly & Ricketson
+22000071	Ardisia irasuensis Oerst.
+22000073	Ardisia jefeana Lundell
+22001223	Ardisia liesneri Lundell
+22001226	Ardisia longicaudata Lundell
+22001588	Ardisia lundelliana Pipoly
+22000600	Ardisia maxonii Standl.
+22000601	Ardisia megistophylla Lundell
+22001240	Ardisia mexicana Lundell
+50285359	Ardisia mexicana subsp. mexicana 
+50281621	Ardisia mexicana subsp. siltepecana (Lundell) Pipoly & Ricketson
+22000087	Ardisia nigropunctata Oerst.
+22000606	Ardisia opaca Lundell
+22000607	Ardisia palmana Donn. Sm.
+22000092	Ardisia paschalis Donn. Sm.
+22000094	Ardisia perinsignis Lundell
+22000613	Ardisia pleurobotrya Donn. Sm.
+22000101	Ardisia pulverulenta Mez
+22000104	Ardisia revoluta Kunth
+22000683	Ardisia rigidifolia Lundell
+50220317	Ardisia ruedae Ricketson & Pipoly
+22000618	Ardisia scheryi Lundell
+22000119	Ardisia storkii Lundell
+22001335	Ardisia subcrenulata Lundell
+22000620	Ardisia subsessilifolia Lundell
+22000126	Ardisia tysonii Lundell
+22001358	Ardisia unguiensis Lundell
+22000624	Ardisia ursina Lundell
+40018922	Ardisia Sw.
+2500318	Aristolochia arborea Linden
+2500132	Aristolochia steyermarkii Standl.
+50207841	Aristolochia tricaudata Lem.
+21300472	Artocarpus altilis (Parkinson) Fosberg
+21300871	Artocarpus heterophyllus Lam.
+40020327	Artocarpus J.R. Forst. & G. Forst.
+100469063	Aspidosperma crypticum J.F. Morales & N. Zamora
+1800830	Aspidosperma darienense Woodson ex Dwyer
+1800106	Aspidosperma desmanthum Benth. ex Müll. Arg.
+1800114	Aspidosperma excelsum Benth.
+1802200	Aspidosperma megalocarpon Müll. Arg.
+1803184	Aspidosperma myristicifolium (Markgr.) Woodson
+1805072	Aspidosperma rigidum Rusby
+40021014	Aspidosperma Mart. & Zucc.
+50136751	Atalantia citroides Pierre ex Guillaumin
+40022014	Atalantia Corrêa
+40022090	Ateleia (DC.) Benth.
+13017404	Ateleia albolutescens Mohlenbr.
+50200886	Ateleia chicoasensis J. Linares
+13017407	Ateleia cubensis Griseb.
+50200884	Ateleia glabrata J. Linares
+13017410	Ateleia herbert-smithii Pittier
+50200882	Ateleia hexandra J. Linares
+50200879	Ateleia martinezii J. Linares
+50200881	Ateleia nicaraguensis J. Linares
+13064871	Ateleia pterocarpa Moc. & Sessé ex D. Dietr.
+50200883	Ateleia tenorioi J. Linares
+13002103	Ateleia tomentosa Rudd
+2401432	Attalea butyracea (Mutis ex L. f.) Wess. Boer
+50112389	Attalea cohune Mart.
+50225126	Attalea lundellii (Bartlett) Zona
+40022538	Attalea Kunth
+20400352	Azadirachta indica A. Juss.
+40023528	Azadirachta A. Juss.
+2400230	Bactris gasipaes Kunth
+40023783	Bactris Jacq. ex Scop.
+27905962	Balmea stormiae Martínez
+40024343	Balmea Martínez
+25518522	Bambusa bambos (L.) Voss
+25518584	Bambusa longispiculata Gamble ex Brandis
+25509331	Bambusa vulgaris Schrad. ex J.C. Wendl.
+40024476	Bambusa Schreb.
+100016	Barleria cristata L.
+50152178	Barnebydendron riedelii (Tul.) J.H. Kirkbr.
+50153076	Barnebydendron J.H. Kirkbr.
+21300021	Batocarpus costaricensis Standl. & L.O. Williams
+40025492	Batocarpus H. Karst.
+13000872	Bauhinia monandra Kurz
+13000878	Bauhinia pansamalana Donn. Sm.
+13000895	Bauhinia ramosissima Benth. ex Hemsl.
+50336925	Bauhinia wunderlinii R. Torres
+18404173	Beaucarnea goldmanii Rose
+18404048	Beaucarnea guatemalensis Rose
+18404172	Beaucarnea pliabilis (Baker) Rose
+40025725	Beaucarnea Lem.
+12300110	Bejaria aestuans Mutis ex L.
+50142311	Bejaria Mutis
+20302605	Bellucia grossularioides (L.) Triana
+20300363	Bellucia pentamera Naudin
+40026259	Bellucia Neck. ex Raf.
+3900004	Bernoullia flammea Oliv.
+40026870	Bernoullia Oliv.
+50001416	Berrya cubensis (Griseb.) M. Gómez
+40026904	Berrya Roxb.
+3800005	Bixa orellana L.
+3800006	Bixa urucurana Willd.
+40027835	Bixa L.
+20303897	Blakea chlorantha Almeda
+20302609	Blakea crinita Gleason
+20303924	Blakea cuatrecasasii Gleason
+20300373	Blakea cuneata Standl.
+20303294	Blakea purpusii Brandegee
+20300386	Blakea repens (Ruiz & Pav.) D. Don
+50153559	Blakea storkii (Standl.) Almeda
+50153560	Blakea wilsoniorum Almeda
+40027946	Blakea P. Browne
+27905963	Blepharidium guatemalense Standl.
+40028194	Blepharidium Standl.
+28600002	Blighia sapida K.D. Koenig
+40028323	Blighia K.D. Koenig
+40028379	Blomia Miranda
+33400436	Boehmeria caudata Sw.
+33400053	Boehmeria celtidifolia Kunth
+33400061	Boehmeria pavonii Wedd.
+33400746	Boehmeria radiata W.C. Burger
+33400492	Boehmeria ulmifolia Wedd.
+21600009	Bontia daphnoides L.
+40029373	Bontia L.
+50136950	Bouea macrophylla Griff.
+40030029	Bouea Meisn.
+4001994	Bourreria andrieuxii (DC.) Hemsl.
+4001209	Bourreria costaricensis (Standl.) A.H. Gentry
+50109636	Bourreria grandicalyx J.S. Mill. & Sirot
+50265772	Bourreria grayumii Gottschling & J.S. Mill.
+4001995	Bourreria huanita (Lex.) Hemsl.
+4001996	Bourreria mollis Standl.
+50276339	Bourreria motaguensis Véliz, G. Campos & J.S. Mill.
+4002067	Bourreria pulchra (Millsp.) Millsp.
+4000232	Bourreria quirosii Standl.
+50146218	Bourreria rinconensis J.S. Mill.
+100447506	Bourreria tuxtlae G. Campos & F. Chiang
+40030102	Bourreria P. Browne
+2401367	Brahea nitida André
+21300572	Brosimum alicastrum subsp. bolivarense (Pittier) C.C. Berg
+21300476	Brosimum alicastrum Sw.
+21301945	Brosimum alicastrum subsp. alicastrum 
+21300523	Brosimum guianense (Aubl.) Huber
+21300575	Brosimum lactescens (S. Moore) C.C. Berg
+21300043	Brosimum rubescens Taub.
+21301947	Brosimum utile subsp. utile 
+21302120	Brosimum utile subsp. allenii (Woodson) C.C. Berg
+50103350	Brosimum utile subsp. darienense C.C. Berg
+40031957	Brosimum Sw.
+50099380	Brownea rosa-de-monte P.J. Bergius
+29602998	Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & C. Presl
+29603000	Brunfelsia undulata Sw.
+8200812	Buchenavia costaricensis Stace
+8200492	Buchenavia tetraphylla (Aubl.) R.A. Howard
+40032621	Buchenavia Eichler
+100408719	Bunchosia breedlovei W.R. Anderson
+19501632	Bunchosia veluticarpa W.R. Anderson
+4700004	Bursera ariensis (Kunth) McVaugh & Rzed.
+4700022	Bursera heteresthes Bullock
+4700585	Bursera inversa Daly
+4700375	Bursera itzae Lundell
+4700376	Bursera longicuspis Lundell
+4700594	Bursera longipes (Rose) Standl.
+4700586	Bursera ovalifolia (Schltdl.) Engl.
+4700031	Bursera palmeri S. Watson
+4700407	Bursera penicillata (DC.) Engl.
+4700231	Bursera simaruba (L.) Sarg.
+4700377	Bursera simaruba var. yucatanensis Lundell
+4700482	Bursera standleyana L.O. Williams & Cuatrec.
+40033518	Bursera Jacq. ex L.
+19501278	Byrsonima bucidifolia Standl.
+40033805	Byrsonima Rich. ex Kunth
+13027641	Caesalpinia pulcherrima (L.) Sw.
+13003332	Caesalpinia velutina (Britton & Rose) Standl.
+40034910	Calliandra Benth.
+33700103	Callicarpa acuminata Kunth
+40034947	Callicarpa L.
+22102074	Callistemon salignus (Sm.) Sweet
+22103907	Callistemon viminalis (Sol. ex Gaertn.) G. Don
+40035180	Callistemon R. Br.
+7800684	Calophyllum inophyllum L.
+22102076	Calycolpus warszewiczianus O. Berg
+40035838	Calycolpus O. Berg
+27903157	Calycophyllum candidissimum (Vahl) DC.
+40035864	Calycophyllum DC.
+50160720	Calyptranthes amarulenta B. Holst
+22102467	Calyptranthes bartlettii Standl.
+22102435	Calyptranthes calderonii Standl.
+22102505	Calyptranthes chiapensis Lundell
+22102077	Calyptranthes chytraculia (L.) Sw.
+22102506	Calyptranthes chytraculia var. americana McVaugh
+22102507	Calyptranthes contrerasii Lundell
+22102508	Calyptranthes cuneifolia Lundell
+50270205	Calyptranthes elliptica B. Holst & M.L. Kawas.
+22102079	Calyptranthes hylobates Standl. ex Amshoff
+22102578	Calyptranthes izabalana Lundell
+50270207	Calyptranthes jefensis B. Holst & M.L. Kawas.
+22102080	Calyptranthes johnstonii McVaugh
+50270208	Calyptranthes longicalyptrata B. Holst & M.L. Kawas.
+22100302	Calyptranthes lucida Mart. ex DC.
+50270209	Calyptranthes macrocarpa B. Holst & M.L. Kawas.
+22102592	Calyptranthes mayana Lundell
+22101622	Calyptranthes megistophylla Standl.
+50270210	Calyptranthes microphylla B. Holst & M.L. Kawas.
+22102406	Calyptranthes millspaughii Urb.
+50273924	Calyptranthes monteverdensis P.E. Sánchez
+22101805	Calyptranthes pallens Griseb.
+22102359	Calyptranthes pendula O. Berg
+22102512	Calyptranthes perlaevigata Lundell
+22102454	Calyptranthes pittieri Standl.
+50316436	Calyptranthes sp. b 
+22102581	Calyptranthes tonii Lundell
+22102082	Calyptranthes tumidonodia Schery
+22102513	Calyptranthes zanquinensis Ant. Molina
+40036073	Calyptranthes Sw.
+1300303	Campnosperma panamense Standl.
+40000181	Campnosperma Thwaites
+40000562	Cananga (Dunal) Hook. f. & Thomson
+1600664	Cananga odorata (Lam.) Hook. f. & Thomson
+4700233	Canarium commune L.
+4700331	Canarium edule (G. Don) Hook. f.
+50136762	Canarium moluccanum Blume
+50136763	Canarium ovatum Engl.
+4700327	Canarium pimela K.D. Koenig
+100304748	Canarium vulgare Leenh.
+40000597	Canarium L.
+5600007	Canella winterana (L.) Gaertn.
+40000686	Canella P. Browne
+50326094	Caphexandra heydeana (Donn. Sm.) Iltis & Cornejo
+50326093	Caphexandra Iltis & Cornejo
+40000973	Capparidastrum (DC.) Hutch.
+50335185	Capparidastrum discolor (Donn. Sm.) Cornejo & Iltis
+50326091	Capparidastrum frondosum (Jacq.) Cornejo & Iltis
+50333941	Capparidastrum mollicellum (Standl.) Cornejo & Iltis
+50333942	Capparidastrum quiriguense (Standl.) Cornejo & Iltis
+6100032	Carica papaya L.
+40001481	Carica L.
+17900284	Cariniana pyriformis Miers
+40001504	Cariniana Casar.
+3600191	Carpinus tropicalis (Donn. Sm.) Lundell
+40001762	Carpinus L.
+16700024	Carya illinoinensis (Wangenh.) K. Koch
+2401122	Caryota urens L.
+40002149	Caryota L.
+50290527	Casearia sanchezii J. Linares & D. Angulo F.
+100352241	Casimiroa dura A. Pool & Coronado
+28101293	Casimiroa edulis La Llave
+28100066	Casimiroa emarginata Standl. & Steyerm.
+28100067	Casimiroa sapota Oerst.
+28100068	Casimiroa tetrameria Millsp.
+40002245	Casimiroa La Llave
+13028064	Cassia fistula L.
+13028120	Cassia grandis L. f.
+13028161	Cassia javanica L.
+13048421	Cassia javanica var. indochinensis Gagnep.
+13028253	Cassia moschata Kunth
+40002316	Cassia L.
+27600062	Cassipourea elliptica (Sw.) Poir.
+27600005	Cassipourea killipii Cuatrec.
+40002371	Cassipourea Aubl.
+21300578	Castilla elastica Sessé ex Cerv.
+21301950	Castilla elastica subsp. elastica 
+21301234	Castilla elastica subsp. costaricana (Liebm.) C.C. Berg
+21300580	Castilla tunu Hemsl.
+40002514	Castilla Cerv.
+6400005	Casuarina cunninghamiana Miq.
+3900058	Cavanillesia platanifolia (Bonpl.) Kunth
+40003195	Cavanillesia Ruiz & Pav.
+40003256	Ceanothus L.
+21300047	Cecropia angustifolia Trécul
+21300581	Cecropia garciae Standl.
+21301956	Cecropia heterochroma C.C. Berg & P. Franco
+21300582	Cecropia hispidissima Cuatrec.
+21300583	Cecropia insignis Liebm.
+21300584	Cecropia longipes Pittier
+21300085	Cecropia membranacea Trécul
+21300586	Cecropia obtusifolia Bertol.
+21300477	Cecropia peltata L.
+21301253	Cecropia pittieri B.L. Rob.
+21301320	Cecropia reticulata Cuatrec.
+21301334	Cecropia virgusa Cuatrec.
+40003290	Cecropia Loefl.
+3900202	Ceiba aesculifolia (Kunth) Britten & Baker f.
+50257708	Ceiba aesculifolia subsp. aesculifolia 
+3900422	Ceiba pentandra (L.) Gaertn.
+3900069	Ceiba schottii Britten & Baker f.
+50257710	Ceiba soluta (Donn. Sm.) Ravenna
+40003347	Ceiba Mill.
+100396266	Celastroideae Burnett
+33300197	Celtis caudata Planch.
+33300043	Celtis schippii Standl.
+40003441	Celtis L.
+13008030	Centrolobium yavizanum Pittier
+40003721	Centrolobium Mart. ex Benth.
+13028557	Cercis canadensis L.
+40004661	Cercis L.
+22103158	Chamguava gentlei (Lundell) Landrum
+22103159	Chamguava gentlei var. gentlei 
+22103160	Chamguava gentlei var. apodantha (Standl.) Landrum
+22103162	Chamguava musarum (Standl. & Steyerm.) Landrum
+22103164	Chamguava schippii (Standl.) Landrum
+40037266	Chamguava Landrum
+15600252	Cheiloclinium cognatum (Miers) A.C. Sm.
+40006409	Cheiloclinium Miers
+27900617	Chimarrhis latifolia Standl.
+27900618	Chimarrhis parviflora Standl.
+40007041	Chimarrhis Jacq.
+27905969	Chiococca pachyphylla Wernham
+27905970	Chiococca semipilosa Standl. & Steyerm.
+27906513	Chiococca sessilifolia Miranda
+40007077	Chiococca P. Browne
+23000339	Chionanthus ligustrinus (Sw.) Pers.
+23000189	Chionanthus panamensis (Standl.) Stearn
+40007107	Chionanthus L.
+27903097	Chione venosa (Sw.) Urb.
+50211008	Chione venosa var. venosa 
+50211007	Chione venosa var. buxifolia (Dwyer & M.V. Hayden) David W. Taylor
+40007111	Chione DC.
+3900594	Chiranthodendron pentadactylon Larreat.
+40007194	Chiranthodendron Larreat.
+40007581	Chloroleucon (Benth.) Britton & Rose
+13008139	Chloroleucon mangense (Jacq.) Britton & Rose
+50096005	Chloroleucon mangense var. mangense 
+50096008	Chloroleucon mangense var. leucospermum (Brandegee) Barneby & J.W. Grimes
+27906514	Chomelia brachypoda Donn. Sm.
+50335038	Chomelia breedlovei Borhidi
+27903186	Chomelia grandicarpa Dwyer
+27909323	Chomelia microloba Donn. Sm.
+27906515	Chomelia protracta (Bartl. ex DC.) Standl.
+27903192	Chomelia recordii Standl.
+50184658	Chomelia rubra Lorence & C.M. Taylor
+50090270	Chomelia rudis (Standl.) Lorence
+27903195	Chomelia spinosa Jacq.
+27900636	Chomelia tenuiflora Benth.
+27912212	Chomelia venulosa W.C. Burger & C.M. Taylor
+40007776	Chomelia Jacq.
+32200087	Christiana africana DC.
+40008232	Christiana DC.
+28700667	Chrysophyllum argenteum Jacq.
+28700729	Chrysophyllum argenteum subsp. panamense (Pittier) T.D. Penn.
+28701090	Chrysophyllum brenesii Cronquist
+28700679	Chrysophyllum cainito L.
+28700714	Chrysophyllum colombianum (Aubrév.) T.D. Penn.
+28700408	Chrysophyllum hirsutum Cronquist
+28700727	Chrysophyllum lucentifolium Cronquist
+28700191	Chrysophyllum mexicanum Brandegee ex Standl.
+28700581	Chrysophyllum prieurii A. DC.
+28700725	Chrysophyllum venezuelanense (Pierre) T.D. Penn.
+40008631	Chrysophyllum L.
+26607094	Cibotium regale Verschaff. & Lem.
+40008912	Cibotium Kaulf.
+27900154	Cinchona calisaya Wedd.
+40009072	Cinchona L.
+100393910	Cinnamomum ampullaceum Lorea-Hern.
+17803269	Cinnamomum areolatum (Lundell) Kosterm.
+17804559	Cinnamomum breedlovei (Lundell) Kosterm.
+17803275	Cinnamomum brenesii (Standl.) Kosterm.
+17805257	Cinnamomum camphora (L.) J. Presl
+17805255	Cinnamomum cassia (L.) J. Presl
+17804575	Cinnamomum chavarrianum (Hammel) Kosterm.
+17803277	Cinnamomum chiapense (Lundell) Kosterm.
+50158905	Cinnamomum concinnum Lorea-Hern.
+17803280	Cinnamomum costaricanum (Mez & Pittier) Kosterm.
+50080604	Cinnamomum grisebachii Lorea-Hern.
+50086355	Cinnamomum hammelianum (W.C. Burger) Lorea-Hern. ex J.Á. González & Hammel
+17803303	Cinnamomum neurophyllum (Mez & Pittier) Kosterm.
+17803306	Cinnamomum padiforme (Standl. & Steyerm.) Kosterm.
+50074409	Cinnamomum paratriplinerve Lorea-Hern.
+17803332	Cinnamomum tonduzii (Mez) Kosterm.
+100311624	Cinnamomum trinerve (Lundell) Kosterm.
+17803333	Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.
+17800682	Cinnamomum verum J. Presl
+50158907	Cinnamomum zapatae Lorea-Hern.
+40009124	Cinnamomum Schaeff.
+33702632	Citharexylum affine D. Don
+33700901	Citharexylum caudatum L.
+33701109	Citharexylum cooperi Standl.
+33703043	Citharexylum costaricense Moldenke
+33702457	Citharexylum crassifolium Greenm.
+33701110	Citharexylum donnell-smithii Greenm.
+33702458	Citharexylum guatemalense (Moldenke) D.N. Gibson
+33702459	Citharexylum hexangulare Greenm.
+33701111	Citharexylum hirtellum Standl.
+33701114	Citharexylum macradenium Greenm.
+33701115	Citharexylum macrochlamys Pittier
+33702460	Citharexylum mocinnoi D. Don
+33702523	Citharexylum schottii Greenm.
+33702463	Citharexylum steyermarkii Moldenke
+50009770	Citharexylum teclense Standl.
+40009390	Citharexylum L.
+28100572	Citrus reticulata Blanco
+40009461	Citrus L.
+40009737	Clarisia Ruiz & Pav.
+28101189	Clausena lansium (Lour.) Skeels
+40009816	Clausena Burm. f.
+50152076	Clethra chiapensis L.M. González
+7700010	Clethra consimilis Sleumer
+7700018	Clethra galeottiana Briq.
+7700120	Clethra gelida Standl.
+7700097	Clethra hondurensis Britton
+7700028	Clethra licanioides Standl. & Steyerm.
+7700033	Clethra mexicana DC.
+7700079	Clethra oleoides L.O. Williams
+7700039	Clethra pachecoana Standl. & Steyerm.
+50313967	Clethra purpusii L.M. González
+7700119	Clethra pyrogena Sleumer
+7700050	Clethra skutchii Standl. & Steyerm.
+7700053	Clethra suaveolens Turcz.
+50100834	Clethra talamancana C.W. Ham.
+7700064	Clethra tutensis C.W. Ham.
+7700057	Clethra vicentina Standl.
+40010273	Clethra L.
+13008186	Clitoria glaberrima Pittier
+40010528	Clitoria L.
+13040866	Clitoria subg. Bractearia (Mart. ex Benth.) Fantz
+26001039	Coccoloba acapulcensis Standl.
+26000215	Coccoloba acuminata Kunth
+26001040	Coccoloba ascendens Duss ex Lindau
+26001914	Coccoloba barbadensis Jacq.
+26000217	Coccoloba belizensis Standl.
+26001041	Coccoloba caracasana Meisn.
+26001915	Coccoloba chiapensis Standl.
+26002682	Coccoloba cholutecensis R.A. Howard
+26001042	Coccoloba coronata Jacq.
+26001804	Coccoloba cozumelensis Hemsl.
+26001043	Coccoloba darienensis R.A. Howard
+26000996	Coccoloba diversifolia Jacq.
+26001878	Coccoloba euvelutina Lundell
+100447647	Coccoloba floresii J.J. Ortíz & Arnelas
+26000235	Coccoloba floribunda (Benth.) Lindau
+26001866	Coccoloba guanacastensis W.C. Burger
+26001880	Coccoloba hirtella Lundell
+26001881	Coccoloba hondurensis Lundell
+26000242	Coccoloba humboldtii Meisn.
+26001045	Coccoloba johnstonii R.A. Howard
+26001046	Coccoloba lasseri Lundell
+26001047	Coccoloba lehmannii Lindau
+26000249	Coccoloba liebmannii Lindau
+26002609	Coccoloba lindaviana R.A. Howard
+26000251	Coccoloba lindeniana (Benth.) Lindau
+26001945	Coccoloba liportizii Gómez-Laur. & N. Zamora
+26000257	Coccoloba manzinellensis Beurl.
+26001809	Coccoloba montana Standl.
+50053220	Coccoloba nicaraguensis Standl. & L.O. Williams
+26000264	Coccoloba obovata Kunth
+26002681	Coccoloba ortizii R.A. Howard
+26000267	Coccoloba padiformis Meisn.
+26001048	Coccoloba parimensis Benth.
+26001943	Coccoloba porphyrostachys Gómez-Laur.
+26001810	Coccoloba reflexiflora Standl.
+26001812	Coccoloba spicata Lundell
+26002676	Coccoloba standleyana P.H. Allen
+26001003	Coccoloba swartzii Meisn.
+26001049	Coccoloba tuerckheimii Donn. Sm.
+100447732	Coccoloba tunii J.J. Ortíz & Arnelas
+26001004	Coccoloba uvifera (L.) L.
+26001005	Coccoloba venosa L.
+40010973	Coccoloba P. Browne
+2401536	Coccothrinax barbadensis (Lodd. ex Mart.) Becc.
+40011019	Coccothrinax Sarg.
+8000011	Cochlospermum orinocense (Kunth) Steud.
+8000014	Cochlospermum vitifolium (Willd.) Spreng.
+40011163	Cochlospermum Kunth
+2400007	Cocos nucifera L.
+40011204	Cocos L.
+12805421	Codiaeum variegatum (L.) Rumph. ex A. Juss.
+27900018	Coffea liberica W. Bull ex Hiern
+13008264	Cojoba arborea (L.) Britton & Rose
+13008265	Cojoba catenata (Donn. Sm.) Britton & Rose
+13008267	Cojoba costaricensis Britton & Rose
+50216347	Cojoba dariensis L. Rico
+13075890	Cojoba mariaelenae L. Rico
+13008273	Cojoba recordii Britton & Rose
+40011848	Cojoba Britton & Rose
+50210686	Colpothrinax aphanopetala R. Evans
+27500302	Colubrina arborescens (Mill.) Sarg.
+27500051	Colubrina celtidifolia (Schltdl. & Cham.) Schltdl.
+27500307	Colubrina elliptica (Sw.) Brizicky & W.L. Stern
+27500053	Colubrina glandulosa Perkins
+27500339	Colubrina spinosa Donn. Sm.
+100377491	Colubrina triflora Brongn. ex G. Don
+40012509	Colubrina Rich. ex Brongn.
+1300111	Comocladia guatemalensis Donn. Sm.
+100382864	Comocladia mayana Atha, J.D. Mitch. & Pell
+1300114	Comocladia mollissima Kunth
+40012931	Comocladia P. Browne
+40013006	Compsoneura (A. DC.) Warb.
+21800216	Compsoneura excelsa A.C. Sm.
+50201201	Compsoneura mexicana (Hemsl.) Janovec
+21800210	Compsoneura rigidifolia W.A. Rodrigues
+100436989	Conceveiba belizensis McPherson & B. Holst
+50050898	Conceveiba parvifolia McPherson
+12805377	Conceveiba pleiostemona Donn. Sm.
+50064104	Conchocarpus guyanensis (Pulle) Kallunki & Pirani
+50066174	Conchocarpus toxicarius (Spruce ex Engl.) Kallunki & Pirani
+50116198	Conchocarpus ucayalinus (Huber) Kallunki & Pirani
+40013122	Conchocarpus J.C. Mikan
+8400379	Connarus brachybotryosus Donn. Sm.
+40013310	Connarus L.
+50270339	Conocarpus erectus fo. sericeus (DC.) Stace
+8200192	Conocarpus erectus L.
+50270338	Conocarpus erectus fo. erectus 
+40013342	Conocarpus L.
+20302641	Conostegia chiriquensis Gleason
+20303929	Conostegia lasiopoda Benth.
+20303785	Conostegia pittieri Cogn.
+20303920	Conostegia rhodopetala Donn. Sm.
+20302647	Conostegia rufescens Naudin
+20303610	Conostegia setifera Standl.
+20302649	Conostegia tenuifolia Donn. Sm.
+20303309	Conostegia volcanalis Standl. & Steyerm.
+40013499	Conostegia D. Don
+13008360	Copaifera aromatica Dwyer
+13072226	Copaifera camibar Poveda, N. Zamora & P.E. Sánchez
+13008409	Copaifera panamensis (Britton) Standl.
+40013764	Copaifera L.
+4001123	Cordia alliodora (Ruiz & Pav.) Oken
+4001211	Cordia bicolor A. DC.
+50184976	Cordia cardenasiana J.S. Mill.
+4001127	Cordia collococca L.
+4001997	Cordia cordiformis I.M. Johnst.
+4001635	Cordia correae J.S. Mill.
+4001636	Cordia croatii J.S. Mill.
+4001646	Cordia cymosa (Donn. Sm.) Standl.
+4001215	Cordia dentata Poir.
+4000278	Cordia diversifolia Pav. ex A. DC.
+4000279	Cordia dodecandra DC.
+4001216	Cordia dwyeri Nowicke
+4002674	Cordia elaeagnoides DC.
+4001217	Cordia eriostigma Pittier
+4001998	Cordia gerascanthus L.
+4001659	Cordia leslieae J.S. Mill.
+4001221	Cordia lucidula I.M. Johnst.
+4001222	Cordia megalantha S.F. Blake
+4001223	Cordia panamensis L. Riley
+4002000	Cordia prunifolia I.M. Johnst.
+4002603	Cordia salvadorensis Standl.
+4002001	Cordia skutchii I.M. Johnst.
+4002002	Cordia stellifera I.M. Johnst.
+40014011	Cordia L.
+50270859	Cordiera garapatica (K. Schum.) Kuntze
+50270858	Cordiera longicaudata C.H. Perss. & Delprete
+50266095	Cordiera myrciifolia (K. Schum.) C.H. Perss. & Delprete
+40014033	Cordiera A. Rich.
+40037186	Cordyline Comm. ex R. Br.
+50289528	Coreopsideae Lindl.
+40014156	Coreopsis L.
+8700024	Cornus disciflora DC.
+8700026	Cornus peruviana J.F. Macbr.
+40014445	Cornus L.
+33700917	Cornutia pyramidata L.
+40014453	Cornutia L.
+27904043	Cosmibuena grandiflora (Ruiz & Pav.) Rusby
+27906389	Cosmibuena macrocarpa (Benth.) Klotzsch ex Walp.
+27905973	Cosmibuena matudae (Standl.) L.O. Williams
+27909344	Cosmibuena valerii (Standl.) C.M. Taylor
+40015058	Cosmibuena Ruiz & Pav.
+27900724	Cosmocalyx spectabilis Standl.
+40015083	Cosmocalyx Standl.
+1800812	Couma macrocarpa Barb. Rodr.
+40015427	Couma Aubl.
+17900026	Couratari guianensis Aubl.
+17900158	Couratari scottmorii Prance
+40015471	Couratari Aubl.
+17900004	Couroupita guianensis Aubl.
+17900163	Couroupita nicaraguarensis DC.
+40015527	Couroupita Aubl.
+13069142	Coursetia apantensis M. Sousa
+13069135	Coursetia elliptica M. Sousa & Rudd
+13008509	Coursetia polyphylla Brandegee
+13069076	Coursetia polyphylla var. acutifolia M. Sousa & Lavin
+13069077	Coursetia polyphylla var. breviloba M. Sousa & Lavin
+40015538	Coursetia DC.
+21300127	Coussapoa asperifolia Trécul
+21300589	Coussapoa brevipes Pittier
+21301255	Coussapoa contorta Cuatrec.
+21300590	Coussapoa crassivenosa Mildbr.
+100384456	Coussapoa darienensis C.C. Berg
+21300592	Coussapoa glaberrima W.C. Burger
+21301895	Coussapoa macerrima Standl. & L.O. Williams ex Akkermans & C.C. Berg
+21300655	Coussapoa nymphaeifolia Standl.
+21301133	Coussapoa oligocephala Donn. Sm.
+21300594	Coussapoa parviceps Standl.
+21301553	Coussapoa parvifolia Standl.
+21301134	Coussapoa purpusii Standl.
+21300148	Coussapoa villosa Poepp. & Endl.
+40015586	Coussapoa Aubl.
+50184670	Coussarea brevipedunculata C.M. Taylor
+27900734	Coussarea caroliana Standl.
+27903205	Coussarea curvigemmia Dwyer
+27903206	Coussarea durifolia Dwyer
+27903207	Coussarea enneantha Standl.
+27905974	Coussarea imitans L.O. Williams
+27908154	Coussarea impetiolaris Donn. Sm.
+27903209	Coussarea latifolia Standl.
+27903210	Coussarea loftonii (Dwyer & M.V. Hayden) Dwyer
+50148703	Coussarea loftonii subsp. loftonii 
+50184674	Coussarea loftonii subsp. occidentalis C.M. Taylor
+27900781	Coussarea paniculata (Willd.) Standl.
+27900798	Coussarea talamancana Standl.
+27903215	Coussarea veraguensis Dwyer
+40015594	Coussarea Aubl.
+27909992	Coutaportla guatemalensis (Standl.) Lorence
+40015599	Coutaportla Urb.
+27903217	Coutarea hexandra (Jacq.) K. Schum.
+40015606	Coutarea Aubl.
+100367037	Crataegus lindenii Stapf
+40015988	Crataegus L.
+5900725	Crateva tapia L.
+40016093	Crateva L.
+100476324	Cremastosperma osicola Pirie & Chatrou
+3700574	Crescentia cujete L.
+50327294	Croton carpostellatus B.L. León & Mart. Gord.
+50249369	Croton corinthius Poveda & J.Á. González
+50249370	Croton megistocarpus J.Á. González & Poveda
+13008740	Crudia acuminata Benth.
+13008746	Crudia glaberrima (Steud.) J.F. Macbr.
+40017082	Crudia Schreb.
+50224187	Crumenaria decumbens Mart.
+2401874	Cryosophila stauracantha (Heynh.) R. Evans
+40017158	Cryosophila Blume
+100356998	Cryptocarya panamensis P.L.R. Moraes & van der Werff
+9400067	Cupressus lusitanica Mill.
+9400774	Cupressus lusitanica var. lusitanica 
+40018366	Cupressus L.
+26607512	Cyathea bicrenata Liebm.
+26614159	Cyathea brunnescens (Barrington) R.C. Moran
+26606749	Cyathea caracasana (Klotzsch) Domin
+26616758	Cyathea caracasana var. maxonii (Underw.) R.M. Tryon
+26608422	Cyathea costaricensis (Mett. ex Kuhn) Domin
+26606745	Cyathea delgadoi Pohl ex Sternb.
+26606736	Cyathea divergens Kunze
+26606737	Cyathea divergens var. divergens 
+26607131	Cyathea divergens var. tuerckheimii (Maxon) R.M. Tryon
+26607133	Cyathea fulva (M. Martens & Galeotti) Fée
+26610642	Cyathea holdridgeana Nisman & L.D. Gómez
+26608869	Cyathea lockwoodiana (P.G. Windisch) Lellinger
+26606707	Cyathea microdonta (Desv.) Domin
+26608819	Cyathea myosuroides (Liebm.) Domin
+26616784	Cyathea nesiotica (Maxon) Domin
+26606673	Cyathea nigripes (C. Chr.) Domin
+26606623	Cyathea poeppigii (Hook.) Domin
+26608430	Cyathea schiedeana (C. Presl) Domin
+26609395	Cyathea suprastrigosa (Christ) Maxon
+26608820	Cyathea valdecrenata Domin
+40018892	Cyathea Sm.
+22000632	Cybianthus costaricanus Hemsl.
+22000637	Cybianthus pastensis (Mez) G. Agostini
+22000927	Cybianthus schlimii (Hook. f.) G. Agostini
+22001786	Cybianthus sprucei (Hook. f.) G. Agostini
+40019091	Cybianthus Mart.
+9600006	Cycas revoluta Thunb.
+9600157	Cycas rumphii Miq.
+27801567	Cydonia oblonga Mill.
+40019545	Cydonia Mill.
+40020119	Cynophalla (DC.) J. Presl
+50297865	Cynophalla amplissima (Lam.) Iltis & Cornejo
+50326075	Cynophalla verrucosa (Jacq.) J. Presl
+50260610	Cyrtocarpa kruseana R.M. Fonseca
+50145943	Cyrtocarpa procera Kunth
+40020581	Cyrtocarpa Kunth
+100400572	Dacryodes patrona Daly
+100450525	Dacryodes talamancensis D. Santam. & Aguilar
+40021071	Dacryodes Vahl
+100381687	Dahlstedtia calcarata (F.J. Herm.) M.J. Silva & A.M.G. Azevedo
+40021410	Dahlstedtia Malme
+50324514	Dalbergia agudeloi J. Linares & M. Sousa
+13013947	Dalbergia brownei (Jacq.) Schinz
+13013948	Dalbergia calderonii Standl.
+13013949	Dalbergia calycina Benth.
+13013955	Dalbergia congestiflora Pittier
+13013956	Dalbergia cubilquitzensis (Donn. Sm.) Pittier
+13013975	Dalbergia glomerata Hemsl.
+13013977	Dalbergia granadillo Pittier
+50324515	Dalbergia longepedunculata J. Linares & M. Sousa
+50324784	Dalbergia luteola J. Linares & M. Sousa
+13013989	Dalbergia melanocardium Pittier
+50334106	Dalbergia modesta J. Linares & M. Sousa
+13014001	Dalbergia retusa Hemsl.
+50058108	Dalbergia retusa var. retusa 
+50058107	Dalbergia retusa var. cuscatlanica (Standl.) Rudd
+50334109	Dalbergia ruddiae J. Linares & M. Sousa
+50324783	Dalbergia salvanaturae J. Linares & M. Sousa
+13018086	Dalbergia sissoo Roxb. ex DC.
+13014006	Dalbergia stevensonii Standl.
+50077188	Dalbergia tilarana N. Zamora
+13014010	Dalbergia tucurensis Donn. Sm.
+40021450	Dalbergia L. f.
+100450087	Damburneya ambigens (S.F. Blake) Trofimov
+100450090	Damburneya bicolor (Rohwer) Trofimov & Rohwer
+100450091	Damburneya colorata (Lundell) Trofimov
+100450094	Damburneya cufodontisii (O.C. Schmidt) Trofimov & Rohwer
+100450096	Damburneya gentlei (Lundell) Trofimov
+100478324	Damburneya guatemalensis (Lundell) Rohwer
+100478325	Damburneya inconspicua (van der Werff) Trofimov
+100450097	Damburneya leucocome (Rohwer) Trofimov & Rohwer
+100450099	Damburneya longipetiolata (van der Werff) Trofimov & Rohwer
+100450129	Damburneya martinicensis (Mez) Trofimov
+100450131	Damburneya mirafloris (van der Werff) Trofimov & Rohwer
+100478327	Damburneya parvissima (Lundell) Trofimov
+100450138	Damburneya purpurea (Ruiz & Pav.) Trofimov
+100450139	Damburneya rudis (C.K. Allen) Trofimov & Rohwer
+100450533	Damburneya salicifolia (Kunth) Trofimov & Rohwer
+100450140	Damburneya salicina (C.K. Allen) Trofimov & Rohwer
+100450142	Damburneya umbrosa (Kunth) Trofimov
+40022500	Debregeasia Gaudich.
+28101722	Decatropis bicolor (Zucc.) Radlk.
+28101298	Decatropis paucijuga (Donn. Sm.) Loes.
+40022811	Decatropis Hook. f. ex Benth. & Hook.
+50149360	Decazyx esparzae F. Chiang
+28101299	Decazyx macrophyllus Pittier & S.F. Blake
+40022830	Decazyx Pittier & S.F. Blake
+13047083	Delonix regia (Bojer ex Hook.) Raf.
+40023189	Delonix Raf.
+2200408	Dendropanax alberti-smithii Nevling
+2200335	Dendropanax arboreus (L.) Decne. & Planch.
+2200760	Dendropanax capillaris M.J. Cannon & Cannon
+2200759	Dendropanax caucanus (Harms) Harms
+2200753	Dendropanax globosus M.J. Cannon & Cannon
+2200410	Dendropanax gonatopodus (Donn. Sm.) A.C. Sm.
+2200755	Dendropanax hondurensis M.J. Cannon & Cannon
+2200747	Dendropanax latilobus M.J. Cannon & Cannon
+2200411	Dendropanax leptopodus (Donn. Sm.) A.C. Sm.
+2200704	Dendropanax oliganthus (A.C. Sm.) A.C. Sm.
+100399609	Dendropanax pachypedunculatus Idárraga & Lowry
+2200758	Dendropanax pallidus M.J. Cannon & Cannon
+2200754	Dendropanax populifolius (Marchal) A.C. Sm.
+2200412	Dendropanax praestans Standl.
+2200749	Dendropanax punctatus M.J. Cannon & Cannon
+2200413	Dendropanax querceti Donn. Sm.
+2200750	Dendropanax ravenii M.J. Cannon & Cannon
+2200414	Dendropanax sessiliflorus (Standl. & A.C. Sm.) A.C. Sm.
+40023564	Dendropanax Decne. & Planch.
+50149938	Desmopsis dolichopetala R.E. Fr.
+1601373	Desmopsis dukei G.E. Schatz
+1600813	Desmopsis maxonii Saff.
+1600814	Desmopsis microcarpa R.E. Fr.
+1601615	Desmopsis oerstedii Saff.
+1600815	Desmopsis panamensis (B.L. Rob.) Saff.
+1600130	Desmopsis schippii Standl.
+100473168	Desmopsis talamancana G.E. Schatz & Maas
+50044371	Desmopsis trunciflora (Schltdl. & Cham.) G.E. Schatz
+40028674	Desmopsis Saff.
+13017824	Dialium guianense (Aubl.) Sandwith
+40029074	Dialium L.
+100401131	Dichapetalum coronadoae Arbeláez & W.D. Stevens
+26606534	Dicksonia sellowiana Hook.
+40029926	Dicksonia L'Hér.
+10900002	Dillenia indica L.
+10900115	Dillenia suffruticosa (Griff.) Martelli
+40031201	Dillenia L.
+9600177	Dioon mejiae Standl. & L.O. Williams
+9600111	Dioon merolae De Luca, Sabato & Vázq. Torres
+11500439	Diospyros anisandra S.F. Blake
+11500207	Diospyros artanthifolia Mart. ex Miq.
+11500325	Diospyros blancoi A. DC.
+11500041	Diospyros bumelioides Standl.
+11500042	Diospyros campechiana Lundell
+11500451	Diospyros conzattii Standl.
+11500208	Diospyros digyna Jacq.
+50070476	Diospyros hartmanniana S. Knapp
+11500210	Diospyros inconstans Jacq.
+11500052	Diospyros johnstoniana Standl. & Steyerm.
+50067774	Diospyros morenoi A. Pool
+50149548	Diospyros panamensis S. Knapp
+11500211	Diospyros salicifolia Humb. & Bonpl. ex Willd.
+11500449	Diospyros tetrasperma Sw.
+11500072	Diospyros yatesiana Standl. ex Lundell
+40031908	Diospyros L.
+13071894	Diphysa americana (Mill.) M. Sousa
+13018729	Diphysa carthagenensis Jacq.
+13018730	Diphysa floribunda Peyr.
+13018731	Diphysa humilis Oerst.
+13076199	Diphysa ormocarpoides (Rudd) M. Sousa & R. Antonio
+13017934	Diphysa puberulenta Rydb.
+13047098	Diphysa spinosa Rydb.
+100352531	Diphysa yucatanensis A.M. Hanan & M. Sousa
+40032186	Diphysa Jacq.
+100451066	Diplostephium sp. a - fl. meso. Pruski
+40032970	Diplostephium Kunth
+13000483	Dipteryx oleifera Benth.
+13000486	Dipteryx panamensis (Pittier) Record & Mell
+40033264	Dipteryx Schreb.
+33400934	Discocnide mexicana (Liebm.) Chew
+40033537	Discocnide Chew
+100379224	Dombeya wallichii (Lindl.) Baill.
+40034822	Dombeya Cav.
+18401794	Dracaena americana Donn. Sm.
+40035475	Dracaena L.
+34200005	Drimys granadensis L. f.
+40035760	Drimys J.R. Forst. & G. Forst.
+33701128	Duranta erecta L.
+40000130	Duranta L.
+3900624	Durio zibethinus Rumph. ex Murray
+40000169	Duroia L. f.
+50287703	Dussia atropurpurea N. Zamora, R.T. Penn. & C.H. Stirt.
+13000609	Dussia cuscatlanica (Standl.) Standl. & Steyerm.
+13000614	Dussia macroprophyllata (Donn. Sm.) Harms
+13000616	Dussia mexicana (Standl.) Harms
+13000618	Dussia tessmannii Harms
+40000194	Dussia Krug & Urb. ex Taub.
+50096014	Ebenopsis ebano (Berland.) Barneby & J.W. Grimes
+40000607	Ebenopsis Britton & Rose
+28700671	Ecclinusa lanceolata (Mart. & Eichler) Pierre
+40000715	Ecclinusa Mart.
+4001669	Ehretia latifolia Loisel.
+4002003	Ehretia tinifolia L.
+40001503	Ehretia P. Browne
+27902659	Elaeagia auriculata Hemsl.
+50189954	Elaeagia chiriquina C.M. Taylor
+50189955	Elaeagia glossostipula C.M. Taylor
+27900947	Elaeagia karstenii Standl.
+27910627	Elaeagia myriantha (Standl.) C.M. Taylor & Hammel
+27903226	Elaeagia nitidifolia Dwyer
+27910474	Elaeagia pastoensis L.E. Mora
+40001691	Elaeagia Wedd.
+40001694	Elaeagnus L.
+2400016	Elaeis guineensis Jacq.
+50231656	Elaeis oleifera (Kunth) Cortés
+40001704	Elaeis Jacq.
+6600730	Elaeodendron xylocarpum (Vent.) DC.
+40001728	Elaeodendron Jacq.
+28700412	Elaeoluma glabrescens (Mart. & Eichler) Aubrév.
+40001745	Elaeoluma Baill.
+40002583	Elytrostachys McClure
+50289442	Enceliinae Panero
+13030083	Enterolobium cyclocarpum (Jacq.) Griseb.
+13030088	Enterolobium schomburgkii (Benth.) Benth.
+40003739	Enterolobium Mart.
+40004798	Eremosis (DC.) Gleason
+2744205	Eremosis heydeana (J.M. Coult.) Gleason
+2744206	Eremosis leiocarpa (DC.) Gleason
+2744210	Eremosis shannonii (J.M. Coult.) Gleason
+27801732	Eriobotrya japonica (Thunb.) Lindl.
+40005115	Eriobotrya Lindl.
+34100126	Erisma blancoa Marc.-Berti
+100449902	Erisma panamense M.L. Kawas., S. Castillo & McPherson
+40005571	Erisma Rudge
+13042355	Erythrina berenices Krukoff & Barneby
+13009248	Erythrina berteroana Urb.
+13002327	Erythrina caribaea Krukoff & Barneby
+13002328	Erythrina castillejiflora Krukoff & Barneby
+13009255	Erythrina chiapasana Krukoff
+13009256	Erythrina chiriquensis Krukoff
+13002329	Erythrina cobanensis Krukoff & Barneby
+13009257	Erythrina cochleata Standl.
+13009263	Erythrina costaricensis Micheli
+13009264	Erythrina crista-galli L.
+13002330	Erythrina florenciae Krukoff & Barneby
+13009277	Erythrina folkersii Krukoff & Moldenke
+13030223	Erythrina fusca Lour.
+13009278	Erythrina gibbosa Cufod.
+13009280	Erythrina globocalyx Porsch & Cufod.
+13009281	Erythrina goldmanii Standl.
+13009284	Erythrina herbacea L.
+13002331	Erythrina herbacea subsp. nigrorosea Krukoff & Barneby
+13009286	Erythrina hondurensis Standl.
+13002332	Erythrina huehuetenangensis Krukoff & Barneby
+13009292	Erythrina lanceolata Standl.
+13030247	Erythrina macrophylla DC.
+13009315	Erythrina poeppigiana (Walp.) O.F. Cook
+13002337	Erythrina pudica Krukoff & Barneby
+13009321	Erythrina rubrinervia Kunth
+13002338	Erythrina salviiflora Krukoff & Barneby
+13009328	Erythrina standleyana Krukoff
+13002341	Erythrina steyermarkii Krukoff & Barneby
+13002342	Erythrina tajumulcensis Krukoff & Barneby
+13041029	Erythrina thyrsiflora Gómez-Laur. & L.D. Gómez
+13002343	Erythrina tuxtlana Krukoff & Barneby
+13002344	Erythrina williamsii Krukoff & Barneby
+40005932	Erythrina L.
+50314341	Eschweilera aguilarii S.A. Mori
+17900489	Eschweilera amplexifolia S.A. Mori
+17900166	Eschweilera antioquensis Dugand & Daniel
+50314342	Eschweilera biflava S.A. Mori
+17900167	Eschweilera calyculata Pittier
+17900315	Eschweilera caudiculata R. Knuth
+50098634	Eschweilera collinsii Pittier
+17900314	Eschweilera coriacea (DC.) S.A. Mori
+17900331	Eschweilera costaricensis S.A. Mori
+50314343	Eschweilera harmonii S.A. Mori
+17900169	Eschweilera hondurensis Standl.
+17900309	Eschweilera integrifolia (Ruiz & Pav. ex Miers) R. Knuth
+17900293	Eschweilera jacquelyniae S.A. Mori
+100463908	Eschweilera jefensis J.E. Bat. & S.A. Mori
+17900292	Eschweilera longipedicellata S.A. Mori
+17900321	Eschweilera mexicana T. Wendt, S.A. Mori & Prance
+17900326	Eschweilera neei S.A. Mori
+50085972	Eschweilera pachyderma Cuatrec.
+17900170	Eschweilera panamensis Pittier
+17900005	Eschweilera pittieri R. Knuth
+100463909	Eschweilera roseocalyx J.E. Bat., S.A. Mori & J.S. Harrison
+17900006	Eschweilera sessilis A.C. Sm.
+40006169	Eschweilera Mart. ex DC.
+28100094	Esenbeckia alata (Triana) Triana & Planch.
+28101301	Esenbeckia pentaphylla (Macfad.) Griseb.
+50141768	Esenbeckia pentaphylla subsp. pentaphylla 
+28101671	Esenbeckia pentaphylla subsp. australensis Kaastra
+28101727	Esenbeckia pentaphylla subsp. belizensis (Lundell) Kaastra
+40006221	Esenbeckia Kunth
+22103293	Eucalyptus botryoides Sm.
+22101716	Eucalyptus camaldulensis Dehnh.
+22102083	Eucalyptus cinerea F. Muell. ex Benth.
+22102084	Eucalyptus citriodora Hook.
+22107397	Eucalyptus crebra F. Muell.
+50137593	Eucalyptus decaisneana Blume
+22107329	Eucalyptus deglupta Blume
+22107388	Eucalyptus exserta F. Muell.
+50137592	Eucalyptus ficifolia F. Muell.
+22101717	Eucalyptus globulus Labill.
+22103178	Eucalyptus grandis W. Mill ex Maiden
+50273437	Eucalyptus moluccana Roxb.
+22104954	Eucalyptus paniculata Sm.
+22102085	Eucalyptus robusta Sm.
+22107389	Eucalyptus rudis Endl.
+22102181	Eucalyptus saligna Sm.
+50110424	Eucalyptus siderophloia Benth.
+22102086	Eucalyptus sideroxylon A. Cunn. ex Woolls
+22101719	Eucalyptus tereticornis Sm.
+22102191	Eucalyptus torelliana F. Muell.
+50007143	Eucalyptus urophylla S.T. Blake
+40006486	Eucalyptus L'Hér.
+22102087	Eugenia acapulcensis Steud.
+22102514	Eugenia aeruginea DC.
+100444686	Eugenia arrhaphocalyx Barrie, I. Vergara & McPherson
+22102089	Eugenia austin-smithii Standl.
+22102900	Eugenia bajaverapazana Lundell
+22102126	Eugenia balancanensis Lundell
+50214519	Eugenia belloi Barrie
+100444694	Eugenia brachyblastiflora Barrie, C.A. Ramos & O. Ortiz
+50214520	Eugenia breedlovei Barrie
+22100449	Eugenia bumelioides Standl.
+22102519	Eugenia capuli (Schltdl. & Cham.) Hook. & Arn.
+50051943	Eugenia capuli var. capuli 
+22102968	Eugenia capuli var. lindeniana (O. Berg) Lundell
+50214521	Eugenia cararaensis Barrie & Q. Jiménez
+22102521	Eugenia cervina Standl. & Steyerm.
+22102914	Eugenia chahalana Lundell
+50214522	Eugenia chavarriae Barrie
+22102524	Eugenia choapamensis Standl.
+22102093	Eugenia coloradoensis Standl.
+50214527	Eugenia corusca Barrie
+22102094	Eugenia costaricensis O. Berg
+22102130	Eugenia cricamolensis Standl.
+100444697	Eugenia donosoensis Barrie, C.A. Ramos & O. Ortiz
+22102922	Eugenia eliasii Lundell
+50214532	Eugenia esteliensis Barrie
+22100542	Eugenia feijoi O. Berg
+22100551	Eugenia florida DC.
+22102096	Eugenia galalonensis (C. Wright ex Griseb.) Krug & Urb.
+22102928	Eugenia gigas Lundell
+50214534	Eugenia gomezii Barrie
+50214536	Eugenia grijalvae Barrie
+22102528	Eugenia guatemalensis Donn. Sm.
+50214538	Eugenia hammelii Barrie
+50214540	Eugenia herrerae Barrie
+22102529	Eugenia hondurensis Ant. Molina
+22102530	Eugenia hypargyrea Standl.
+22102931	Eugenia izabalana Lundell
+22102598	Eugenia karwinskyana O. Berg
+22103024	Eugenia koepperi Standl.
+22102602	Eugenia lancetillae Standl.
+50214542	Eugenia lempana Barrie
+22100622	Eugenia lepidota O. Berg
+22102603	Eugenia letreroana Lundell
+50214545	Eugenia lithosperma Barrie
+100367664	Eugenia ludoviciana Gómez-Laur.
+50214546	Eugenia magniflora Barrie
+22102936	Eugenia magoana Lundell
+50214547	Eugenia mcphersonii Barrie
+50214549	Eugenia monteverdensis Barrie
+22102097	Eugenia nesiotica Standl.
+22102098	Eugenia octopleura Krug & Urb.
+22100701	Eugenia oerstediana O. Berg
+22102608	Eugenia papalensis Standl. & Steyerm.
+22102609	Eugenia percivalii Lundell
+22102944	Eugenia ravenii Lundell
+22102610	Eugenia rekoi Standl.
+50214551	Eugenia riosiae Barrie
+100444698	Eugenia roseola Barrie, C.A. Ramos & O. Ortiz
+100444699	Eugenia roseopetala Barrie, I. Vergara & McPherson
+22102945	Eugenia rubella Lundell
+50214552	Eugenia sancarlosensis Barrie
+22102614	Eugenia savannarum Standl. & Steyerm.
+50214554	Eugenia selvana Barrie
+22102615	Eugenia shookii Lundell
+22103270	Eugenia siggersii Standl.
+22100824	Eugenia skutchii C.V. Morton & Standl.
+22100859	Eugenia tapacumensis O. Berg
+22106638	Eugenia tapirorum Standl.
+50047994	Eugenia teapensis McVaugh
+22102616	Eugenia tikalana Lundell
+50214556	Eugenia tilarana Barrie
+22102617	Eugenia toledinensis Lundell
+22102951	Eugenia tonii Lundell
+22102618	Eugenia trikii Lundell
+22102625	Eugenia uliginosa Lundell
+22102952	Eugenia ursina Lundell
+22102619	Eugenia vacana Lundell
+22102953	Eugenia verapazensis Lundell
+50214558	Eugenia verruculata Barrie
+22102621	Eugenia winzerlingii Standl.
+22100903	Eugenia yunckeri Standl.
+22103066	Eugenia zelayensis P.E. Sánchez
+50214560	Eugenia zuchowskiae Barrie
+40006825	Eugenia L.
+40036428	Euonymus L.
+40008175	Exostema (Pers.) Bonpl.
+27903227	Exostema mexicanum A. Gray
+13009336	Eysenhardtia adenostylis Baill.
+40008261	Eysenhardtia Kunth
+13009498	Fairchildia panamensis (Benth.) Britton & Rose
+50223451	Faramea accumulans C.M. Taylor
+40008590	Faramea Aubl.
+27901119	Ferdinandusa panamensis Standl. & L.O. Williams
+40008975	Ferdinandusa Pohl
+100381420	Ficus [ unranked ] Stilpnophyllum Endl.
+21300596	Ficus americana Aubl.
+50275539	Ficus americana subsp. americana 
+21301370	Ficus apollinaris Dugand
+21300459	Ficus aurea Nutt.
+21300598	Ficus benjamina L.
+21301260	Ficus brevibracteata W.C. Burger
+21301924	Ficus cahuitensis C.C. Berg
+21301261	Ficus caldasiana Dugand
+21302167	Ficus carchiana C.C. Berg
+21302044	Ficus carica L.
+21300600	Ficus cervantesiana Standl. & L.O. Williams
+21300460	Ficus citrifolia Mill.
+21300601	Ficus colubrinae Standl.
+21300603	Ficus costaricana (Liebm.) Miq.
+21301140	Ficus cotinifolia Kunth
+21300688	Ficus crassinervia Desf. ex Willd.
+21300689	Ficus crassiuscula Warb. ex Standl.
+21300177	Ficus crocata (Miq.) Miq.
+21300178	Ficus cuatrecasasiana Dugand
+21300604	Ficus davidsoniae Standl.
+21300180	Ficus dendrocida Kunth
+21301141	Ficus donnell-smithii Standl.
+21302161	Ficus elastica Roxb. ex Hornem.
+50275189	Ficus francoae C.C. Berg
+21300196	Ficus hartwegii (Miq.) Miq.
+21300606	Ficus insipida Willd.
+21300205	Ficus lapathifolia (Liebm.) Miq.
+21300607	Ficus lutea Vahl
+21301265	Ficus lyrata Warb.
+21300608	Ficus maxima Mill.
+21300462	Ficus microcarpa L. f.
+21300609	Ficus nymphaeifolia Mill.
+50076832	Ficus osensis C.C. Berg
+21300223	Ficus paraensis (Miq.) Miq.
+21300611	Ficus pertusa L. f.
+21300224	Ficus petiolaris Kunth
+21300226	Ficus popenoei Standl.
+21301146	Ficus pumila L.
+21301272	Ficus religiosa L.
+21301504	Ficus rensoniana S. Calderón & Standl.
+21301505	Ficus richteri Dugand
+21301508	Ficus romeroi Dugand
+21300237	Ficus schippii Standl.
+100398252	Ficus sp. aff. benjamina - fl. meso. 
+21301529	Ficus trianae Dugand
+21300616	Ficus turrialbana W.C. Burger
+21300250	Ficus velutina Humb. & Bonpl. ex Willd.
+21300254	Ficus yoponensis Desv.
+21300617	Ficus zarzalensis Standl.
+40009268	Ficus L.
+50212188	Ficus sect. Americanae Miq.
+21301698	Ficus sect. Galoglychia (Gasp.) Endl.
+50212190	Ficus sect. Pharmacosycea (Miq.) Benth. & Hook. f.
+21301695	Ficus sect. Urostigma (Gasp.) Endl.
+21301691	Ficus subg. Pharmacosycea (Miq.) Miq.
+21301694	Ficus subg. Urostigma (Gasp.) Miq.
+100381415	Ficus subsect. Bergianae Carvajal & Shabes
+13200511	Flacourtia jangomas (Lour.) Raeusch.
+40009717	Flacourtia Comm. ex L'Hér.
+40009819	Flemingia Roxb. ex W.T. Aiton
+40009944	Flourensia DC.
+100393616	Forchhammeria iltisii J.F. Morales
+40010225	Forchhammeria Liebm.
+50315415	Forestiera corollata Cornejo & Wallander
+50335753	Forestiera isabeliae Hammel & Cornejo
+40010258	Forestiera Poir.
+100382850	Frangula breedlovei (L.A. Johnst. & M.C. Johnst.) A. Pool
+50292971	Frangula discolor (Donn. Sm.) Grubov
+100382988	Frangula discolor var. discolor 
+100382937	Frangula grandiflora A. Pool
+100382994	Frangula pendula A. Pool
+100398264	Frangula sp. a - fl. meso. 
+40010792	Frangula Mill.
+23000341	Fraxinus purpusii Brandegee
+23000527	Fraxinus purpusii var. purpusii 
+23000317	Fraxinus uhdei (Wenz.) Lingelsh.
+40010900	Fraxinus L.
+40011249	Fuchsia L.
+40011609	Gaiadendron G. Don
+28100610	Galipea trifoliata Aubl.
+40012027	Galipea Aubl.
+17805579	Gamanthera herrerae van der Werff
+40037305	Gamanthera van der Werff
+7800753	Garcinia mangostana L.
+8700029	Garrya corvorum Standl. & Steyerm.
+8700031	Garrya laurifolia Hartw. ex Benth.
+8700218	Garrya laurifolia subsp. quichensis (Donn. Sm.) Dahling
+40012576	Garrya Douglas ex Lindl.
+22002258	Geissanthus perpuncticulosus (Lundell) Pipoly
+40013181	Geissanthus Hook. f.
+27900116	Genipa americana L.
+40013396	Genipa L.
+22000640	Gentlea austin-smithii (Lundell) Lundell
+22001151	Gentlea lancifolia Lundell
+22000944	Gentlea venosissima (Ruiz & Pav.) Lundell
+40013535	Gentlea Lundell
+19200521	Ginoria nudiflora (Hemsl.) Koehne
+40014439	Ginoria Jacq.
+13048407	Gliricidia sepium (Jacq.) Kunth ex Walp.
+27906506	Glossostipula concinna (Standl.) Lorence
+50090269	Glossostipula strigosa Lorence
+40037130	Glossostipula Lorence
+33703046	Gmelina arborea Roxb. ex Sm.
+40015551	Gmelina L.
+40015616	Gnetum L.
+32200234	Goethalsia meiantha (Donn. Sm.) Burret
+40015750	Goethalsia Pittier
+27905994	Gonzalagunia thyrsoidea (Donn. Sm.) B.L. Rob.
+40016522	Gonzalagunia Ruiz & Pav.
+6600674	Goupia guatemalensis Lundell
+40016776	Goupia Aubl.
+20302650	Graffenrieda bella Almeda
+20303657	Graffenrieda cucullata (Triana) L.O. Williams
+20302651	Graffenrieda galeottii (Naudin) L.O. Williams
+20303397	Graffenrieda gentlei Lundell
+100397655	Graffenrieda jefensis Almeda, Alvear & H. Mend.
+20302652	Graffenrieda micrantha (Gleason) L.O. Williams
+50071102	Graffenrieda santamartensis Wurdack
+40016882	Graffenrieda DC.
+50039583	Grajalesia fasciculata (Standl.) Miranda
+40016923	Grajalesia Miranda
+26500116	Grevillea robusta A. Cunn. ex R. Br.
+40017412	Grevillea R. Br. ex Knight
+17900008	Grias cauliflora L.
+40017452	Grias L.
+25513660	Guadua amplexifolia J. Presl
+25512646	Guadua angustifolia Kunth
+25544699	Guadua angustifolia subsp. angustifolia 
+25525347	Guadua longifolia (E. Fourn.) R.W. Pohl
+25525346	Guadua macclurei R.W. Pohl & Davidse
+25517307	Guadua paniculata Munro
+40017788	Guadua Kunth
+34600042	Guaiacum sanctum L.
+40017837	Guaiacum L.
+22500439	Guapira costaricana (Standl.) Woodson
+22500707	Guapira petenensis (Lundell) Lundell
+22500440	Guapira standleyana Woodson
+22500736	Guapira witsbergeri Lundell
+40017912	Guapira Aubl.
+50305080	Guarea aguilarii Al. Rodr.
+50265572	Guarea arcuata Coronado
+20400649	Guarea bijuga C. DC.
+20400074	Guarea bullata Radlk.
+20400078	Guarea chiricana Standl.
+50305082	Guarea constricta Al. Rodr.
+50231150	Guarea gentryi Coronado
+50334313	Guarea glabra subsp. excelsa (Kunth) T.D. Penn.
+50334312	Guarea glabra subsp. glabrescens (Hook. & Arn.) T.D. Penn.
+50334306	Guarea glabra subsp. microcarpa (C. DC.) T.D. Penn.
+50334308	Guarea glabra subsp. rovirosae (C. DC.) T.D. Penn.
+50334314	Guarea glabra subsp. tuerckheimii (C. DC.) T.D. Penn.
+20400100	Guarea glabra Vahl
+50334307	Guarea glabra subsp. glabra 
+20400383	Guarea grandifolia DC.
+100393797	Guarea grossa T.D. Penn.
+20400341	Guarea guidonia (L.) Sleumer
+20400109	Guarea hoffmanniana C. DC.
+50305084	Guarea inesiana Al. Rodr.
+20400113	Guarea kunthiana A. Juss.
+20400652	Guarea luxii C. DC.
+50305085	Guarea macrocalyx Al. Rodr.
+20400614	Guarea macrophylla subsp. pendulispica (C. DC.) T.D. Penn.
+20400613	Guarea macrophylla Vahl
+50265578	Guarea mexicana Coronado
+20400141	Guarea pterorhachis Harms
+100441287	Guarea pterorhachis subsp. pterorhachis 
+20400940	Guarea pyriformis T.D. Penn.
+20400148	Guarea rhopalocarpa Radlk.
+50305088	Guarea tafae-malekui Al. Rodr.
+50063314	Guarea talamancana Gómez-Laur. & M. Valerio
+20400172	Guarea tonduzii C. DC.
+50265564	Guarea zarceroensis Coronado
+40017950	Guarea F. Allam. ex L.
+50299860	Guatteria aberrans Erkens & Maas
+50299861	Guatteria acrantha Erkens & Maas
+1600169	Guatteria aeruginosa Standl.
+1601387	Guatteria alata Maas & Setten
+100484531	Guatteria aliciae Maas & Erkens
+1600170	Guatteria allenii R.E. Fr.
+1600817	Guatteria amplifolia Triana & Planch.
+1600193	Guatteria chiriquiensis R.E. Fr.
+1600203	Guatteria costaricensis R.E. Fr.
+100448035	Guatteria crassivenia N. Zamora & Maas
+100407008	Guatteria darienensis S. Arias & Maas
+1600209	Guatteria dolichopoda Donn. Sm.
+100448037	Guatteria dotana N. Zamora & Erkens
+1600228	Guatteria galeottiana Baill.
+1601321	Guatteria grandiflora Donn. Sm.
+100448038	Guatteria herrerana N. Zamora & Maas
+1600819	Guatteria jefensis Barringer
+1600267	Guatteria lucens Standl.
+1600294	Guatteria oliviformis Donn. Sm.
+100448040	Guatteria pachycarpa Erkens & N. Zamora
+1600299	Guatteria panamensis (R.E. Fr.) R.E. Fr.
+100484537	Guatteria pseudorotundata Maas & Erkens
+50173907	Guatteria pudica N. Zamora & Maas
+50299863	Guatteria reinaldoi Erkens & Maas
+50299865	Guatteria rostrata Erkens & Maas
+1601725	Guatteria rotundata Maas & Setten
+100484538	Guatteria rubiginosa N. Zamora & Maas
+1601616	Guatteria sessilicarpa Maas & Setten
+1600340	Guatteria slateri Standl.
+100427880	Guatteria tacarcunae Erkens & Maas
+50173906	Guatteria talamancana N. Zamora & Maas
+1600351	Guatteria tenera R.E. Fr.
+1601607	Guatteria tomentosa Rusby
+100484539	Guatteria turrialbana N. Zamora & Erkens
+1600357	Guatteria ucayalina Huber
+1600359	Guatteria verrucosa R.E. Fr.
+50299866	Guatteria zamorae Erkens & Maas
+40017965	Guatteria Ruiz & Pav.
+50008704	Guazuma longipedicellata Freytag
+30400486	Guazuma ulmifolia Lam.
+30401519	Guazuma ulmifolia var. ulmifolia 
+40018006	Guazuma Mill.
+27901198	Guettarda brenesii Standl.
+27905996	Guettarda combsii Urb.
+50184664	Guettarda crispiflora subsp. cobanensis (Donn. Sm.) C.M. Taylor
+50184665	Guettarda crispiflora subsp. poasana (Standl.) C.M. Taylor
+50184666	Guettarda crispiflora subsp. sabiceoides (Standl.) C.M. Taylor
+27906952	Guettarda crispiflora Vahl
+27905997	Guettarda deamii Standl.
+27903253	Guettarda foliacea Standl.
+27905998	Guettarda gaumeri Standl.
+27903254	Guettarda macrosperma Donn. Sm.
+27903255	Guettarda ramuliflora Beurl.
+27903256	Guettarda sanblasensis Dwyer
+50184662	Guettarda subcapitata C.M. Taylor
+27907087	Guettarda tournefortiopsis Standl.
+40018089	Guettarda L.
+17900053	Gustavia brachycarpa Pittier
+17900009	Gustavia dubia (Kunth) O. Berg
+17900173	Gustavia fosteri S.A. Mori
+17900174	Gustavia grandibracteata Croat & S.A. Mori
+17900175	Gustavia monocaulis S.A. Mori
+17900010	Gustavia superba (Kunth) O. Berg
+40018432	Gustavia L.
+6600663	Gyminda tonduzii Loes.
+40018524	Gyminda Sarg.
+12802170	Gymnanthes lucida Sw.
+26001814	Gymnopodium floribundum Rolfe
+40018964	Gymnopodium Rolfe
+3900260	Gyranthera darienensis Pittier
+40019468	Gyranthera Pittier
+15300016	Gyrocarpus americanus Jacq.
+15300026	Gyrocarpus jatrophifolius Domin
+50150573	Gyrocarpus mocinoi Espejo
+40019496	Gyrocarpus Jacq.
+50256552	Gyrotaenia microcarpa (Wedd.) Fawc. & Rendle
+40019577	Gyrotaenia Griseb.
+13019907	Haematoxylum brasiletto H. Karst.
+13019908	Haematoxylum campechianum L.
+40019888	Haematoxylum L.
+19602386	Hampea appendiculata (Donn. Sm.) Standl.
+19602387	Hampea appendiculata var. appendiculata 
+19602388	Hampea appendiculata var. longicalyx Fryxell
+19602464	Hampea bracteolata Lundell
+19602508	Hampea breedlovei Fryxell
+100484497	Hampea lanceolata F. Areces
+19602378	Hampea longipes Miranda
+19602509	Hampea mexicana Fryxell
+19602510	Hampea montebellensis Fryxell
+19602511	Hampea nutricia Fryxell
+19602465	Hampea ovatifolia Lundell
+19602380	Hampea punctulata Cuatrec.
+50060666	Hampea reynae Fryxell
+19603024	Hampea sphaerocarpa Fryxell
+19602437	Hampea stipitata S. Watson
+19602383	Hampea trilobata Standl.
+40020654	Hampea Schltdl.
+100474810	Harpalyce torresii São-Mateus & M. Sousa
+100474811	Harpalyce yucatanense São-Mateus & M. Sousa
+40021324	Harpalyce Sessé & Moc. ex DC.
+23200319	Hauya elegans DC.
+23201898	Hauya elegans subsp. barcenae (Hemsl.) P.H. Raven & Breedlove
+23201899	Hauya elegans subsp. cornuta (Hemsl.) P.H. Raven & Breedlove
+50092923	Hauya elegans subsp. lucida (Donn. Sm. & Rose) P.H. Raven & Breedlove
+23201371	Hauya heydeana Donn. Sm.
+40021742	Hauya DC.
+13001202	Havardia albicans (Kunth) Britton & Rose
+50081200	Havardia campylacantha (L. Rico & M. Sousa) Barneby & J.W. Grimes
+13001204	Havardia leiocalyx (Standl.) Britton & Rose
+13001207	Havardia pallens (Benth.) Britton & Rose
+40021754	Havardia Small
+100398268	Haydenoxylon haberianum (Hammel) M.P. Simmons
+100398267	Haydenoxylon M.P. Simmons
+7300030	Hedyosmum correanum D'Arcy & Liesner
+7300031	Hedyosmum gentryi D'Arcy & Liesner
+7300013	Hedyosmum goudotianum Solms
+7300072	Hedyosmum goudotianum var. goudotianum 
+7300015	Hedyosmum mexicanum C. Cordem.
+40022317	Hedyosmum Sw.
+50113076	Heliantheae Cass.
+50286781	Helianthinae Dumort.
+21300618	Helicostylis tovarensis (Klotzsch & H. Karst.) C.C. Berg
+40022743	Helicostylis Trécul
+32200474	Heliocarpus appendiculatus Turcz.
+32200104	Heliocarpus excelsior C.V. Morton
+32200609	Heliocarpus terebinthinaceus (DC.) Hochr.
+40022812	Heliocarpus L.
+40023864	Hemistylus Benth.
+20303835	Henriettea ramiflora (Sw.) DC.
+40024052	Henriettea DC.
+20304363	Henriettella odorata Markgr.
+20300625	Henriettella trachyphylla Triana
+20302763	Henriettella tuberculosa Donn. Sm.
+40024055	Henriettella Naudin
+15300013	Hernandia didymantha Donn. Sm.
+15300015	Hernandia stenura Standl.
+50138572	Hernandia wendtii Espejo
+40024427	Hernandia L.
+40024509	Herrania Goudot
+12801400	Hevea brasiliensis (Willd. ex A. Juss.) Müll. Arg.
+40025505	Hevea Aubl.
+40025797	Hibiscus L.
+27903694	Hillia maxonii Standl.
+27903272	Hillia palmana Standl.
+27903273	Hillia panamensis Standl.
+27903274	Hillia tetrandra Sw.
+40026063	Hillia Jacq.
+1801492	Himatanthus articulatus (Vahl) Woodson
+40026121	Himatanthus Willd. ex Schult.
+27906001	Hintonia lumana (Baill.) Bullock
+40026158	Hintonia Bullock
+100396281	Hippocrateoideae Lindl.
+12802171	Hippomane mancinella L.
+40026296	Hippomane L.
+50223445	Hippotis panamensis (Dwyer) C.M. Taylor
+40026354	Hippotis Ruiz & Pav.
+40026784	Holmskioldia Retz.
+40026833	Holodiscus (K. Koch) Maxim.
+27801768	Holodiscus fissus (Lindl.) C.K. Schneid.
+100364380	Hondurodendron urceolatum C. Ulloa, Nickrent, Whitef. & D.L. Kelly
+100364379	Hondurodendron C. Ulloa, Nickrent, Whitef. & D.L. Kelly
+28100200	Hortia brasiliana Vand. ex DC.
+40027738	Hortia Vand.
+3900764	Huberodendron allenii Standl. & L.O. Williams
+40028035	Huberodendron Ducke
+30200002	Huertea glandulosa Ruiz & Pav.
+12800195	Hura crepitans L.
+12801425	Hura polyandra Baill.
+40028422	Hura L.
+40029327	Hymenandra (A. DC.) Spach
+50153112	Hymenandra calycosa (Hemsl.) Pipoly & Ricketson
+50153127	Hymenandra crosbyi (Lundell) Pipoly & Ricketson
+50153120	Hymenandra pittieri (Mez) Pipoly & Ricketson
+50153110	Hymenandra stenophylla (Donn. Sm.) Pipoly & Ricketson
+50153117	Hymenandra wilburiana (Lundell) Pipoly & Ricketson
+2000439	Ilex skutchii Edwin ex T.R. Dudley & W.J. Hahn
+13006103	Inga acrocephala Steud.
+13021151	Inga acuminata Benth.
+13006107	Inga affinis DC.
+13021157	Inga alba (Sw.) Willd.
+13002405	Inga allenii J. León
+100352562	Inga appendiculata M. Sousa
+13006128	Inga barbourii Standl.
+13006129	Inga belizensis Standl.
+13076423	Inga bella M. Sousa
+50146787	Inga cabrerae M. Sousa
+50146798	Inga calcicola M. Sousa
+13006157	Inga calderonii Standl.
+50146789	Inga chiapensis Miranda ex M. Sousa
+13002408	Inga chocoensis Killip ex T.S. Elias
+13006188	Inga ciliata C. Presl
+13006194	Inga cocleensis Pittier
+50052802	Inga cocleensis subsp. cocleensis 
+13006201	Inga cookii Pittier
+13006205	Inga coruscans Humb. & Bonpl. ex Willd.
+13076422	Inga cuspidata M. Sousa
+13076421	Inga dasycarpa M. Sousa
+13076344	Inga davidsei M. Sousa
+13006216	Inga densiflora Benth.
+13076358	Inga dwyeri M. Sousa
+13006228	Inga edulis Mart.
+13002414	Inga exalata T.S. Elias
+13021244	Inga flexuosa Schltdl.
+13006265	Inga goldmanii Pittier
+13074460	Inga golfodulcensis N. Zamora
+13046682	Inga hayesii Benth.
+13074461	Inga herrerae N. Zamora
+13006284	Inga heterophylla Willd.
+13008772	Inga inicuil Schltdl. & Cham. ex G. Don
+50146795	Inga ismaelis M. Sousa
+13069633	Inga jefensis Liesner & D'Arcy
+100352557	Inga lactifera M. Sousa
+13076416	Inga lacustris M. Sousa
+13008786	Inga latipes Pittier
+13021281	Inga laurina (Sw.) Willd.
+13008789	Inga leiocalycina Benth.
+13074463	Inga leonis N. Zamora
+13074464	Inga litoralis N. Zamora
+13008805	Inga longispica Standl.
+13021299	Inga marginata Willd.
+100352002	Inga mexicana (T.D. Penn.) M. Sousa
+13008830	Inga micheliana Harms
+13002417	Inga mortoniana J. León
+13021310	Inga mucuna Walp. & Duchass.
+13008844	Inga multijuga Benth.
+50077026	Inga nobilis subsp. quaternata (Poepp.) T.D. Penn.
+13008849	Inga nobilis Willd.
+13008862	Inga oerstediana Benth. ex Seem.
+13008880	Inga paterno Harms
+13021329	Inga pauciflora Duchass. ex Walp.
+13008882	Inga pavoniana G. Don
+13008888	Inga pezizifera Benth.
+13008891	Inga pinetorum Pittier
+13008898	Inga polita Killip
+13021340	Inga portobellensis Beurl.
+13076415	Inga pseudoinvolucrata M. Sousa
+13008911	Inga punctata Willd.
+13041054	Inga riopalenquensis A.H. Gentry
+13008938	Inga ruiziana G. Don
+13008941	Inga saffordiana Pittier
+13008945	Inga samanensis L. Uribe
+13021380	Inga sertulifera DC.
+13008966	Inga sierrae Britton & Killip
+13076414	Inga sinacae M. Sousa & Ibarra-Manr.
+13008968	Inga skutchii Standl.
+13021384	Inga spectabilis (Vahl) Willd.
+13069634	Inga spiralis Liesner & D'Arcy
+13008991	Inga stenophylla Standl.
+13009018	Inga thibaudiana DC.
+13009021	Inga tonduzii Donn. Sm.
+13074465	Inga urceolata N. Zamora
+13009039	Inga venusta Standl.
+13021418	Inga vera Willd.
+40031040	Inga Mill.
+8500010	Ipomoea arborescens (Humb. & Bonpl. ex Willd.) G. Don
+8501602	Ipomoea murucoides Roem. & Schult.
+8500427	Ipomoea pauciflora M. Martens & Galeotti
+8502130	Ipomoea wolcottiana Rose
+40031392	Ipomoea L.
+1100242	Iresine arbuscula Uline & W.L. Bray
+40031610	Iryanthera (A. DC.) Warb.
+21800113	Iryanthera megistocarpa A.H. Gentry
+27903303	Isertia haenkeana DC.
+50159011	Isertia haenkeana var. haenkeana 
+27903304	Isertia laevis (Triana) B.M. Boom
+27909962	Isertia scorpioides B.M. Boom
+40031839	Isertia Schreb.
+3700620	Jacaranda copaia (Aubl.) D. Don
+3700578	Jacaranda mimosifolia D. Don
+40032687	Jacaranda Juss.
+6100052	Jacaratia dolichaula (Donn. Sm.) Woodson
+6100029	Jacaratia mexicana A. DC.
+6100046	Jacaratia spinosa (Aubl.) A. DC.
+40032698	Jacaratia A. DC.
+12800067	Jatropha curcas L.
+27903309	Joosia umbellifera H. Karst.
+40033640	Joosia H. Karst.
+16700045	Juglans regia L.
+9400074	Juniperus gamboana Martínez
+9400399	Juniperus standleyi Steyerm.
+40033976	Juniperus L.
+27500868	Karwinskia calderonii Standl.
+27500166	Karwinskia humboldtiana (Schult.) Zucc.
+100388561	Karwinskia pluvialis A. Pool
+40034738	Karwinskia Zucc.
+3700010	Kigelia pinnata (Jacq.) DC.
+27500167	Krugiodendron ferreum (Vahl) Urb.
+40000273	Krugiodendron Urb.
+1801488	Lacmellea edulis H. Karst.
+1801323	Lacmellea panamensis (Woodson) Markgr.
+1800700	Lacmellea speciosa Woodson
+1801326	Lacmellea standleyi (Woodson) Monach.
+50124514	Lacmellea zamorae J.F. Morales
+40000907	Lacmellea H. Karst.
+27910006	Ladenbergia brenesii Standl.
+50105549	Ladenbergia dwyeri L. Andersson
+27904018	Ladenbergia heterophylla (Wedd.) Standl.
+27903310	Ladenbergia laurifolia Dwyer
+27903311	Ladenbergia macrocarpa (Vahl) Klotzsch
+40000981	Ladenbergia Klotzsch
+100409145	Laetia povedae N. Zamora, Aguilar & D. Santam.
+19200203	Lafoensia punicifolia DC.
+40001093	Lafoensia Vand.
+19200242	Lagerstroemia indica L.
+19200243	Lagerstroemia speciosa (L.) Pers.
+40001206	Lagerstroemia L.
+8200077	Laguncularia racemosa (L.) C.F. Gaertn.
+40001343	Laguncularia C.F. Gaertn.
+1800344	Laxoplumeria tessmannii Markgr.
+40002835	Laxoplumeria Markgr.
+40002878	Leandra Raddi
+13045284	Lecointea amazonica Ducke
+13013130	Lecointea tango (Standl.) Emygdio & A.G. Andrade
+40003120	Lecointea Ducke
+17900178	Lecythis ampla Miers
+17900180	Lecythis mesophylla S.A. Mori
+17900011	Lecythis minor Jacq.
+17900012	Lecythis tuyrana Pittier
+40003185	Lecythis Loefl.
+13002709	Lennea melanocarpa (Schltdl.) Vatke ex Harms
+13002710	Lennea modesta (Standl. & Steyerm.) Standl. & Steyerm.
+13048335	Lennea viridiflora Seem.
+40003806	Lennea Link, Klotzsch & Otto
+50158273	Lepidaploa polypleura (S.F. Blake) H.Rob.
+40004282	Lepidocordia Ducke
+50235256	Lepidonia lankesteri (S.F. Blake ex Standl.) H.Rob. & V.A. Funk
+40004328	Lepidonia S.F. Blake
+50327594	Leptolobium panamense (Benth.) Sch.  Rodr. & A.M.G. Azevedo
+40005025	Leptolobium Vogel
+13002811	Leucaena collinsii Britton & Rose
+13002814	Leucaena cruziana Britton & Rose
+13021945	Leucaena diversifolia (Schltdl.) Benth.
+13021946	Leucaena esculenta (DC.) Benth.
+50114651	Leucaena lempirana C.E. Hughes
+13002824	Leucaena leucocephala (Lam.) de Wit
+13069021	Leucaena leucocephala subsp. leucocephala 
+13069020	Leucaena leucocephala subsp. glabrata (Rose) Zárate
+50114655	Leucaena leucocephala subsp. ixtahuacana C.E. Hughes
+50114656	Leucaena magnifica (C.E. Hughes) C.E. Hughes
+13002827	Leucaena multicapitula Schery
+13002842	Leucaena salvadorensis Standl. ex Britton & Rose
+13002843	Leucaena shannonii Donn. Sm.
+13002848	Leucaena trichandra (Zucc.) Urb.
+100469734	Leucaena zacapana (C.E. Hughes) Govindarajulu, Rajanikanth & C.E. Hughes
+40005610	Leucaena Benth.
+100352242	Licaria agglomerata van der Werff
+17803696	Licaria areolata Lundell
+17802550	Licaria armeniaca (Nees) Kosterm.
+17804909	Licaria brenesii W.C. Burger
+17802554	Licaria campechiana (Standl.) Kosterm.
+17802556	Licaria capitata (Schltdl. & Cham.) Kosterm.
+50146025	Licaria caribaea Gómez-Laur. & Cascante
+17802558	Licaria caudata (Lundell) Kosterm.
+17802560	Licaria cervantesii (Kunth) Kosterm.
+100352245	Licaria cogolloi van der Werff
+17802567	Licaria excelsa Kosterm.
+17802837	Licaria glaberrima (Lundell) C.K. Allen
+17803354	Licaria guatemalensis Lundell
+17804826	Licaria ibarrae (Lundell) Lundell
+50216043	Licaria leonis Gómez-Laur. & A. Estrada
+17802575	Licaria misantlae (Brandegee) Kosterm.
+17804943	Licaria multinervis H.W. Kurz
+100352250	Licaria nitida van der Werff
+17802580	Licaria peckii (I.M. Johnst.) Kosterm.
+17804910	Licaria pergamentacea W.C. Burger
+17804944	Licaria sarapiquensis Hammel
+17802589	Licaria triandra (Sw.) Kosterm.
+17803519	Licaria urceolata Lundell
+17804376	Licaria velutina van der Werff
+40006454	Licaria Aubl.
+33700976	Lippia americana L.
+33701145	Lippia cardiostegia Benth.
+33700230	Lippia chiapasensis Loes.
+33701149	Lippia myriocephala Schltdl. & Cham.
+33701150	Lippia oxyphyllaria (Donn. Sm.) Standl.
+33703282	Lippia umbellata Cav.
+40007502	Lippia L.
+15100008	Liquidambar styraciflua L.
+40007526	Liquidambar L.
+100367112	Lonchocarpus alternifoliolatus M. Sousa
+50207731	Lonchocarpus angusticarpus M. Sousa
+13021959	Lonchocarpus atropurpureus Benth.
+100377791	Lonchocarpus barbatus M. Sousa, E. Martínez & Ramos
+100001687	Lonchocarpus berriozabalensis Miranda ex M. Sousa
+13071890	Lonchocarpus bicolor M. Sousa
+100377792	Lonchocarpus bracteolatus M. Sousa
+100375711	Lonchocarpus brenesii M. Sousa
+100375713	Lonchocarpus brenesii subsp. brenesii 
+100375712	Lonchocarpus brenesii subsp. vulcanicola M. Sousa
+100370083	Lonchocarpus canoensis M. Sousa
+13002898	Lonchocarpus castilloi Standl.
+50162684	Lonchocarpus chiangii M. Sousa
+13002902	Lonchocarpus chiricanus Pittier
+13002905	Lonchocarpus comitensis Pittier
+100376267	Lonchocarpus congestiflorus M. Sousa & J. Linares
+13002908	Lonchocarpus costaricensis (Donn. Sm.) Pittier
+13069137	Lonchocarpus ferrugineus M. Sousa
+100370086	Lonchocarpus foveolatus M. Sousa
+13002927	Lonchocarpus fuscopurpureus Brandegee
+13021974	Lonchocarpus guatemalensis Benth.
+50297911	Lonchocarpus haberi M. Sousa
+13021977	Lonchocarpus heptaphyllus (Poir.) DC.
+13021979	Lonchocarpus hondurensis Benth.
+50088996	Lonchocarpus hughesii M. Sousa
+100377793	Lonchocarpus hydrophilus M. Sousa & J. Morales
+100375714	Lonchocarpus isthmensis M. Sousa
+13021982	Lonchocarpus lanceolatus Benth.
+100001446	Lonchocarpus lanceolatus subsp. calciphilus M. Sousa
+13002951	Lonchocarpus lasiotropis F.J. Herm.
+100375717	Lonchocarpus latimarginatus M. Sousa
+50297912	Lonchocarpus latisiliquus M. Sousa
+13009840	Lonchocarpus lindsayi Standl.
+13009841	Lonchocarpus lineatus Pittier
+13009844	Lonchocarpus longipedicellatus Pittier
+13009846	Lonchocarpus longistylus Pittier
+13021986	Lonchocarpus macrocarpus Benth.
+13021987	Lonchocarpus macrophyllus Kunth
+50207884	Lonchocarpus martinezii M. Sousa
+50297913	Lonchocarpus megacarpus M. Sousa
+13009857	Lonchocarpus michelianus Pittier
+13009859	Lonchocarpus minimiflorus Donn. Sm.
+13009863	Lonchocarpus molinae Standl. & L.O. Williams
+13009864	Lonchocarpus monofoliaris Schery
+13009866	Lonchocarpus monospermus Standl.
+50297914	Lonchocarpus monteviridis M. Sousa
+13069139	Lonchocarpus morenoi M. Sousa
+100377794	Lonchocarpus multifoliolatus M. Sousa
+100377795	Lonchocarpus nebularis M. Sousa
+13009883	Lonchocarpus nicoyensis (Donn. Sm.) Pittier
+13009889	Lonchocarpus oliganthus F.J. Herm.
+13009893	Lonchocarpus palmeri Rose
+100370090	Lonchocarpus paucinervius M. Sousa
+13048213	Lonchocarpus pentaphyllus (Poir.) Kunth ex DC.
+13009897	Lonchocarpus phlebophyllus Standl. & Steyerm.
+13069140	Lonchocarpus pilosus M. Sousa
+13009902	Lonchocarpus purpureus Pittier
+13009907	Lonchocarpus retifer Standl. & L.O. Williams
+13009908	Lonchocarpus robustus Pittier
+13022010	Lonchocarpus rugosus Benth.
+13069272	Lonchocarpus rugosus subsp. rugosus 
+13069271	Lonchocarpus rugosus subsp. apricus (Lundell) M. Sousa
+100001452	Lonchocarpus rugosus subsp. gillyi (Lundell) M. Sousa
+100001453	Lonchocarpus rugosus subsp. stipulaceus M. Sousa
+13009911	Lonchocarpus salvadorensis Pittier
+13009914	Lonchocarpus sanctuarii Standl. & L.O. Williams
+13009915	Lonchocarpus santarosanus Donn. Sm.
+13009918	Lonchocarpus schiedeanus (Schltdl.) Harms
+100375725	Lonchocarpus septentrionalis M. Sousa
+100377796	Lonchocarpus sericocarpus M. Sousa
+100001449	Lonchocarpus stenophyllus M. Sousa
+100370093	Lonchocarpus sylvicola M. Sousa
+13009935	Lonchocarpus trifolius Standl. & L.O. Williams
+100001451	Lonchocarpus tuxtepecensis M. Sousa
+100370095	Lonchocarpus velizii M. Sousa
+13022018	Lonchocarpus velutinus Benth. ex Seem.
+13069141	Lonchocarpus verrucosus M. Sousa
+100001699	Lonchocarpus vittatus M. Sousa
+100377797	Lonchocarpus wendtii M. Sousa
+13009944	Lonchocarpus yoroensis Standl.
+13009945	Lonchocarpus yucatanensis Pittier
+40008471	Lonchocarpus Kunth
+102678	Louteridium donnell-smithii S. Watson
+102679	Louteridium mexicanum (Baill.) Standl.
+104061	Louteridium purpusii Brandegee
+40009173	Louteridium S. Watson
+33300102	Lozanella enantiophylla (Donn. Sm.) Killip & C.V. Morton
+50108814	Lubaria aroensis Pittier
+40009441	Lubaria Pittier
+32200235	Luehea candida (DC.) Mart.
+32200236	Luehea seemannii Triana & Planch.
+32200237	Luehea speciosa Willd.
+40009629	Luehea Willd.
+40010455	Lyonia Nutt.
+13014768	Machaerium biovulatum Micheli
+13014770	Machaerium bondaense Pittier
+13014776	Machaerium capote Triana ex Dugand
+13014781	Machaerium chiapense Brandegee
+13014783	Machaerium cobanense Donn. Sm.
+13013203	Machaerium conzattii Rudd
+13013210	Machaerium falciforme Rudd
+13035313	Machaerium floribundum Benth.
+13014823	Machaerium isadelphum (E. Mey.) Amshoff
+13035321	Machaerium kegelii Meisn.
+13014843	Machaerium microphyllum (E. Mey.) Standl.
+13014844	Machaerium milleflorum Pittier
+13066851	Machaerium nicaraguense Rudd
+13014861	Machaerium pittieri J.F. Macbr.
+13035349	Machaerium polyphyllum Benth.
+13035356	Machaerium robiniifolium (DC.) Vogel
+13035360	Machaerium seemannii Benth. ex Seem.
+40010932	Machaerium Pers.
+21300514	Maclura brasiliensis (Mart.) Endl.
+21300516	Maclura tinctoria (L.) D. Don ex Steud.
+21301615	Maclura tinctoria subsp. tinctoria 
+40011087	Maclura Nutt.
+50141124	Macoubea mesoamericana J.F. Morales
+40011119	Macoubea Aubl.
+40011265	Macrocarpaea (Griseb.) Gilg
+50064065	Macrocarpaea auriculata Weaver & J.R. Grant
+27901471	Macrocnemum roseum (Ruiz & Pav.) Wedd.
+40011398	Macrocnemum P. Browne
+100382893	Magnolia lacandonica J.A. Vázquez, Pérez-Farr. & Martínez-Camilo
+100382888	Magnolia mayae J.A. Vázquez & Pérez-Farr.
+19300020	Magnolia mexicana DC.
+100470273	Magnolia montebelloensis J.A. Vázquez & Pérez-Farr.
+100396181	Magnolia perezfarrerae J.A. Vázquez
+19300143	Magnolia poasana (Pittier) Dandy
+19300144	Magnolia sharpii Miranda
+19300574	Magnolia yoroconte Dandy
+40012123	Magnolia L.
+40012799	Malmea R.E. Fr.
+1800373	Malouetia quadricasarum Woodson
+40012859	Malouetia A. DC.
+27800985	Malus pumila Mill.
+40012934	Malus Mill.
+7800722	Mammea americana L.
+50136960	Mangifera caesia Jack
+1300071	Mangifera indica L.
+50136957	Mangifera odorata Griff.
+40013195	Mangifera L.
+2400938	Manicaria saccifera Gaertn.
+12800237	Manihot esculenta Crantz
+12800078	Manihot glaziovii Müll. Arg.
+28700368	Manilkara bidentata (A. DC.) A. Chev.
+28700413	Manilkara chicle (Pittier) Gilly
+50038649	Manilkara spectabilis (Pittier) Standl.
+28700684	Manilkara staminodella Gilly
+28700370	Manilkara zapota (L.) P. Royen
+40013265	Manilkara Adans.
+21300265	Maquira guianensis Aubl.
+21302026	Maquira guianensis subsp. costaricana (Standl.) C.C. Berg
+40013553	Maquira Aubl.
+22105175	Marlierea mesoamericana P.E. Sánchez
+40014056	Marlierea Cambess.
+13074292	Marmaroxylon ramiflorum (Benth.) L. Rico
+40014092	Marmaroxylon Killip
+28600567	Matayba apetala Radlk.
+40014730	Matayba Aubl.
+3900596	Matisia arteagensis Cuatrec.
+3900083	Matisia bracteolosa Ducke
+3900377	Matisia cordata Bonpl.
+3900616	Matisia dolichopoda (A. Robyns) Cuatrec.
+3900086	Matisia dolichosiphon (A. Robyns & S. Nilsson) W.S. Alverson
+3900597	Matisia exalata W.S. Alverson
+3900603	Matisia jefensis (A. Robyns & S. Nilsson) W.S. Alverson
+3900096	Matisia obliquifolia Standl.
+3900442	Matisia ochrocalyx K. Schum.
+3900620	Matisia sanblasensis (A. Robyns) Cuatrec.
+50188052	Matisia tinamastiana A. Estrada & Cascante
+40014797	Matisia Bonpl.
+15100030	Matudaea trinervia Lundell
+40014974	Matudaea Lundell
+1300146	Mauria heterophylla Kunth
+40015073	Mauria Kunth
+6600110	Maytenus belizensis Standl.
+6600120	Maytenus chiapensis Lundell
+6600680	Maytenus grisea Lundell
+50001617	Maytenus guyanensis Klotzsch ex Reissek
+6600339	Maytenus jefeana Lundell
+6600172	Maytenus longipes Briq.
+6600182	Maytenus matudae Lundell
+6600684	Maytenus purpusii Lundell
+50095386	Maytenus recondita Hammel
+6600340	Maytenus schippii Lundell
+6600221	Maytenus segoviarum Standl. & L.O. Williams
+6600687	Maytenus stipitata Lundell
+6600690	Maytenus tikalensis Lundell
+6600369	Maytenus woodsonii Lundell
+40015252	Maytenus Molina
+22102271	Melaleuca leucadendra (L.) L.
+22101758	Melaleuca quinquenervia (Cav.) S.T. Blake
+40016054	Melaleuca L.
+20400345	Melia azedarach L.
+40016385	Melia L.
+28600569	Melicoccus bijugatus Jacq.
+50255094	Melicoccus oliviformis subsp. oliviformis 
+40016440	Melicoccus P. Browne
+50199174	Melicope denhamii (Seem.) T.G. Hartley
+40016446	Melicope J.R. Forst. & G. Forst.
+28200027	Meliosma allenii Standl. & L.O. Williams
+28200028	Meliosma brenesii Standl.
+50239161	Meliosma chiriquensis J.F. Morales
+50239162	Meliosma clandestina J.F. Morales
+28200029	Meliosma cordata A.H. Gentry
+28200019	Meliosma corymbosa A.H. Gentry
+100376610	Meliosma cresstolina J.F. Morales
+28200006	Meliosma dentata (Liebm.) Urb.
+50239164	Meliosma depressiva J.F. Morales
+28200052	Meliosma donnellsmithii Urb.
+100352401	Meliosma echeverriae J. Menjívar, Cerén & J.F. Morales
+28200030	Meliosma frondosa Cuatrec. & Idrobo
+28200007	Meliosma glabrata (Liebm.) Urb.
+28200031	Meliosma grandiflora C.V. Morton ex A.H. Gentry
+28200009	Meliosma grandifolia (Liebm.) Urb.
+28200032	Meliosma idiopoda S.F. Blake
+50107190	Meliosma irazuensis Standl.
+100352399	Meliosma isthmensis J.F. Morales
+100376611	Meliosma laxiflora J.F. Morales
+28200033	Meliosma linearifolia A.H. Gentry
+28200020	Meliosma nanarum A.H. Gentry
+28200034	Meliosma occidentalis Cuatrec.
+100376612	Meliosma oligantha J.F. Morales
+28200055	Meliosma subcordata Standl.
+40016547	Meliosma Blume
+20304608	Meriania grandiflora (Standl.) Almeda
+20302663	Meriania macrophylla (Benth.) Triana
+20304698	Meriania odorata Almeda
+20302664	Meriania panamensis Gleason
+20304699	Meriania phlomoides (Triana) Almeda
+40017308	Meriania Sw.
+100478330	Mespilodaphne klepperae (van der Werff) Trofimov
+100478331	Mespilodaphne macrophylla (Beurl.) Trofimov
+100478332	Mespilodaphne morae (Gómez-Laur.) Trofimov
+100478335	Mespilodaphne veraguensis (Meisn.) Rohwer
+40017830	Mespilodaphne Nees & Mart. ex Nees
+20300134	Miconia affinis DC.
+100405580	Miconia albertobrenesii Gamba & Almeda
+20303491	Miconia ampla Triana
+20300136	Miconia appendiculata Triana
+20302666	Miconia argentea (Sw.) DC.
+20302668	Miconia brenesii Standl.
+20304071	Miconia brevitheca Gleason
+20302345	Miconia bubalina (D. Don) Naudin
+20300144	Miconia calvescens DC.
+20300989	Miconia carnea Cogn.
+20302669	Miconia centronioides Gleason
+20302670	Miconia centrosperma Almeda
+20302671	Miconia chiriquiensis Almeda
+50226528	Miconia commutata Almeda
+20304001	Miconia contrerasii Wurdack
+50126567	Miconia coriacea (Sw.) DC.
+20302678	Miconia cuspidatissima Pittier
+20300150	Miconia dodecandra Cogn.
+20300151	Miconia dolichopoda Naudin
+20301043	Miconia dolichorrhyncha Naudin
+20300153	Miconia elata (Sw.) DC.
+20303514	Miconia emendata Wurdack
+20304453	Miconia friedmaniorum Almeda & Umaña
+100395090	Miconia galdamesiae Kriebel & Almeda
+20302682	Miconia gentryi Wurdack
+20302685	Miconia hondurensis Donn. Sm.
+20303899	Miconia incurva Gleason
+20303425	Miconia ligulata Almeda
+20301146	Miconia lonchophylla Naudin
+20302414	Miconia longifolia (Aubl.) DC.
+20301165	Miconia matthaei Naudin
+100394337	Miconia mcphersonii Almeda & Penneys
+20300169	Miconia minutiflora (Bonpl.) DC.
+20300170	Miconia mirabilis (Aubl.) L.O. Williams
+20302693	Miconia multispicata Naudin
+20303320	Miconia oligocephala Donn. Sm.
+20304247	Miconia oraria Wurdack
+50328762	Miconia osaensis Aguilar, Kriebel & Almeda
+20301236	Miconia phaeophylla Triana
+20301250	Miconia poeppigii Triana
+20300177	Miconia prasina (Sw.) DC.
+20301258	Miconia pterocaulon Triana
+20301265	Miconia punctata (Desr.) D. Don ex DC.
+20302700	Miconia santaritensis Almeda
+20303445	Miconia schnellii Wurdack
+20300182	Miconia serrulata (DC.) Naudin
+100436161	Miconia solearis (Naudin) Gamba & Almeda
+100405535	Miconia spiciformis Gamba & Almeda
+20303689	Miconia stevensiana Almeda
+20303415	Miconia tacanensis Wurdack
+50155619	Miconia talamancensis Almeda
+100369345	Miconia theaezans (Bonpl.) Cogn.
+20300195	Miconia trinervia (Sw.) D. Don ex Loudon
+50155202	Miconia umbriensis Wurdack
+40018467	Miconia Ruiz & Pav.
+40019205	Micropholis (Griseb.) Pierre
+28701109	Micropholis crotonoides (Pierre) Pierre
+28700715	Micropholis egensis (A. DC.) Pierre
+28700730	Micropholis guyanensis (A. DC.) Pierre
+28700903	Micropholis melinoniana Pierre
+28700572	Micropholis venulosa (Mart. & Eichler) Pierre
+50066643	Molinadendron guatemalense (Radlk. ex Harms) P.K. Endress
+40021212	Molinadendron P.K. Endress
+21200334	Mollinedia angustata Lundell
+21200336	Mollinedia pallida Lundell
+40021296	Mollinedia Ruiz & Pav.
+2701043	Montanoa guatemalensis B.L. Rob. & Greenm.
+2701044	Montanoa hexagona B.L. Rob. & Greenm.
+40022483	Montanoa Cerv.
+100379231	Montanoinae H.Rob.
+40038155	Monticalia C. Jeffrey
+27900127	Morinda citrifolia L.
+27903324	Morinda panamensis Seem.
+40022806	Morinda L.
+21400003	Moringa oleifera Lam.
+40022823	Moringa Adans.
+5900370	Morisonia americana L.
+40022850	Morisonia L.
+1800035	Mortoniella pittieri Woodson
+40022963	Mortoniella Woodson
+50273940	Mortoniodendron abelianum Al. Rodr.
+32200238	Mortoniodendron anisophyllum (Standl.) Standl. & Steyerm.
+32200902	Mortoniodendron membranaceum Standl. & Steyerm.
+32200610	Mortoniodendron palaciosii Miranda
+32200735	Mortoniodendron pentagonum (Donn. Sm.) Miranda
+32200611	Mortoniodendron ruizii Miranda
+32200595	Mortoniodendron sulcatum Lundell
+32200596	Mortoniodendron vestitum Lundell
+40022973	Mortoniodendron Standl. & Steyerm.
+21300010	Morus alba L.
+21300510	Morus celtidifolia Kunth
+21300266	Morus insignis Bureau
+40022983	Morus L.
+22103251	Mosiera contrerasii (Lundell) Landrum
+40023117	Mosiera Small
+40023143	Mosquitoxylum Krug & Urb.
+20302712	Mouriri completens (Pittier) Burret
+20300285	Mouriri cyphocarpa Standl.
+20303329	Mouriri gleasoniana Standl.
+20301512	Mouriri muelleri Cogn.
+20303371	Mouriri myrtifolia Spruce ex Triana
+20303363	Mouriri osaensis Morley
+20304082	Mouriri panamensis Morley
+20303330	Mouriri steyermarkii Standl.
+50102250	Mouriri tuberculata Morley & K. Thomsen
+40023254	Mouriri Aubl.
+13000205	Muellera frutescens (Aubl.) Standl.
+100382366	Muellera unifoliolata (Benth.) M. Sousa
+40023422	Muellera L. f.
+11700033	Muntingia calabura L.
+40023706	Muntingia L.
+28100582	Murraya exotica L.
+28100030	Murraya paniculata (L.) Jack
+40023843	Murraya J. Koenig
+22101842	Myrcia aliena McVaugh
+22101843	Myrcia amazonica DC.
+50270211	Myrcia concinna B. Holst & M.L. Kawas.
+22102107	Myrcia coumete (Aubl.) DC.
+22101103	Myrcia fallax (Rich.) DC.
+22102108	Myrcia fosteri Croat
+50270212	Myrcia fusca B. Holst & M.L. Kawas.
+22103037	Myrcia grandis McVaugh
+22103040	Myrcia inaequiloba (DC.) D. Legrand
+50270213	Myrcia lapidulosa B. Holst & M.L. Kawas.
+22101199	Myrcia magnoliifolia DC.
+22101891	Myrcia paivae O. Berg
+50270214	Myrcia panamensis B. Holst & M.L. Kawas.
+22103372	Myrcia platyclada DC.
+50316485	Myrcia sp. a 
+50316486	Myrcia sp. b 
+22101779	Myrcia splendens (Sw.) DC.
+22101901	Myrcia sylvatica (G. Mey.) DC.
+22101354	Myrcia tomentosa (Aubl.) DC.
+50273532	Myrcia zetekiana (Standl.) B. Holst
+40024268	Myrcia DC.
+22101781	Myrcianthes fragrans (Sw.) McVaugh
+22103271	Myrcianthes storkii (Standl.) McVaugh
+40024277	Myrcianthes O. Berg
+22102626	Myrciaria ibarrae Lundell
+22102817	Myrciaria vexator McVaugh
+40024283	Myrciaria O. Berg
+33400070	Myriocarpa bifurca Liebm.
+33400747	Myriocarpa cordifolia Liebm.
+50335855	Myriocarpa cubilgueitzensis A.K. Monro
+33400948	Myriocarpa heterospicata Donn. Sm.
+33400494	Myriocarpa longipes Liebm.
+33400696	Myriocarpa obovata Donn. Sm.
+50335857	Myriocarpa trifurca A.K. Monro
+40024369	Myriocarpa Benth.
+21800077	Myristica fragrans Houtt.
+40024462	Myristica Gronov.
+50128459	Myrsine calcarata (Lundell) Ricketson & Pipoly
+22000232	Myrsine cubana A. DC.
+22001087	Myrsine juergensenii (Mez) Ricketson & Pipoly
+22000647	Myrsine pellucidopunctata Oerst.
+40024651	Myrsine L.
+21302117	Naucleopsis capirensis C.C. Berg
+21301274	Naucleopsis naga Pittier
+21302163	Naucleopsis naga subsp. naga 
+21300269	Naucleopsis ulei (Warb.) Ducke
+21302123	Naucleopsis ulei subsp. puberula C.C. Berg
+40025462	Naucleopsis Miq.
+22500075	Neea amplifolia Donn. Sm.
+22500443	Neea delicatula Standl.
+22500090	Neea elegans P.H. Allen
+22500091	Neea fagifolia Heimerl
+22500121	Neea popenoei P.H. Allen
+40025792	Neea Ruiz & Pav.
+50126691	Neolamarckia cadamba (Roxb.) Bosser
+50086081	Neolamarckia Bosser
+26001925	Neomillspaughia emarginata (H. Gross) S.F. Blake
+26001816	Neomillspaughia paniculata (Donn. Sm.) S.F. Blake
+40026943	Neomillspaughia S.F. Blake
+13200607	Neopringlea viscosa (Liebm.) Rose
+100396199	Neoraputia Emmerich ex Kallunki
+8700079	Nyssa sylvatica Marshall
+8700163	Nyssa talamancana Hammel & N. Zamora
+40029683	Nyssa L.
+1300159	Ochoterenaea colombiana F.A. Barkley
+40029903	Ochoterenaea F.A. Barkley
+3900204	Ochroma pyramidale (Cav. ex Lam.) Urb.
+40029970	Ochroma Sw.
+50183273	Ocotea atlantica van der Werff
+50183274	Ocotea darcyi van der Werff
+50183275	Ocotea haberi van der Werff
+50183276	Ocotea jefensis van der Werff
+50183278	Ocotea macrantha van der Werff
+50183280	Ocotea pullifolia van der Werff
+25519565	Olmeca reflexa Soderstr.
+40036508	Olmeca Soderstr.
+13200668	Olmediella betschleriana (Göpp.) Loes.
+40031402	Olmediella Baill.
+50095325	Oreopanax anomalus M.J. Cannon & Cannon
+2200712	Oreopanax arcanus A.C. Sm.
+2200498	Oreopanax capitatus (Jacq.) Decne. & Planch.
+2200773	Oreopanax compactus M.J. Cannon & Cannon
+2200419	Oreopanax costaricensis Marchal
+2200777	Oreopanax donnell-smithii Standl.
+2200713	Oreopanax echinops (Schltdl. & Cham.) Decne. & Planch.
+2200761	Oreopanax geminatus Marchal
+2200152	Oreopanax guatemalensis (Lem. ex Bosse) Decne. & Planch.
+2200774	Oreopanax nicaraguensis M.J. Cannon & Cannon
+2200778	Oreopanax nubigenus Standl.
+2200421	Oreopanax oerstedianus Marchal
+100279896	Oreopanax paramicola J.F. Morales & Idárraga
+2200716	Oreopanax peltatus Linden ex Regel
+2200762	Oreopanax platyphyllus Marchal
+2200772	Oreopanax pycnocarpus Donn. Sm.
+2200717	Oreopanax sanderianus Hemsl.
+2200776	Oreopanax spathulatus M.J. Cannon & Cannon
+2200771	Oreopanax standleyi A.C. Sm.
+2200199	Oreopanax steyermarkii A.C. Sm.
+2200775	Oreopanax striatus M.J. Cannon & Cannon
+2200422	Oreopanax vestitus A.C. Sm.
+2200423	Oreopanax xalapensis (Kunth) Decne. & Planch.
+40033203	Oreopanax Decne. & Planch.
+13011034	Ormosia amazonica Ducke
+50304836	Ormosia carinata N. Zamora
+13030749	Ormosia coccinea (Aubl.) Jacks.
+13011042	Ormosia coccinea var. subsimplex (Spruce ex Benth.) Rudd
+13011047	Ormosia cruenta Rudd
+50304833	Ormosia intermedia N. Zamora
+13011064	Ormosia isthmensis Standl.
+13011069	Ormosia macrocalyx Ducke
+13066850	Ormosia oaxacana Rudd
+13013295	Ormosia panamensis Benth. ex Seem.
+13011079	Ormosia paraensis Ducke
+13011082	Ormosia schippii Pierce ex Standl. & Steyerm.
+13011094	Ormosia velutina Rudd
+40033586	Ormosia Jacks.
+27910440	Osa pulchra (D.R. Simpson) Aiello
+40037972	Osa Aiello
+100235913	Osmanthus americanus (L.) Benth. & Hook. f. ex A. Gray
+40034441	Osmanthus Lour.
+20302717	Ossaea spicata Gleason
+21800088	Osteophloeum platyspermum (Spruce ex A. DC.) Warb.
+50187335	Osteophloeum platyspermum var. platyspermum 
+40034599	Osteophloeum Warb.
+3600027	Ostrya virginiana (Mill.) K. Koch
+40034662	Ostrya Scop.
+21800105	Otoba acuminata (Standl.) A.H. Gentry
+21800106	Otoba latialata (Pittier) A.H. Gentry
+21800107	Otoba novogranatensis Moldenke
+100475212	Otoba sp. a-fl. meso 
+100485316	Otoba vespertilio D. Santam. & J.E. Jiménez
+100475801	Oxandra aberrans Maas & Junikka
+1601386	Oxandra lanceolata (Sw.) Baill.
+1600822	Oxandra longipetala R.E. Fr.
+1601381	Oxandra maya Miranda
+1600823	Oxandra panamensis R.E. Fr.
+1601604	Oxandra venezuelana R.E. Fr.
+40035241	Oxandra A. Rich.
+2711450	Oyedaea verbesinoides DC.
+40035622	Oyedaea DC.
+3900113	Pachira aquatica Aubl.
+3900714	Pachira quinata W.S. Alverson
+3900402	Pachira sessilis Benth.
+40035726	Pachira Aubl.
+100365227	Palicourea beachiana C.M. Taylor
+100365235	Palicourea grandifructa (C.M. Taylor) C.M. Taylor
+100365237	Palicourea hondensis (Standl.) C.M. Taylor
+100365238	Palicourea mediocris (Standl. & Steyerm.) Lorence
+100365242	Palicourea psychotrioides (C.M. Taylor & Hammel) C.M. Taylor
+40000063	Palicourea Aubl.
+23900008	Pandanus tectorius Parkinson
+50079007	Pandanus utilis Bory
+40000418	Pandanus Parkinson
+50308580	Panopsis acostana J.F. Morales
+40001708	Parathesis (A. DC.) Hook. f.
+22000650	Parathesis amplifolia Lundell
+22000945	Parathesis aurantiaca Lundell
+22000947	Parathesis calophylla Donn. Sm.
+22001477	Parathesis cartagoana Lundell
+22001478	Parathesis cintalapana Lundell
+22000950	Parathesis columnaris Lundell
+50092173	Parathesis costaricensis Ricketson
+22001482	Parathesis crassiramea Lundell
+22000243	Parathesis croatii Lundell
+22000952	Parathesis donnell-smithii Mez
+22000651	Parathesis glabra Donn. Sm.
+50099957	Parathesis glendae Ricketson
+22000954	Parathesis lanceolata Brandegee
+22000956	Parathesis leptopa Lundell
+50099958	Parathesis longipedicellata Ricketson
+22001496	Parathesis macrantha Lundell
+22000957	Parathesis macronema Bullock
+22000252	Parathesis multiflora Lundell
+22000654	Parathesis panamensis Lundell
+22000960	Parathesis papillosa Lundell
+22001515	Parathesis perpunctata Lundell
+50222342	Parathesis pipolyana Ricketson
+22000961	Parathesis pleurobotryosa Donn. Sm.
+50222344	Parathesis pseudocalophylla Ricketson & Pipoly
+50222345	Parathesis pseudocrassiramea Ricketson & Pipoly
+22000963	Parathesis rufa Lundell
+22000655	Parathesis seibertii Lundell
+22000964	Parathesis sessilifolia Donn. Sm.
+22000965	Parathesis skutchii Lundell
+22000967	Parathesis subcoriacea Lundell
+22000969	Parathesis tartarea Lundell
+22001668	Parathesis trichogyne Hemsl.
+22000971	Parathesis vestita Lundell
+22000972	Parathesis vulgata Lundell
+22000257	Parathesis williamsii Lundell
+13031302	Parkia nitida Miq.
+13031307	Parkia pendula (Willd.) Benth. ex Walp.
+40001924	Parkia R. Br.
+3700631	Parmentiera aculeata (Kunth) Seem.
+2717639	Parthenium schottii Greenm.
+3900126	Patinoa almirajo Cuatrec.
+40002381	Patinoa Cuatrec.
+19200598	Pehria compacta (Rusby) Sprague
+40003045	Pehria Sprague
+13051839	Peltophorum pterocarpum (DC.) Backer ex K. Heyne
+28101303	Peltostigma pteleoides (Hook.) Walp.
+13012015	Pentaclethra macroloba (Willd.) Kuntze
+40003610	Pentaclethra Benth.
+27910008	Pentagonia costaricensis (Standl.) W.C. Burger & C.M. Taylor
+27909673	Pentagonia parvifolia Steyerm.
+40003715	Pentagonia Benth.
+50053213	Pentaplaris doroteae L.O. Williams & Standl.
+40003890	Pentaplaris L.O. Williams & Standl.
+12801645	Pera barbellata Standl.
+21300620	Perebea angustifolia (Poepp. & Endl.) C.C. Berg
+21300622	Perebea xanthochyma H. Karst.
+40004334	Perebea Aubl.
+40004725	Periptera DC.
+40004807	Peritassa Miers
+6600603	Perrottetia longistylis Rose
+6600342	Perrottetia multiflora Lundell
+6600732	Perrottetia ovata Hemsl.
+6600344	Perrottetia sessiliflora Lundell
+40004997	Perrottetia Kunth
+17801262	Persea americana Mill.
+100001644	Persea pallescens (Mez) Lorea-Hern.
+17801387	Persea schiedeana Nees
+2726245	Perymenium grande Hemsl.
+2726246	Perymenium grande var. grande 
+2726247	Perymenium grande var. nelsonii (B.L. Rob. & Greenm.) J.J. Fay
+100444647	Perymenium hondurense Pruski
+40005118	Perymenium Schrad.
+40005566	Petrea L.
+28100510	Phellodendron japonicum Maxim.
+40006477	Phellodendron Rupr.
+2401073	Phoenix canariensis Wildpret
+40007076	Phoenix L.
+27803547	Photinia matudae Lundell
+27800724	Photinia mexicana (Baill.) Hemsl.
+27800725	Photinia microcarpa Standl.
+50051859	Photinia microcarpa subsp. microcarpa 
+50112864	Photinia microcarpa subsp. elliptica J.B. Phipps
+50113182	Photinia microcarpa subsp. hintonii J.B. Phipps
+40007186	Photinia Lindl.
+3900660	Phragmotheca mammosa W.S. Alverson
+3900661	Phragmotheca mammosa subsp. mammosa 
+40007243	Phragmotheca Cuatrec.
+12800249	Phyllanthus acidus (L.) Skeels
+40007500	Phyllanthus L.
+25512369	Phyllostachys aurea Carrière ex Rivière & C. Rivière
+40007855	Phyllostachys Siebold & Zucc.
+33300199	Phyllostylon rhamnoides (J. Poiss.) Taub.
+40007882	Phyllostylon Capan. ex Benth. & Hook. f.
+40008825	Pilocarpus Vahl
+22101787	Pimenta dioica (L.) Merr.
+22102957	Pimenta guatemalensis (Lundell) Lundell
+40008985	Pimenta Lindl.
+24900019	Pinus ayacahuite C. Ehrenb. ex Schltdl.
+24900180	Pinus caribaea Morelet
+24900393	Pinus caribaea var. hondurensis (Sénécl.) W.H. Barrett & Golfari
+24900957	Pinus devoniana Lindl.
+24900649	Pinus hartwegii Lindl.
+24900854	Pinus maximinoi H.E. Moore
+24900641	Pinus montezumae Lamb.
+24900645	Pinus oocarpa Schiede ex Schltdl.
+50155825	Pinus oocarpa var. oocarpa 
+24900643	Pinus pseudostrobus Lindl.
+24901821	Pinus pseudostrobus var. pseudostrobus 
+50050497	Pinus pseudostrobus var. apulcensis (Lindl.) Shaw
+24900219	Pinus strobus L.
+24900644	Pinus strobus var. chiapensis Martínez
+24900830	Pinus tecunumanii F. Schwerdtf. ex Eguiluz & J.P. Perry
+24900654	Pinus teocote Schltdl. & Cham.
+40009142	Pinus L.
+25001128	Piper aduncum L.
+25003058	Piper aereum Trel.
+25002324	Piper affectans Trel.
+25002003	Piper albopunctulatissimum Trel.
+100432146	Piper alushii Callejas
+25003200	Piper aserrianum Trel.
+25003087	Piper auritifolium Trel.
+25002010	Piper auritum Kunth
+100434829	Piper belicense Callejas
+25002367	Piper chiriquinum C. DC.
+25003202	Piper clavuligerum Trel.
+50006887	Piper comayaguanum Trel.
+25003047	Piper concinnifolium Trel.
+25002027	Piper cooperi Yunck.
+25003064	Piper corozalanum Trel.
+25004849	Piper crassicaule Trel.
+25000530	Piper crassinervium Kunth
+50114032	Piper culebranum C. DC.
+25003302	Piper disparipes Trel.
+25003244	Piper dissimulans Trel.
+25000568	Piper epigynium C. DC.
+25003199	Piper escuadranum Trel.
+25003343	Piper euryphyllum C. DC.
+25000582	Piper fimbriulatum C. DC.
+25003241	Piper formicitolerans Trel.
+25000591	Piper friedrichsthalii C. DC.
+25003141	Piper gibbosum C. DC.
+25002416	Piper gigas Trel.
+25002043	Piper hartwegianum (Benth.) C. DC.
+25003220	Piper irazuanum C. DC.
+25003203	Piper irrasum Trel.
+50107991	Piper longepetiolatum (C. DC.) Trel.
+25003198	Piper magnilimbum C. DC.
+25003228	Piper melanocladum C. DC.
+50218368	Piper membranaceum C. DC.
+50148814	Piper mexicanum (Miq.) DC.
+25003240	Piper oblanceolatum Trel.
+25003204	Piper palmanum Trel.
+25003344	Piper papantlense C. DC.
+25002767	Piper pergamentifolium Trel. & Standl.
+50006893	Piper perinaequilongum Trel.
+25000816	Piper pittieri C. DC.
+25000831	Piper prismaticum C. DC.
+25003136	Piper pseudofimbriulatum Trel.
+25001139	Piper reticulatum L.
+25000911	Piper scleromyelum C. DC.
+25002090	Piper scutilimbum C. DC.
+25003085	Piper signatum Trel.
+25000921	Piper silvicola C. DC.
+25000945	Piper subfuscum C. DC.
+25002537	Piper subnudibracteum C. DC.
+25002549	Piper tardans Trel.
+25003086	Piper tinctum Trel.
+25001141	Piper tuberculatum Jacq.
+50219157	Piper udicola C. DC.
+50219148	Piper udimontanum C. DC.
+25001142	Piper umbellatum L.
+25002791	Piper variabile C. DC.
+100434822	Piper velutinobracteosum Callejas
+50006900	Piper wilsonii Trel.
+25002794	Piper yzabalanum C. DC.
+25001026	Piper zacatense C. DC.
+40009283	Piptocarpha R. Br.
+50066777	Piptocoma discolor (Kunth) Pruski
+40009332	Piptocoma Cass.
+13031807	Piscidia carthagenensis Jacq.
+13012531	Piscidia grandifolia (Donn. Sm.) I.M. Johnst.
+13069010	Piscidia grandifolia var. grandifolia 
+13012537	Piscidia piscipula (L.) Sarg.
+40009600	Piscidia L.
+22500246	Pisonia aculeata L.
+22500614	Pisonia macranthocarpa (Donn. Sm.) Donn. Sm.
+40009615	Pisonia L.
+1300744	Pistacia mexicana Kunth
+1300829	Pistacia vera L.
+40009643	Pistacia L.
+13012572	Pithecellobium albicaule Britton & Rose
+13075907	Pithecellobium bipinnatum L. Rico
+13012638	Pithecellobium dulce (Roxb.) Benth.
+13012655	Pithecellobium furcatum Benth.
+13031921	Pithecellobium hymenaeifolium (Humb. & Bonpl. ex Willd.) Benth.
+13012678	Pithecellobium insigne Micheli ex Donn. Sm.
+13012682	Pithecellobium johansenii Standl.
+13031927	Pithecellobium lanceolatum (Humb. & Bonpl. ex Willd.) Benth.
+13012705	Pithecellobium macrandrium Donn. Sm.
+13012735	Pithecellobium oblongum Benth.
+13012750	Pithecellobium peckii S.F. Blake
+13012797	Pithecellobium seleri Harms
+13012839	Pithecellobium winzerlingii Britton & Rose
+40009723	Pithecellobium Mart.
+40009787	Pittocaulon H.Rob. & Brettell
+27903746	Pittoniotis trichantha Griseb.
+40009801	Pittoniotis Griseb.
+25200077	Plantago australis Lam.
+50291053	Pleodendron costaricense N. Zamora, Hammel & Aguilar
+40011427	Pleodendron Tiegh.
+50334165	Pleurothyrium triflorum van der Werff
+50233932	Plinia cerrocampanensis Barrie
+50233933	Plinia coclensis Barrie
+50233941	Plinia darienensis Barrie
+50233944	Plinia gentryi Barrie
+50233947	Plinia guanacastensis Barrie
+50233950	Plinia moralesii Barrie
+50233954	Plinia nicaraguensis Barrie
+50233955	Plinia panamensis Barrie
+22102576	Plinia peroblata (Lundell) Lundell
+22103048	Plinia povedae P.E. Sánchez
+22103050	Plinia puriscalensis P.E. Sánchez & Q. Jiménez
+50233979	Plinia salamancana (Standl.) Barrie
+22102577	Plinia salticola McVaugh
+40012048	Plinia L.
+40012182	Pluchea Cass.
+1800011	Plumeria rubra L.
+40012241	Plumeria L.
+40012403	Podachaenium Benth.
+25600078	Podocarpus costaricensis de Laub.
+25600030	Podocarpus guatemalensis Standl.
+25600045	Podocarpus matudae Lundell
+25600018	Podocarpus oleifolius D. Don ex Lamb.
+40012551	Podocarpus L'Hér. ex Pers.
+40012731	Podopterus Bonpl.
+13032035	Poeppigia procera C. Presl
+40012935	Poeppigia C. Presl
+1600943	Polyalthia longifolia (Sonn.) Thwaites
+27901837	Posoqueria coriacea M. Martens & Galeotti
+27908196	Posoqueria grandiflora Standl.
+27903354	Posoqueria latifolia (Rudge) Schult.
+40015341	Posoqueria Aubl.
+21300623	Poulsenia armata (Miq.) Standl.
+21301041	Pourouma bicolor Mart.
+21301896	Pourouma bicolor subsp. chocoana (Standl.) C.C. Berg & Heusden
+21301659	Pourouma bicolor subsp. scobina (Benoist) C.C. Berg & Heusden
+21300311	Pourouma melinonii Benoist
+21301280	Pourouma melinonii subsp. glabrata C.C. Berg & Heusden
+21300376	Pourouma minor Benoist
+40015585	Pourouma Aubl.
+28700989	Pouteria amygdalicarpa (Pittier) T.D. Penn.
+28700689	Pouteria amygdalina (Standl.) Baehni
+28700812	Pouteria areolatifolia Lundell
+28700672	Pouteria austin-smithii (Standl.) Cronquist
+28701498	Pouteria belizensis (Standl.) Cronquist
+28700814	Pouteria briocheoides Lundell
+28700421	Pouteria buenaventurensis (Aubrév.) Pilz
+50095391	Pouteria bulliformis Q. Jiménez & T.D. Penn.
+28700422	Pouteria caimito (Ruiz & Pav.) Radlk.
+28700423	Pouteria calistophylla (Standl.) Baehni
+28700384	Pouteria campechiana (Kunth) Baehni
+28700424	Pouteria chiricana (Standl.) Baehni
+28700425	Pouteria congestifolia Pilz
+28700722	Pouteria cuspidata (A. DC.) Baehni
+28700723	Pouteria cuspidata subsp. dura (Eyma) T.D. Penn.
+28700996	Pouteria cuspidata subsp. robusta (Mart. & Eichler) T.D. Penn.
+50061397	Pouteria dominigensis (C.F. Gaertn.) Baehni
+28700428	Pouteria durlandii (Standl.) Baehni
+28700430	Pouteria euryphylla (Standl.) Baehni
+28701091	Pouteria exfoliata T.D. Penn.
+28701113	Pouteria filiformis T.D. Penn.
+28701121	Pouteria filipes Eyma
+28700431	Pouteria fossicola Cronquist
+28701112	Pouteria foveolata T.D. Penn.
+28700587	Pouteria glomerata (Miq.) Radlk.
+28700934	Pouteria glomerata subsp. glomerata 
+28700998	Pouteria glomerata subsp. stylosa (Pierre) T.D. Penn.
+28700315	Pouteria guianensis Aubl.
+28700941	Pouteria hispida Eyma
+28700692	Pouteria izabalensis (Standl.) Baehni
+28701407	Pouteria juruana K. Krause
+28700318	Pouteria laevigata (Mart.) Radlk.
+28701192	Pouteria lecythidicarpa P.E. Sánchez & Poveda
+28700432	Pouteria leptopedicellata Pilz
+28700732	Pouteria multiflora (A. DC.) Eyma
+28700694	Pouteria quicheana Cronquist
+28700948	Pouteria reticulata (Engl.) Eyma
+50009841	Pouteria rufotomentosa (Lundell) T.D. Penn.
+50065349	Pouteria sambuensis (Pittier) Baehni
+28700390	Pouteria sapota (Jacq.) H.E. Moore & Stearn
+28700437	Pouteria sclerocarpa (Pittier) Cronquist
+50062262	Pouteria silvestris T.D. Penn.
+28701026	Pouteria simulans Monach.
+100382643	Pouteria spicata J.F. Morales
+28700695	Pouteria squamosa Cronquist
+28700438	Pouteria stipitata Cronquist
+28700440	Pouteria subrotata Cronquist
+28700560	Pouteria torta (Mart.) Radlk.
+50063353	Pouteria torta subsp. gallifructa (Cronquist) T.D. Penn.
+28700717	Pouteria torta subsp. tuberculata (Sleumer) T.D. Penn.
+28700958	Pouteria trilocularis Cronquist
+50063666	Pouteria triplarifolia Standl. & L.O. Williams ex T.D. Penn.
+28700696	Pouteria viridis (Pittier) Cronquist
+40015623	Pouteria Aubl.
+17804386	Povedadaphne quadriporata W.C. Burger
+40036694	Povedadaphne W.C. Burger
+28701056	Pradosia atroviolacea Ducke
+40015654	Pradosia Liais
+100352991	Preslianthus pittieri (Standl.) Iltis & Cornejo
+100352990	Preslianthus Iltis & Cornejo
+2401372	Pritchardia pacifica Seem. & H. Wendl.
+4700083	Protium aracouchini (Aubl.) Marchand
+4700093	Protium colombianum Cuatrec.
+4700114	Protium guianense (Aubl.) Marchand
+100450387	Protium hammelii D. Santam.
+50310173	Protium pecuniosum Daly
+40016610	Protium Burm. f.
+25600150	Prumnopitys standleyi (J. Buchholz & N.E. Gray) de Laub.
+40016704	Prumnopitys Phil.
+27801750	Prunus annularis Koehne
+27801087	Prunus armeniaca L.
+50101153	Prunus axitliana Standl.
+50044985	Prunus chiapensis Standl. & L.O. Williams ex Ant. Molina
+50214948	Prunus compacta L.O. Williams
+50129683	Prunus cortapico Kerber ex Koehne
+27800332	Prunus domestica L.
+27802761	Prunus fortunensis McPherson
+27803553	Prunus guatemalensis I.M. Johnst.
+27803554	Prunus lundelliana Standl.
+27803653	Prunus matudae Lundell
+27800762	Prunus myrtifolia (L.) Urb.
+50202790	Prunus occidentalis Sw.
+27801115	Prunus persica (L.) Batsch
+27803555	Prunus rhamnoides Koehne
+27803556	Prunus salasii Standl.
+27800337	Prunus serotina Ehrh.
+27803673	Prunus serotina subsp. capuli (Cav.) McVaugh
+100398253	Prunus sp. a - fl. meso. 
+100398254	Prunus sp. b - fl. meso. 
+100398255	Prunus sp. c - fl. meso. 
+100398256	Prunus sp. d - fl. meso. 
+100398258	Prunus sp. f - fl. meso. 
+100398259	Prunus sp. g - fl. meso. 
+100398260	Prunus sp. h - fl. meso. 
+100398261	Prunus sp. i - fl. meso. 
+100398262	Prunus sp. j - fl. meso. 
+27803656	Prunus tartarea Lundell
+27803675	Prunus tetradenia Koehne
+40016726	Prunus L.
+3900133	Pseudobombax ellipticoideum A. Robyns
+3900626	Pseudobombax ellipticum (Kunth) Dugand
+3900261	Pseudobombax septenatum (Jacq.) Dugand
+40017353	Pseudobombax Dugand
+21302206	Pseudolmedia glabrata (Liebm.) C.C. Berg
+21300328	Pseudolmedia laevigata Trécul
+21300334	Pseudolmedia rigida (Klotzsch & H. Karst.) Cuatrec.
+21300473	Pseudolmedia spuria (Sw.) Griseb.
+40017997	Pseudolmedia Trécul
+100368318	Pseudomiltemia davidsonii Martínez-Camilo & Lorence
+50278259	Pseudomiltemia Borhidi
+22101792	Psidium cattleyanum Sabine
+22102111	Psidium friedrichsthalianum (O. Berg) Nied.
+22101794	Psidium guajava L.
+22102112	Psidium sartorianum (O. Berg) Nied.
+40018772	Psidium L.
+27903359	Psychotria allenii Standl.
+27903360	Psychotria bakeri Dwyer
+27903362	Psychotria calophylla Standl.
+27903382	Psychotria durilancifolia Dwyer
+27906036	Psychotria lundellii Standl.
+27903414	Psychotria panamensis Standl.
+27906179	Psychotria panamensis var. panamensis 
+27906161	Psychotria panamensis var. compressicaulis (K. Krause) C.W. Ham.
+27906178	Psychotria panamensis var. magna (Standl.) C.W. Ham.
+27903435	Psychotria trichotoma M. Martens & Galeotti
+40019204	Psychotria L.
+50173431	Pterocarpus michelianus N. Zamora
+30401673	Pterygota excelsa (Standl. & L.O. Williams) Kosterm.
+40020226	Pterygota Schott & Endl.
+2401167	Ptychosperma macarthurii (H. Wendl. ex H.J. Veitch) H. Wendl. ex Hook. f.
+26700001	Punica granatum L.
+40020752	Punica L.
+13015534	Punjuba racemiflora (Donn. Sm.) Britton & Rose
+40020764	Punjuba Britton & Rose
+27800339	Pyrus communis L.
+40021515	Pyrus L.
+40021595	Quadrella (DC.) J. Presl
+50326095	Quadrella calciphila (Standl. & Steyerm.) Iltis & Cornejo
+50294751	Quadrella incana (Kunth) Iltis & Cornejo
+50298080	Quadrella indica (L.) Iltis & Cornejo
+50286889	Quadrella isthmensis (Eichler) Hutch.
+50326098	Quadrella isthmensis subsp. isthmensis 
+50298082	Quadrella isthmensis subsp. glabripetala Cornejo & Iltis
+100362741	Quadrella isthmensis subsp. mexicana Cornejo & Iltis
+100362731	Quadrella lindeniana Cornejo & Iltis
+50326099	Quadrella lundellii (Standl.) Iltis & Cornejo
+50326100	Quadrella mirifica (Standl.) Iltis & Cornejo
+100362732	Quadrella morenoi Cornejo & Iltis
+50062221	Quadrella odoratissima (Jacq.) Hutch.
+50326101	Quadrella pringlei (Briq.) Iltis & Cornejo
+50326102	Quadrella steyermarkii (Standl.) Iltis & Cornejo
+3900262	Quararibea asterolepis Pittier
+3900595	Quararibea aurantiocalyx W.S. Alverson
+3900264	Quararibea ciroana Cuatrec.
+3900612	Quararibea costaricensis W.S. Alverson
+3900147	Quararibea funebris (La Llave) Vischer
+3900771	Quararibea funebris subsp. funebris 
+3900725	Quararibea funebris subsp. nicaraguensis W.S. Alverson
+3900608	Quararibea gomeziana W.S. Alverson
+100469056	Quararibea nigrescens N. Zamora, Cascante & S.Y. Kim
+3900272	Quararibea parvifolia Standl.
+3900610	Quararibea pendula W.S. Alverson
+3900273	Quararibea platyphylla Pittier & Donn. Sm.
+3900274	Quararibea pterocalyx Hemsl.
+3900613	Quararibea pumila W.S. Alverson
+3900598	Quararibea santaritensis W.S. Alverson
+3900276	Quararibea stenophylla Pittier
+50212483	Quararibea tulekunae Fern. Alonso
+3900611	Quararibea yunckeri Standl.
+50061852	Quararibea yunckeri subsp. yunckeri 
+50191832	Quararibea yunckeri subsp. izabalensis W.S. Alverson ex Véliz
+3900759	Quararibea yunckeri subsp. sessiliflora Miranda ex W.S. Alverson
+40021691	Quararibea Aubl.
+13100492	Quercus acutifolia Née
+50004637	Quercus affinis Scheidw.
+13100306	Quercus benthamii A. DC.
+100470539	Quercus breedloveana Nixon & Barrie
+13100356	Quercus bumelioides Liebm.
+13100163	Quercus corrugata Hook.
+13100494	Quercus cortesii Liebm.
+13100352	Quercus costaricensis Liebm.
+13100368	Quercus crassifolia Bonpl.
+13100312	Quercus crispipilis Trel.
+13100369	Quercus elliptica Née
+13100355	Quercus eugeniifolia Liebm.
+13100576	Quercus glabrescens Benth.
+13100164	Quercus gulielmi-treleasei C.H. Mull.
+13100165	Quercus humboldtii Bonpl.
+13100166	Quercus insignis M. Martens & Galeotti
+13100495	Quercus lancifolia Schltdl. & Cham.
+13100370	Quercus laurina Bonpl.
+100470540	Quercus melissae Nixon & Barrie
+50102148	Quercus mulleri Martínez
+50146397	Quercus ocoteifolia Liebm.
+13100316	Quercus oleoides Schltdl. & Cham.
+13100167	Quercus oocarpa Liebm.
+13100372	Quercus paxtalensis C.H. Mull.
+13100318	Quercus peduncularis Née
+13100321	Quercus polymorpha Schltdl. & Cham.
+50007997	Quercus rapurahuensis Pittier ex Seemen
+13100120	Quercus rugosa Née
+13100323	Quercus sapotifolia Liebm.
+100470538	Quercus sarahmariae Nixon & Barrie
+13100170	Quercus seemannii Liebm.
+13100018	Quercus segoviensis Liebm.
+100404786	Quercus skinneri Benth.
+13101638	Quercus skutchii Trel.
+13100325	Quercus tristis Liebm.
+13100552	Quercus vicentensis Trel.
+13100375	Quercus xalapensis Bonpl.
+40021776	Quercus L.
+6600685	Quetzalia guatemalensis (Sprague) Lundell
+6600688	Quetzalia ilicina (Standl. & Steyerm.) Lundell
+6600345	Quetzalia occidentalis (Loes. ex Donn. Sm.) Lundell
+40021801	Quetzalia Lundell
+27909338	Randia calycosa Standl.
+27909989	Randia genipoides Dwyer
+27912893	Randia laevigata Standl.
+27903447	Randia lasiantha (Standl.) Standl.
+27906546	Randia matudae Lorence & Dwyer
+27902228	Randia petenensis Lundell
+27912322	Randia pittieri (Standl.) Standl.
+27912323	Randia pterocarpa Lorence & Dwyer
+40022540	Randia L.
+100406849	Raputiarana heptaphylla (Pittier) Kallunki
+1804395	Rauvolfia aphlebia (Standl.) A.H. Gentry
+1800535	Rauvolfia purpurascens Standl.
+40022964	Rauvolfia L.
+21500398	Ravenala madagascariensis Sonn.
+40022990	Ravenala Adans.
+33702466	Rehdera penninervia Standl. & Moldenke
+33702467	Rehdera trinervis (S.F. Blake) Moldenke
+40023370	Rehdera Moldenke
+27500922	Reynosia barbatula M.C. Johnst. & Lundell
+40024079	Reynosia Griseb.
+40024272	Rhamnus L.
+27600064	Rhizophora harrisonii Leechm.
+27600058	Rhizophora mangle L.
+27600107	Rhizophora racemosa G. Mey.
+40024808	Rhizophora L.
+40024927	Rhododendron L.
+100351743	Rinorea zygomorpha H.E. Ballard & Wahlert
+13032749	Robinia pseudoacacia L.
+19602522	Robinsonella brevituba Fryxell
+19600741	Robinsonella densiflora Fryxell
+19602752	Robinsonella erasmi-sosae C. Nelson
+19602523	Robinsonella glabrifolia Fryxell
+19602525	Robinsonella lindeniana (Turcz.) Rose & Baker f.
+19602524	Robinsonella lindeniana subsp. divergens (Rose & Baker f.) Fryxell
+19602526	Robinsonella mirandae Gómez Pompa
+19602670	Robinsonella pilosa Rose
+19600745	Robinsonella pilosissima Fryxell
+50170824	Robinsonella pleiopoda (Donn. Sm.) Fryxell
+19602527	Robinsonella samaricarpa Fryxell
+19600746	Robinsonella speciosa Fryxell
+40026294	Robinsonella Rose & Baker f.
+50134942	Rogiera stenosiphon (Hemsl.) Borhidi
+40026628	Rogiera Planch.
+2701188	Rojasianthe superba Standl. & Steyerm.
+40026668	Rojasianthe Standl. & Steyerm.
+100379232	Rojasianthinae Panero
+27902310	Rondeletia belizensis Standl.
+40026834	Rondeletia L.
+26500068	Roupala cordifolia Kunth
+50235658	Roupala mexicana K.S. Edwards & Prance
+50304813	Roupala sessiliflora J.F. Morales
+2400001	Roystonea regia (Kunth) O.F. Cook
+50110019	Rudgea colombiana Standl.
+50073209	Rudgea mcphersonii Dwyer ex C.M. Taylor
+27903478	Rudgea pittieri Standl.
+40027533	Rudgea Salisb.
+26000348	Ruprechtia chiapensis Lundell
+50231715	Ruprechtia costaricensis Pendry
+26001051	Ruprechtia costata Meisn.
+50231714	Ruprechtia nicaraguensis Pendry
+26002772	Ruprechtia ramiflora (Jacq.) C.A. Mey.
+40027773	Ruprechtia C.A. Mey.
+23701464	Ruptiliocarpon caracolito Hammel & N. Zamora
+40038150	Ruptiliocarpon Hammel & N. Zamora
+27910053	Rustia costaricensis (Standl.) Lorence
+40027864	Rustia Klotzsch
+2401539	Sabal gretherae H.J. Quero
+2400617	Sabal yapa C. Wright ex Becc.
+15600266	Salacia cordata (Miers) Mennega
+50328632	Salacia cordata subsp. cordata 
+50328593	Salacia cordata subsp. petenensis (Lundell) Lombardi
+15600100	Salacia elliptica (Mart.) G. Don
+50328612	Salacia panamensis Lombardi
+40028667	Salacia L.
+100396287	Salacioideae N. Hallé ex Thorne & Reveal
+40029116	Samanea (Benth.) Merr.
+13006406	Samanea saman (Jacq.) Merr.
+50150772	Samyda mexicana Rose
+7801537	Santomasia steyermarkii (Standl.) N. Robson
+40037820	Santomasia N. Robson
+1601323	Sapranthus campechianus (Kunth) Standl.
+50143437	Sapranthus hirsutus van Rooden ex G.E. Schatz
+1601324	Sapranthus microcarpus (Donn. Sm.) R.E. Fr.
+1601603	Sapranthus palanga R.E. Fr.
+1601608	Sapranthus violaceus (Dunal) Saff.
+1602308	Sapranthus viridiflorus G.E. Schatz
+40029497	Sapranthus Seem.
+28700601	Sarcaulus brasiliensis (A. DC.) Eyma
+40029620	Sarcaulus Radlk.
+500078	Saurauia rubiformis Vatke
+6600309	Schaefferia frutescens Jacq.
+40030955	Schaefferia Jacq.
+2200794	Schefflera albocapitata M.J. Cannon & Cannon
+2200795	Schefflera aquaverensis M.J. Cannon & Cannon
+2200791	Schefflera archeri Harms
+2200792	Schefflera bifida M.J. Cannon & Cannon
+2200426	Schefflera brenesii A.C. Sm.
+2200793	Schefflera cartagoensis M.J. Cannon & Cannon
+2200766	Schefflera cicatricata M.J. Cannon & Cannon
+2200779	Schefflera coclensis M.J. Cannon & Cannon
+2200427	Schefflera epiphytica A.C. Sm.
+2200767	Schefflera instita M.J. Cannon & Cannon
+2200784	Schefflera jefensis M.J. Cannon & Cannon
+2200780	Schefflera macphersonii M.J. Cannon & Cannon
+2200796	Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin
+2200786	Schefflera nicaraguensis (Standl.) A.C. Sm.
+2200782	Schefflera octostyla M.J. Cannon & Cannon
+2200429	Schefflera robusta (A.C. Sm.) A.C. Sm.
+50299057	Schefflera rodriguesiana Frodin
+2200430	Schefflera seibertii A.C. Sm.
+2200431	Schefflera sphaerocoma (Benth.) Harms
+2200788	Schefflera whitefoordiae M.J. Cannon & Cannon
+40031109	Schefflera J.R. Forst. & G. Forst.
+1300267	Schinus molle L.
+1300216	Schinus terebinthifolia Raddi
+40031409	Schinus L.
+2401158	Schippia concolor Burret
+40031430	Schippia Burret
+100367603	Schizocalyx veraguensis (Dwyer) Kainul. & B. Bremer
+40031720	Schizocalyx Wedd.
+13006414	Schizolobium parahyba (Vell.) S.F. Blake
+40031882	Schizolobium Vogel
+2200433	Sciadodendron excelsum Griseb.
+40033240	Sciadodendron Griseb.
+15600396	Semialarium mexicanum (Miers) Mennega
+40038172	Semialarium N. Hallé
+13041257	Senna atomaria (L.) H.S. Irwin & Barneby
+13041262	Senna bacillaris (L. f.) H.S. Irwin & Barneby
+13067878	Senna bacillaris var. bacillaris 
+13041308	Senna dariensis (Britton & Rose) H.S. Irwin & Barneby
+13067676	Senna dariensis var. dariensis 
+13041310	Senna dariensis var. hypoglauca H.S. Irwin & Barneby
+13041323	Senna fruticosa (Mill.) H.S. Irwin & Barneby
+13048436	Senna hayesiana (Britton & Rose) H.S. Irwin & Barneby
+13041374	Senna macrophylla (Kunth) H.S. Irwin & Barneby
+13041375	Senna macrophylla var. gigantifolia (Britton & Killip) H.S. Irwin & Barneby
+13041385	Senna mollissima (Humb. & Bonpl. ex Willd.) H.S. Irwin & Barneby
+13041386	Senna mollissima var. glabrata (Benth.) H.S. Irwin & Barneby
+13041395	Senna multijuga (Rich.) H.S. Irwin & Barneby
+13041396	Senna multijuga subsp. doylei (Britton & Rose) H.S. Irwin & Barneby
+13041406	Senna nicaraguensis (Benth.) H.S. Irwin & Barneby
+13041440	Senna papillosa (Britton & Rose) H.S. Irwin & Barneby
+13067681	Senna papillosa var. papillosa 
+13041463	Senna peralteana (Kunth) H.S. Irwin & Barneby
+13041482	Senna racemosa (Mill.) H.S. Irwin & Barneby
+13067905	Senna racemosa var. racemosa 
+13041484	Senna racemosa var. liebmannii (Benth.) H.S. Irwin & Barneby
+13041488	Senna reticulata (Willd.) H.S. Irwin & Barneby
+13048426	Senna siamea (Lam.) H.S. Irwin & Barneby
+13041513	Senna skinneri (Benth.) H.S. Irwin & Barneby
+13041516	Senna spectabilis (DC.) H.S. Irwin & Barneby
+13067908	Senna spectabilis var. spectabilis 
+40035375	Senna Mill.
+13048383	Sesbania grandiflora (L.) Poir.
+28701082	Sideroxylon capiri (A. DC.) Pittier
+28701087	Sideroxylon capiri subsp. tempisque (Pittier) T.D. Penn.
+28701114	Sideroxylon contrerasii (Lundell) T.D. Penn.
+50044353	Sideroxylon durifolium (Standl.) T.D. Penn.
+50044321	Sideroxylon eucoriaceum (Lundell) T.D. Penn.
+50044649	Sideroxylon floribundum Griseb.
+50044667	Sideroxylon floribundum subsp. belizense (Lundell) T.D. Penn.
+28700698	Sideroxylon foetidissimum Jacq.
+50044706	Sideroxylon foetidissimum subsp. gaumeri (Pittier) T.D. Penn.
+50044355	Sideroxylon hirtiantherum T.D. Penn.
+50042833	Sideroxylon ibarrae (Lundell) T.D. Penn.
+28700840	Sideroxylon obtusifolium (Humb. ex Roem. & Schult.) T.D. Penn.
+28700863	Sideroxylon obtusifolium subsp. buxifolium (Roem. & Schult.) T.D. Penn.
+50041495	Sideroxylon palmeri (Rose) T.D. Penn.
+28701409	Sideroxylon persimile (Hemsl.) T.D. Penn.
+28701411	Sideroxylon portoricense subsp. minutiflorum (Pittier) T.D. Penn.
+28701092	Sideroxylon portoricense Urb.
+50009799	Sideroxylon retinerve T.D. Penn.
+28701412	Sideroxylon stenospermum (Standl.) T.D. Penn.
+50157356	Sideroxylon stevensonii (Standl.) Standl. & Steyerm.
+50044644	Sideroxylon tepicense (Standl.) T.D. Penn.
+40000075	Sideroxylon L.
+27903488	Simira klugei (Standl.) Steyerm.
+27903489	Simira maxonii (Standl.) Steyerm.
+100367243	Simira panamensis (Dwyer) C.M. Taylor
+27906557	Simira rhodoclada (Standl.) Steyerm.
+27906951	Simira salvadorensis (Standl.) Steyerm.
+40000409	Simira Aubl.
+21200116	Siparuna cristata (Poepp. & Endl.) A. DC.
+21200119	Siparuna cuspidata (Tul.) A. DC.
+21200193	Siparuna thecaphora (Poepp. & Endl.) A. DC.
+40000742	Siparuna Aubl.
+22103279	Siphoneugena dussii (Krug & Urb.) Proença
+40000864	Siphoneugena O. Berg
+100437744	Sloanea ahuatoso Lozada-Pérez
+11700137	Sloanea cruenta Lundell
+100439744	Sloanea damonsmithii D. Santam. & Aguilar
+100439747	Sloanea eugenifloresiae Aguilar & D. Santam.
+100439749	Sloanea herrerae Aguilar & D. Santam.
+11700143	Sloanea mexicana Standl.
+11700081	Sloanea schippii Standl.
+40001280	Sloanea L.
+40001293	Smallanthus Mack.
+29603885	Solanum wrightii Benth.
+27910363	Sommera montana L.O. Williams
+40001976	Sommera Schltdl.
+40002086	Sophora L.
+21300628	Sorocea affinis Hemsl.
+21300631	Sorocea pubivena Hemsl.
+50076836	Sorocea pubivena subsp. pubivena 
+21302100	Sorocea pubivena subsp. oligotricha (Akkermans & C.C. Berg) C.C. Berg
+50076837	Sorocea ruminata C.C. Berg
+21300632	Sorocea trophoides W.C. Burger
+21300633	Sorocea trophoides subsp. trophoides 
+40002239	Sorocea A. St.-Hil.
+3700582	Spathodea campanulata P. Beauv.
+40002693	Spathodea P. Beauv.
+26614829	Sphaeropteris brunei (Christ) R.M. Tryon
+26607410	Sphaeropteris horrida (Liebm.) R.M. Tryon
+40003223	Sphaeropteris Bernh.
+3900789	Spirotheca rosea (Seem.) P.E. Gibbs & W.S. Alverson
+40003862	Spirotheca Ulbr.
+1300225	Spondias dulcis Parkinson
+1300339	Spondias macrocarpa Engl.
+1300270	Spondias mombin L.
+1300271	Spondias purpurea L.
+50246422	Spondias tuberosa Arruda
+1300228	Spondias venulosa (Engl.) Engl.
+40003912	Spondias L.
+50131893	Stachyarrhena heterochroa Standl.
+40004160	Stachyarrhena Hook. f.
+28100266	Stauranthus perforatus Liebm.
+40004596	Stauranthus Liebm.
+1801363	Stemmadenia alfaroi (Donn. Sm.) Woodson
+1800556	Stemmadenia donnell-smithii (Rose) Woodson
+1801369	Stemmadenia eubracteata Woodson
+1805481	Stemmadenia litoralis (Kunth) L. Allorge
+40005092	Stemmadenia Benth.
+50181606	Stenosepala C.H. Perss.
+100365924	Stenostomum acreanum (K. Krause) Achille & Delprete
+100362591	Stenostomum darienense (Dwyer) C.M. Taylor
+27908391	Stenostomum lucidum (Sw.) C.F. Gaertn.
+100362592	Stenostomum turrialbanum (N. Zamora & Poveda) C.M. Taylor
+40005635	Stenostomum C.F. Gaertn.
+30400661	Sterculia apetala (Jacq.) H. Karst.
+30400662	Sterculia costaricana Pittier
+30401497	Sterculia foetida L.
+30401409	Sterculia mexicana R. Br.
+30401016	Sterculia recordiana Standl.
+40005891	Sterculia L.
+19000570	Strychnos croatii Krukoff & Barneby
+40007361	Strychnos L.
+22000661	Stylogyne turbacensis (Kunth) Mez
+50096905	Stylogyne turbacensis subsp. turbacensis 
+50096906	Stylogyne turbacensis subsp. laevis (Oerst.) Ricketson & Pipoly
+13071888	Styphnolobium caudatum M. Sousa & Rudd
+13076024	Styphnolobium monteviridis M. Sousa & Rudd
+50040439	Styphnolobium parviflorum M. Sousa & Rudd
+50042884	Styphnolobium sporadicum M. Sousa & Rudd
+40007711	Styphnolobium Schott
+30800007	Styrax argenteus C. Presl
+30800068	Styrax conterminus Donn. Sm.
+50070893	Styrax glabratus Schott
+30800106	Styrax glabrescens Benth.
+50128914	Styrax incarnatus P.W. Fritsch
+30800109	Styrax magnus Lundell
+50117235	Styrax nicaraguensis P.W. Fritsch
+50128924	Styrax nicaraguensis subsp. nicaraguensis 
+50128925	Styrax nicaraguensis subsp. ellipsoidalis P.W. Fritsch
+30800074	Styrax panamensis Standl.
+30800039	Styrax peruvianus Zahlbr.
+30800076	Styrax ramirezii Greenm.
+50070232	Styrax steyermarkii P.W. Fritsch
+30800054	Styrax warscewiczii Perkins
+40007742	Styrax L.
+13001698	Swartzia cubensis (Britton & P. Wilson) Standl.
+13001721	Swartzia guatemalensis (Donn. Sm.) Pittier
+50304821	Swartzia maquenqueana N. Zamora & D. Solano
+50192448	Swartzia mexicana M. Sousa & R. Grether
+13001765	Swartzia nicaraguensis (Britton & Rose) Standl.
+13001767	Swartzia nuda Schery
+13013542	Swartzia oraria R.S. Cowan
+13001777	Swartzia phaneroptera Standl.
+50333757	Swartzia picramnioides Standl. & L.O. Williams ex Torke & N. Zamora
+13033288	Swartzia robiniifolia Willd. ex Vogel
+13033289	Swartzia simplex (Sw.) Spreng.
+13001808	Swartzia standleyi (Britton & Rose) Standl.
+13001810	Swartzia sumorum Ant. Molina
+100364484	Swartzia zeledonensis Torke & N. Zamora
+40008182	Swartzia Schreb.
+30900114	Symplocos abietorum Standl. & Steyerm.
+30900077	Symplocos austin-smithii Standl.
+30900125	Symplocos breedlovei Lundell
+30900145	Symplocos costaricana Hemsl.
+30900115	Symplocos culminicola Standl. & Steyerm.
+30900130	Symplocos excelsa L.O. Williams
+30900030	Symplocos hartwegii A. DC.
+50165306	Symplocos jurgensenii Hemsl.
+30900117	Symplocos limoncillo Bonpl.
+30900129	Symplocos longipes Lundell
+50198672	Symplocos morii Almeda & L.M. Kelly
+50198673	Symplocos naniflora L.M. Kelly & Almeda
+50074447	Symplocos oreophila Almeda
+30900110	Symplocos panamensis McPherson
+30900146	Symplocos povedae Almeda
+50074457	Symplocos pycnantha Hemsl.
+50266057	Symplocos retusa Kriebel, J.Á. González & E. Alfaro
+30900058	Symplocos schiedeana Schltdl.
+30900079	Symplocos serrulata Bonpl.
+50278837	Symplocos striata Kriebel & N. Zamora
+30900119	Symplocos tacanensis Lundell
+30900151	Symplocos tribracteolata Almeda
+30900120	Symplocos vatteri Standl. & Steyerm.
+40008696	Symplocos Jacq.
+12804781	Synadenium grantii Hook. f.
+40008724	Synadenium Boiss.
+40008836	Synardisia (Mez) Lundell
+22000366	Synardisia venosa (Mast.) Lundell
+22102113	Syzygium cumini (L.) Skeels
+22101929	Syzygium jambos (L.) Alston
+22102114	Syzygium malaccense (L.) Merr. & L.M. Perry
+50071163	Syzygium paniculatum Gaertn.
+22102115	Syzygium samarangense (Blume) Merr. & L.M. Perry
+40009310	Syzygium P. Browne ex Gaertn.
+3701577	Tabebuia donnell-smithii Rose
+3700583	Tabebuia heterophylla (DC.) Britton
+3700648	Tabebuia rosea (Bertol.) DC.
+40009350	Tabebuia Gomes ex DC.
+1801975	Tabernaemontana alba Mill.
+1800794	Tabernaemontana amygdalifolia Jacq.
+1800845	Tabernaemontana arborea Rose
+1800047	Tabernaemontana heterophylla Vahl
+1801446	Tabernaemontana longipes Donn. Sm.
+1801449	Tabernaemontana markgrafiana J.F. Macbr.
+1801546	Tabernaemontana panamensis (Markgr., Boiteau & L. Allorge) Leeuwenb.
+1800646	Tabernaemontana undulata Vahl
+40009361	Tabernaemontana L.
+50211761	Talipariti tiliaceum (L.) Fryxell
+50211942	Talipariti tiliaceum var. pernambucense (Arruda) Fryxell
+50211759	Talipariti Fryxell
+28600496	Talisia cerasina (Benth.) Radlk.
+28600929	Talisia oliviformis (Kunth) Radlk.
+40009792	Talisia Aubl.
+13033329	Tamarindus indica L.
+40009822	Tamarindus L.
+1300758	Tapirira mexicana Marchand
+50161983	Tapirira rubrinervis Barfod
+40010172	Tapirira Aubl.
+31300232	Taxodium mucronatum Ten.
+40010505	Taxodium Rich.
+31200035	Taxus globosa Schltdl.
+33700544	Tectona grandis L. f.
+40010626	Tectona L. f.
+2736639	Telanthophora cobanensis (J.M. Coult.) H.Rob. & Brettell
+2736641	Telanthophora grandifolia (Less.) H.Rob. & Brettell
+40010719	Telanthophora H.Rob. & Brettell
+8200207	Terminalia amazonia (J.F. Gmel.) Exell
+8200287	Terminalia buceras (L.) C. Wright
+8200173	Terminalia catappa L.
+8200453	Terminalia lucida Hoffmanns. ex Mart. & Zucc.
+50269583	Terminalia macrostachya (Standl.) Alwan & Stace
+8200211	Terminalia oblonga (Ruiz & Pav.) Steud.
+40011263	Terminalia L.
+50133303	Ternstroemia megaloptycha Kobuski
+2708482	Tessaria integrifolia Ruiz & Pav.
+40011422	Tessaria Ruiz & Pav.
+20303361	Tessmannianthus carinatus Almeda
+20303431	Tessmannianthus cereifolius Almeda
+20303362	Tessmannianthus gordonii Almeda
+40011464	Tessmannianthus Markgr.
+4700167	Tetragastris panamensis (Engl.) Kuntze
+4700170	Tetragastris varians Little
+30400664	Theobroma angustifolium DC.
+30400665	Theobroma bernoullii Pittier
+30400667	Theobroma bernoullii subsp. bernoullii 
+30400666	Theobroma bernoullii subsp. asclepiadiflorum (Schery) Cuatrec.
+30400668	Theobroma bicolor Bonpl.
+30400642	Theobroma cacao L.
+30401512	Theobroma mammosum Cuatrec. & J. León
+30400591	Theobroma simiarum Donn. Sm.
+40013086	Theobroma L.
+19601200	Thespesia populnea (L.) Sol. ex Corrêa
+40013235	Thespesia Sol. ex Corrêa
+2400867	Thrinax radiata Lodd. ex Schult. & Schult. f.
+32100001	Ticodendron incognitum Gómez-Laur. & L.D. Gómez
+40037225	Ticodendron Gómez-Laur. & L.D. Gómez
+40014926	Tithonia Desf. ex Juss.
+27903493	Tocoyena pittieri (Standl.) Standl.
+40015053	Tocoyena Aubl.
+50152078	Tontelea Miers
+20303787	Topobea aeruginosa (Standl.) L.O. Williams
+50187095	Topobea amplifolia Almeda
+20303335	Topobea calycularis Naudin
+20301814	Topobea laevigata (D. Don) Naudin
+20301816	Topobea multiflora (D. Don) Triana
+20303460	Topobea parvifolia (Gleason) Almeda
+20302732	Topobea pluvialis Standl.
+20303336	Topobea standleyi L.O. Williams
+20303461	Topobea suaveolens Almeda
+40015395	Topobea Aubl.
+100441913	Tovomita caputmonsia Gahagen
+100441914	Tovomita divesora Gahagen
+100441915	Tovomita panamaea Gahagen
+100441916	Tovomita pithecobia (Standl. & L.O. Williams) Gahagen
+40015800	Tovomita Aubl.
+40015853	Toxicodendron Mill.
+33300167	Trema integerrima (Beurl.) Standl.
+33300067	Trema micrantha (L.) Blume
+33300200	Trema micrantha var. floridana (Britton ex Small) Standl. & Steyerm.
+40016530	Trema Lour.
+20400186	Trichilia acuminata (Humb. & Bonpl. ex Roem. & Schult.) C. DC.
+20400188	Trichilia adolfi Harms
+20400927	Trichilia americana (Sessé & Moc.) T.D. Penn.
+20400204	Trichilia breviflora S.F. Blake & Standl.
+50142095	Trichilia chirriactensis (Standl. & Steyerm.) T.D. Penn.
+20400453	Trichilia erythrocarpa Lundell
+20400411	Trichilia glabra L.
+20400350	Trichilia hirta L.
+20400256	Trichilia martiana C. DC.
+20400657	Trichilia minutiflora Standl.
+20400928	Trichilia moschata subsp. matudai (Lundell) T.D. Penn.
+20400610	Trichilia moschata Sw.
+20400609	Trichilia moschata subsp. moschata 
+20400274	Trichilia pallida Sw.
+20400281	Trichilia pittieri C. DC.
+20400412	Trichilia pleeana (A. Juss.) C. DC.
+20400283	Trichilia poeppigii C. DC.
+20400291	Trichilia quadrijuga Kunth
+20400413	Trichilia quadrijuga subsp. cinerascens (C. DC.) T.D. Penn.
+20400303	Trichilia septentrionalis C. DC.
+20400612	Trichilia tuberculata (Triana & Planch.) C. DC.
+100444576	Trichilia tuberculata subsp. tuberculata 
+40017278	Trichilia P. Browne
+32200241	Trichospermum galeottii (Turcz.) Kosterm.
+32200620	Trichospermum grewiifolium (A. Rich.) Kosterm.
+40017818	Trichospermum Blume
+100449168	Tridimeris chiapensis M.A. Escobar & Ortiz-Rodr.
+40018181	Tridimeris Baill.
+26001052	Triplaris americana L.
+26000377	Triplaris cumingiana Fisch. & C.A. Mey.
+26001822	Triplaris melaenodendron (Bertol.) Standl. & Steyerm.
+40018978	Triplaris Loefl.
+21301233	Trophis caucana (Pittier) C.C. Berg
+21301153	Trophis cuspidata Lundell
+21300634	Trophis mexicana (Liebm.) Bureau
+21300475	Trophis racemosa (L.) Urb.
+40020037	Trophis P. Browne
+50129521	Ulmus ismaelis Todzia & Panero
+40021444	Ulmus L.
+50091288	Urera baccifera (L.) Gaudich. ex Wedd.
+33400370	Urera caracasana (Jacq.) Gaudich. ex Griseb.
+50310070	Urera fenestrata A.K. Monro & Al. Rodr.
+50290478	Urera glabriuscula V.W. Steinm.
+50285561	Urera verrucosa (Liebm.) V.W. Steinm.
+40021959	Urera Gaudich.
+13048298	Uribea tamarindoides Dugand & Romero
+40021986	Uribea Dugand & Romero
+12302879	Vaccinium leucanthum Schltdl.
+40022433	Vaccinium L.
+50174515	Vasconcellea cauliflora (Jacq.) A. DC.
+6100042	Vasconcellea pubescens A. DC.
+50211260	Vasconcellea A. St.-Hil.
+50101832	Veeresia clarkii Monach. & Moldenke
+40023478	Veeresia Monach. & Moldenke
+2717924	Verbesina apleura S.F. Blake
+2711487	Verbesina baruensis Hammel & D'Arcy
+2711488	Verbesina fuscasiccans (D'Arcy) D'Arcy
+2726282	Verbesina hypargyrea B.L. Rob. & Greenm.
+2701517	Verbesina lanata B.L. Rob. & Greenm.
+100449854	Verbesina monteverdensis Pruski
+2708646	Verbesina oerstediana Benth.
+50156545	Verbesina oligantha B.L. Rob.
+2727393	Verbesina tapantiana Poveda & Hammel
+40023779	Verbesina L.
+50289445	Verbesininae Benth. & Hook. f.
+2740044	Vernonanthura patens (Kunth) H.Rob.
+40037845	Vernonanthura H.Rob.
+2727011	Viguiera puruana Paray
+21800129	Virola elongata (Benth.) Warb.
+21800108	Virola guatemalensis (Hemsl.) Warb.
+21800109	Virola koschnyi Warb.
+21800049	Virola laevigata Standl.
+21800110	Virola macrocarpa A.C. Sm.
+21800111	Virola megacarpa A.H. Gentry
+21800053	Virola multiflora (Standl.) A.C. Sm.
+21800135	Virola nobilis A.C. Sm.
+21800101	Virola sebifera Aubl.
+100475217	Virola sp. a-fl. meso. 
+100475218	Virola sp. b-fl. meso. 
+100475219	Virola sp. c-fl. meso. 
+100475220	Virola sp. d-fl. meso. 
+100475221	Virola sp. e-fl. meso. 
+100475222	Virola sp. f-fl. meso. 
+40024553	Virola Aubl.
+33700881	Vitex agnus-castus L.
+33701167	Vitex cooperi Standl.
+33701046	Vitex cymosa Bertero ex Spreng.
+33701168	Vitex floridula Duchass. & Walp.
+33702470	Vitex gaumeri Greenm.
+50102961	Vitex hemsleyi Briq.
+33701169	Vitex masoniana Pittier
+33700885	Vitex parviflora Juss.
+33700719	Vitex trifolia L.
+33702221	Vitex trifolia var. subtrisecta (Kuntze) Moldenke
+40024664	Vitex L.
+50050899	Votomita cupuliformis Morley & Almeda
+40025002	Votomita Aubl.
+40037641	Wamalchitamia Strother
+27903495	Warszewiczia coccinea (Vahl) Klotzsch
+50189957	Warszewiczia uxpanapensis (Lorence) C.M. Taylor
+50189961	Warszewiczia uxpanapensis subsp. uxpanapensis 
+50189959	Warszewiczia uxpanapensis subsp. meridionalis C.M. Taylor
+40025544	Warszewiczia Klotzsch
+19603245	Wercklea cocleana (A. Robyns) Fryxell
+19603247	Wercklea grandiflora Fryxell
+19603249	Wercklea insignis Pittier & Standl.
+19603277	Wercklea lutea Rolfe
+19603251	Wercklea woodsonii (A. Robyns) Fryxell
+40025856	Wercklea Pittier & Standl.
+2401194	Wettinia quinaria (O.F. Cook & Doyle) Burret
+6600268	Wimmeria acuminata L.O. Williams
+6600610	Wimmeria bartlettii Lundell
+6600611	Wimmeria cyclocarpa Radlk.
+100472586	Wimmeria excoriata J.E. Jiménez & Barrie
+100001680	Wimmeria lundelliana Carnevali, R. Duno, Tapia-Muñoz & I. Ramírez
+6600718	Wimmeria montana Lundell
+6600275	Wimmeria obtusifolia Standl.
+6600612	Wimmeria pubescens Radlk.
+6600346	Wimmeria sternii Lundell
+27903496	Wittmackanthus stanleyanus (R.H. Schomb.) Kuntze
+40026588	Wittmackanthus Kuntze
+1600525	Xylopia sericophylla Standl. & L.O. Williams
+18401411	Yucca aloifolia L.
+18404221	Yucca guatemalensis Baker
+40027954	Yucca L.
+50077193	Zanthoxylum acuminatum (Sw.) Sw.
+50077194	Zanthoxylum acuminatum subsp. juniperinum (Poepp.) Reynel
+28101438	Zanthoxylum apiculatum (Sandwith) P.G. Waterman
+50061031	Zanthoxylum arborescens Rose
+28100275	Zanthoxylum caribaeum Lam.
+50086276	Zanthoxylum caribaeum subsp. caribaeum 
+28101676	Zanthoxylum ekmanii (Urb.) Alain
+28100626	Zanthoxylum eliasii D.M. Porter
+28100538	Zanthoxylum fagara (L.) Sarg.
+50100140	Zanthoxylum fagara subsp. aguilarii (Standl. & Steyerm.) Reynel
+100425075	Zanthoxylum fagara subsp. culantrilo (Kunth) Reynel
+50063936	Zanthoxylum fagara subsp. lentiscifolium (Humb. & Bonpl. ex Willd.) Reynel
+100474096	Zanthoxylum flavum subsp. trichilioides (Standl.) Reynel
+28100539	Zanthoxylum flavum Vahl
+28101304	Zanthoxylum foliolosum Donn. Sm.
+50052938	Zanthoxylum harrisii P. Wilson
+28100628	Zanthoxylum limoncello Planch. & Oerst.
+28100629	Zanthoxylum melanostictum Schltdl. & Cham.
+50100004	Zanthoxylum mollissimum (Engl.) P. Wilson
+28100631	Zanthoxylum panamense P. Wilson
+28101346	Zanthoxylum petenense Lundell
+28100634	Zanthoxylum pucro D.M. Porter
+28100302	Zanthoxylum rhoifolium Lam.
+28100590	Zanthoxylum riedelianum Engl.
+50077195	Zanthoxylum riedelianum subsp. kellermanii (P. Wilson) Reynel
+50100374	Zanthoxylum riedelianum subsp. mayanum (Standl.) Reynel
+50100382	Zanthoxylum schreberi (J.F. Gmel.) Reynel
+28100636	Zanthoxylum setulosum P. Wilson
+40028189	Zanthoxylum L.
+40036603	Zapoteca H.M. Hern.
+6600281	Zinowiewia integerrima (Turcz.) Turcz.
+6600613	Zinowiewia pallida Lundell
+6600284	Zinowiewia rubra Lundell
+40028573	Zinowiewia Turcz.
+27500930	Ziziphus amole (Sessé & Moc.) M.C. Johnst.
+27500873	Ziziphus guatemalensis Hemsl.
+27500741	Ziziphus mauritiana Lam.
+27500348	Ziziphus strychnifolia Triana & Planch.
+27500933	Ziziphus yucatanensis Standl.
+40028635	Ziziphus Mill.
+50052842	Zygia biflora L. Rico
+13075856	Zygia brenesii (Standl.) L. Rico
+13075872	Zygia chagrensis (Pittier) L. Rico
+13075874	Zygia confusa L. Rico
+13013099	Zygia englesingii (Standl. ex Record) Record
+13013101	Zygia glomerata (DC.) Pittier
+13013103	Zygia inaequalis (Humb. & Bonpl. ex Willd.) Pittier
+13013104	Zygia latifolia (L.) Fawc. & Rendle
+13013106	Zygia longifolia (Humb. & Bonpl. ex Willd.) Britton & Rose
+13075861	Zygia palmana (Standl.) L. Rico
+13075862	Zygia paucijugata (Lundell) L. Rico
+13013107	Zygia peckii (B.L. Rob.) Britton & Rose
+13013110	Zygia recordii Britton & Rose
+13076850	Zygia rhytidocarpa L. Rico
+13076849	Zygia rubiginosa L. Rico & Q. Jiménez
+40029036	Zygia P. Browne
+100469735	Zygia sect. Parazygia Barneby & J.W. Grimes
+42000067	Achatocarpaceae Heimerl
+42000378	Agavaceae Dumort.
+50304827	Altingiaceae Horan.
+42000193	Alzateaceae S.A. Graham
+42000278	Apocynaceae Juss.
+42000272	Araliaceae Juss.
+42000458	Araucariaceae Henkel & W. Hochst.
+42000339	Arecaceae Bercht. & J. Presl
+42000021	Aristolochiaceae Juss.
+50307371	Asteraceae Bercht. & J. Presl
+42000064	Betulaceae Gray
+42000233	Buxaceae Dumort.
+42000009	Canellaceae Mart.
+42000051	Cannabaceae Martinov
+42000135	Capparaceae Juss.
+42000126	Caricaceae Dumort.
+42000222	Celastraceae R. Br.
+42000018	Chloranthaceae R. Br. ex Sims
+28100391	Citrus × aurantiifolia (Christm.) Swingle
+50100635	Citrus × aurantium L.
+50178961	Clethra × parvifolia Lundell
+42000142	Clethraceae Klotzsch
+50183988	Coccoloba × lundellii Standl.
+42000203	Combretaceae R. Br.
+42000283	Convolvulaceae Juss.
+50304883	Cordiaceae R. Br. ex Dumort.
+42000206	Cornaceae Bercht. ex J. Presl
+42000173	Crassulaceae J. St.-Hil.
+42000418	Cupressaceae Gray
+42000425	Cyatheaceae Kaulf.
+42000424	Dicksoniaceae M.R. Schomb.
+42000151	Ebenaceae Gürke
+50304980	Ehretiaceae Mart.
+42000185	Elaeagnaceae Juss.
+42000146	Ericaceae Juss.
+42000207	Garryaceae Lindl.
+42000446	Gnetaceae Blume
+42000168	Grossulariaceae DC.
+42000044	Hamamelidaceae R. Br.
+42000017	Hernandiaceae Blume
+42000291	Lamiaceae Martinov
+42000105	Lecythidaceae A. Rich.
+42000448	Lepidobotryaceae J. Léonard
+50150676	Leucaena × mixtec C.E. Hughes & S.A. Harris
+50150677	Leucaena × spontanea C.E. Hughes & S.A. Harris
+42000005	Magnoliaceae Juss.
+42000012	Monimiaceae Juss.
+42000052	Moraceae Gaudich.
+42000137	Moringaceae Martinov
+50276083	Muntingiaceae C. Bayer, M.W. Chase & M.F. Fay
+42000008	Myristicaceae R. Br.
+42000198	Myrtaceae Juss.
+42000068	Nyctaginaceae Juss.
+42000451	Nyssaceae Juss. ex Dumort.
+42000297	Oleaceae Hoffmanns. & Link
+42000200	Onagraceae Juss.
+42000341	Pandanaceae R. Br.
+42000357	Poaceae Barnhart
+50126585	Podocarpaceae Endl.
+42000078	Polygonaceae Juss.
+42000157	Primulaceae Batsch
+42000199	Punicaceae Bercht. & J. Presl
+42000138	Resedaceae Martinov
+42000237	Rhamnaceae Juss.
+42000204	Rhizophoraceae Pers.
+42000176	Rosaceae Juss.
+42000315	Rubiaceae Juss.
+42000036	Sabiaceae Blume
+42000212	Santalaceae R. Br.
+42000150	Sapotaceae Juss.
+42000478	Siparunaceae Schodde
+100370265	Spondias × robe Urb.
+42000152	Styracaceae DC. & Spreng.
+42000154	Symplocaceae Desf.
+42000416	Taxaceae Gray
+42000050	Ulmaceae Mirb.
+42000054	Urticaceae Juss.
+42000290	Verbenaceae J. St.-Hil.
+42000239	Vitaceae Juss.
+42000000	Winteraceae R. Br. ex Lindl.
+42000266	Zygophyllaceae R. Br.

@@ -1,0 +1,143 @@
+NameID	Name
+23503283	Beloglottis costaricensis (Rchb. f.) Schltr.
+23514983	Beloglottis hameri Garay
+23514984	Beloglottis mexicana Garay & Hamer
+40026281	Beloglottis Schltr.
+40030793	Brachystele Schltr.
+40010017	Cleistes Rich. ex Lindl.
+40010931	Coccineorchis Schltr.
+23519317	Cyclopogon comosus (Rchb. f.) Burns-Bal. & E.W. Greenw.
+23509533	Cyclopogon cranichoides (Griseb.) Schltr.
+23500135	Cyclopogon elatus (Sw.) Schltr.
+23519333	Cyclopogon laxiflorus Ekman & Mansf.
+23519337	Cyclopogon luteo-albus (A. Rich. & Galeotti) Schltr.
+50051554	Cyclopogon obliquus (J.J. Sm.) Szlach.
+23506011	Cyclopogon olivaceus (Rolfe) Schltr.
+50051555	Cyclopogon papilio Szlach.
+23506233	Cyclopogon plantagineus Schltr.
+50283964	Cyclopogon storeri (Chapm.) R. González, Mytnik & Rutk.
+23519363	Cyclopogon violaceus (A. Rich. & Galeotti) Schltr.
+40019373	Cyclopogon C. Presl
+23512796	Cypripedium irapeanum Lex.
+40020451	Cypripedium L.
+23515021	Deiregyne hemichrea (Lindl.) Schltr.
+50115213	Deiregyne nelsonii (Greenm.) Burns-Bal.
+50171298	Deiregyne ramirezii R. González
+40023063	Deiregyne Schltr.
+40037685	Dichromanthus Garay
+2102620	Dieffenbachia aurantiaca Engl.
+2106464	Dieffenbachia beachiana Croat & Grayum
+50086045	Dieffenbachia burgeri Croat & Grayum
+2106479	Dieffenbachia concinna Croat & Grayum
+2107216	Dieffenbachia copensis Croat
+2107152	Dieffenbachia crebripistillata Croat
+2106481	Dieffenbachia davidsei Croat & Grayum
+2106996	Dieffenbachia fortunensis Croat
+50109858	Dieffenbachia fosteri Croat
+2107217	Dieffenbachia galdamesiae Croat
+2107232	Dieffenbachia grayumiana Croat
+2106480	Dieffenbachia hammelii Croat & Grayum
+2106473	Dieffenbachia horichii Croat & Grayum
+2106886	Dieffenbachia isthmia Croat
+2106347	Dieffenbachia killipii Croat
+2102634	Dieffenbachia longispatha Engl. & K. Krause
+50214235	Dieffenbachia lutheri Croat
+2107214	Dieffenbachia nitidipetiolata Croat & Grayum
+50172285	Dieffenbachia obscurinervia Croat
+2102596	Dieffenbachia oerstedii Schott
+50146203	Dieffenbachia panamensis Croat
+2102638	Dieffenbachia pittieri Engl. & K. Krause
+50190506	Dieffenbachia rodriguezii Croat & O. Ortiz
+50212226	Dieffenbachia standleyi Croat
+50086044	Dieffenbachia tonduzii Croat & Grayum
+40030797	Dieffenbachia Schott
+40033655	Discyphus Schltr.
+40002424	Eltroplectris Raf.
+40004394	Epistephium Kunth
+50280823	Funkiella hyemalis (A. Rich. & Galeotti) Schltr.
+50280825	Funkiella stolonifera (Ames & Correll) Garay
+50051613	Funkiella versiformis Szlach.
+40011379	Funkiella Schltr.
+40011945	Galeottiella Schltr.
+50071076	Gracielanthus pyramidalis (Lindl.) R. González & Szlach.
+50071074	Gracielanthus R. González & Szlach.
+50095446	Habenaria acalcarata Espejo & López-Ferr.
+23502979	Habenaria alata Hook.
+23503504	Habenaria avicula Schltr.
+23515429	Habenaria aviculoides Ames & C. Schweinf.
+50182768	Habenaria bacata Dressler
+23503505	Habenaria bicornis Lindl.
+23513607	Habenaria brownelliana Catling
+50182769	Habenaria carlotae Dressler
+23503506	Habenaria clypeata Lindl.
+23515431	Habenaria costaricensis Schltr.
+23512797	Habenaria crassicornis Lindl.
+23505753	Habenaria dentifera C. Schweinf.
+23502980	Habenaria distans Griseb.
+23502981	Habenaria eustachya Rchb. f.
+50153594	Habenaria flexuosa Lindl.
+23504478	Habenaria heptadactyla Rchb. f.
+23513509	Habenaria jaliscana S. Watson
+23515435	Habenaria lankesteri Ames
+50191562	Habenaria leon-ibarrae R. Jiménez & Carnevali
+23515436	Habenaria macroceratitis Willd.
+50163854	Habenaria matudae Salazar
+50108410	Habenaria mediocris Dressler
+23503509	Habenaria mesodactyla Griseb.
+23502982	Habenaria monorrhiza (Sw.) Rchb. f.
+23512799	Habenaria novemfida Lindl.
+23512539	Habenaria odontopetala Rchb. f.
+23515437	Habenaria oerstedii Rchb. f.
+23503510	Habenaria petalodes Lindl.
+23521008	Habenaria pringlei B.L. Rob.
+23502985	Habenaria repens Nutt.
+23511730	Habenaria rodeiensis Barb. Rodr.
+50309581	Habenaria similaris Dressler
+23502986	Habenaria strictissima Rchb. f.
+23521048	Habenaria tetranema Schltr.
+23503511	Habenaria trifida Kunth
+23513353	Habenaria virens A. Rich. & Galeotti
+23515440	Habenaria wercklei Schltr.
+40019629	Habenaria Willd.
+23508209	Hapalorchis lineata (Lindl.) Schltr.
+23508228	Hapalorchis pumila (C. Schweinf.) Garay
+40020836	Hapalorchis Schltr.
+40037694	Kionophyton Garay
+50002172	Lyroglossa grisebachii var. grisebachii 
+40017576	Mesadenella Pabst & Garay
+40017582	Mesadenus Schltr.
+50006216	Microthelys Garay
+50095810	Oestlundorchis Szlach.
+23513449	Pelexia adnata (Sw.) Spreng.
+50307303	Pelexia callifera (C. Schweinf.) Garay
+50143851	Pelexia callosa Ames
+23503771	Pelexia funckiana (A. Rich. & Galeotti) Schltr.
+50280665	Pelexia ghiesbreghtii Szlach., Mytnik & Rutk.
+23523365	Pelexia hondurensis Ames
+23506003	Pelexia laxa (Poepp. & Endl.) Lindl.
+40003154	Pelexia Poit. ex Lindl.
+23500475	Phragmipedium longifolium (Warsz. & Rchb. f.) Rolfe
+40007210	Phragmipedium Rolfe
+23526222	Platanthera guatemalensis Schltr.
+23503092	Platanthera limosa Lindl.
+40010346	Platanthera Rich.
+50280674	Potosia (Schltr.) R. González & Szlach. ex Mytnik
+40017883	Pseudogoodyera Schltr.
+40028389	Sacoila Raf.
+23515754	Sarcoglottis corymbosa Garay
+40029773	Sarcoglottis C. Presl
+50051772	Schiedeella alinae (Szlach.) Szlach.
+100477267	Schiedeella fauci-sanguinea (Dod) Dod
+23515766	Schiedeella llaveana (Lindl.) Schltr.
+23515767	Schiedeella parasitica (A. Rich. & Galeotti) Schltr.
+23515769	Schiedeella schlechteriana Szlach. & Sheviak
+50280704	Schiedeella tamayoana Szlach., Rutk. & Mytnik
+23517969	Schiedeella trilineata (Lindl.) Burns-Bal.
+23515771	Schiedeella valerioi (Ames & C. Schweinf.) Szlach. & Sheviak
+40031323	Schiedeella Schltr.
+40034957	Selenipedium Rchb. f.
+40003696	Spiranthes Rich.
+40005560	Stenorrhynchos Rich. ex Spreng.
+50145215	Stigmatosema Garay
+40023076	Vanilla Mill.
+50188818	Zhukowskia Szlach., R. González & Rutk.

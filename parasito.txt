@@ -1,0 +1,164 @@
+NameID	Name
+19102933	Antidaphne hondurensis Kuijt
+19100063	Antidaphne viscoidea Poepp. & Endl.
+40016589	Antidaphne Poepp. & Endl.
+40017790	Apodanthes Poit.
+40025689	Bdallophytum Eichler
+17800538	Cassytha filiformis L.
+19101420	Cladocolea biflora Kuijt
+19101329	Cladocolea hondurensis Kuijt
+19100581	Cladocolea oligantha (Standl. & Steyerm.) Kuijt
+40009526	Cladocolea Tiegh.
+8501591	Cuscuta cozumeliensis Yunck.
+8500694	Cuscuta obtusiflora Kunth
+8501595	Cuscuta tinctoria Mart. ex Engelm.
+8500775	Cuscuta woodsonii Yunck.
+40018584	Cuscuta L.
+19101089	Dendrophthora ambigua Kuijt
+19102705	Dendrophthora corynarthron (Eichler) Kuijt
+19100582	Dendrophthora costaricensis Urb.
+19101076	Dendrophthora davidsei Kuijt
+100432833	Dendrophthora fortis Kuijt
+19102737	Dendrophthora haberi Kuijt
+19101129	Dendrophthora mexicana Kuijt
+19100583	Dendrophthora panamensis Kuijt
+100432834	Dendrophthora perlicarpa Kuijt
+50066496	Dendrophthora scopulata Kuijt
+19100584	Dendrophthora squamigera (Benth.) Kuntze
+19101077	Dendrophthora talamancana Kuijt
+100001809	Dendrophthora tenuis Kuijt
+19101090	Dendrophthora terminalis Kuijt
+19101283	Dendrophthora turrialbae Kuijt
+19100506	Gaiadendron punctatum (Ruiz & Pav.) G. Don
+40011609	Gaiadendron G. Don
+3000004	Langsdorffia hypogaea Mart.
+40034298	Oryctanthus (Griseb.) Eichler
+19100586	Oryctanthus alveolatus (Kunth) Kuijt
+100408085	Oryctanthus callicarpus Kuijt
+19100587	Oryctanthus cordifolius (C. Presl) Urb.
+19100588	Oryctanthus occidentalis (L.) Eichler
+19100589	Oryctanthus spicatus (Jacq.) Eichler
+50286250	Oryctina costaricensis Kuijt
+40034308	Oryctina Tiegh.
+19101167	Panamanthus panamensis (Rizzini) Kuijt
+40037275	Panamanthus Kuijt
+19101589	Passovia pyrifolia (Kunth) Tiegh.
+100374884	Passovia stelis (L.) Kuijt
+40002284	Passovia H. Karst.
+19100553	Peristethium leptostachyum (Kunth) Tiegh.
+100355626	Peristethium primarium (Kuijt) Kuijt
+40004786	Peristethium Tiegh.
+50220868	Phoradendron acutifolium Kuijt
+19101037	Phoradendron aguilarii Standl. & Steyerm.
+19100591	Phoradendron annulatum Oliv.
+19101038	Phoradendron aurantiacum Trel.
+19100409	Phoradendron berteroanum (DC.) Griseb.
+50220870	Phoradendron boacoi Kuijt
+19100410	Phoradendron bolleanum (Seem.) Eichler
+19101284	Phoradendron breedlovei Kuijt
+50090607	Phoradendron burgeri Kuijt
+50070515	Phoradendron carneum Urb.
+19101316	Phoradendron chrysocladon A. Gray
+19100472	Phoradendron crassifolium (Pohl ex DC.) Eichler
+19100594	Phoradendron dipterum Eichler
+50220871	Phoradendron dwyeri Kuijt
+50220872	Phoradendron falcatum Eichler
+50220875	Phoradendron falciferum Kuijt
+19101073	Phoradendron fasciculatum Kuijt
+50220876	Phoradendron fosteri Kuijt
+19101645	Phoradendron herbert-smithii Trel.
+50220877	Phoradendron heredianum Kuijt
+19100422	Phoradendron hexastichum (DC.) Griseb.
+19101041	Phoradendron heydeanum Trel.
+19101680	Phoradendron inaequidentatum Rusby
+50066497	Phoradendron kingii Kuijt
+50203579	Phoradendron lanceolatum Engelm. ex A. Gray
+19101290	Phoradendron lentii Kuijt
+50096493	Phoradendron longifolium Eichler ex Trel.
+19101291	Phoradendron lundellii Kuijt
+19101078	Phoradendron molinae Kuijt
+19100598	Phoradendron mucronatum (DC.) Krug & Urb.
+50220878	Phoradendron naviculare Kuijt
+19101044	Phoradendron nervosum Oliv.
+19101079	Phoradendron nitens Kuijt
+50073626	Phoradendron obtusissimum (Miq.) Eichler
+19101295	Phoradendron pedicellatum (Tiegh.) Kuijt
+19100637	Phoradendron pergranulatum Trel.
+19100428	Phoradendron piperoides (Kunth) Trel.
+50090621	Phoradendron planiphyllum Kuijt
+50147922	Phoradendron purpusii Trel.
+19101721	Phoradendron quadrangulare (Kunth) Griseb.
+19100429	Phoradendron racemosum (Aubl.) Krug & Urb.
+19101296	Phoradendron ramosissimum Kuijt
+50090625	Phoradendron ravenii Kuijt
+19101253	Phoradendron reichenbachianum (Seem.) Oliv.
+19100638	Phoradendron robaloense Woodson ex Rizzini
+50212917	Phoradendron robinsonii Urb.
+19100599	Phoradendron robustissimum Eichler
+19100642	Phoradendron seibertii (Trel.) Rizzini
+19101297	Phoradendron spathulatum Kuijt
+19101080	Phoradendron tardispicum Kuijt
+19101298	Phoradendron teretifolium Kuijt
+19101299	Phoradendron tikalense Kuijt
+19100600	Phoradendron tonduzii Trel.
+19101046	Phoradendron treleaseanum Standl. & Steyerm.
+19100435	Phoradendron trinervium (Lam.) Griseb.
+19100601	Phoradendron undulatum (Pohl ex DC.) Eichler
+50208079	Phoradendron velutinum (DC.) Oliv.
+50210792	Phoradendron wattii Krug & Urb.
+50066498	Phoradendron websteri Kuijt
+19100602	Phoradendron woodsonii Trel.
+19101081	Phoradendron zelayanum Kuijt
+40007153	Phoradendron Nutt.
+27000001	Pilostyles blanchetii (Gardner) R. Br.
+27000016	Pilostyles mexicana (Brandegee) Rose
+40008927	Pilostyles Guill.
+15900004	Prosopanche costaricensis L.D. Gómez & Gómez-Laur.
+40016455	Prosopanche de Bary
+19100194	Psittacanthus acinarius (Mart.) Mart.
+19101082	Psittacanthus angustifolius Kuijt
+50066502	Psittacanthus breedlovei Kuijt
+19100605	Psittacanthus calyculatus (DC.) G. Don
+19101258	Psittacanthus chiriquianus Kuijt
+19101259	Psittacanthus costaricensis Kuijt
+19100536	Psittacanthus cucullaris (Lam.) Blume
+19100606	Psittacanthus hamulifer Kuijt
+19100607	Psittacanthus krameri Kuijt
+19101051	Psittacanthus mayanus Standl. & Steyerm.
+19101083	Psittacanthus minor Kuijt
+50220855	Psittacanthus nudus (Ant. Molina) Kuijt & Feuer
+100000863	Psittacanthus panamensis Kuijt
+19101084	Psittacanthus pinicola Kuijt
+19100609	Psittacanthus pusillus Kuijt
+19100610	Psittacanthus ramiflorus (DC.) G. Don
+19101086	Psittacanthus rhynchanthus (Benth.) Kuijt
+50275839	Psittacanthus salicifolius Kuijt
+19100612	Psittacanthus schiedeanus (Schltdl. & Cham.) Blume
+40019059	Psittacanthus Mart.
+50266076	Struthanthus acostensis L.A. González & J.F. Morales
+19101261	Struthanthus burgeri Kuijt
+19101097	Struthanthus cansjerifolius (Oliv.) Eichler
+19101122	Struthanthus capitatus Lundell
+19101053	Struthanthus cassythoides Millsp. ex Standl.
+19100229	Struthanthus costaricensis Standl.
+19101139	Struthanthus crassipes (Oliv.) Eichler
+19101263	Struthanthus dentatus Kuijt
+19100231	Struthanthus deppeanus (Schltdl. & Cham.) Blume
+19101264	Struthanthus filipes Kuijt
+19101266	Struthanthus hartwegii (Benth.) Standl.
+19101421	Struthanthus interruptus (Kunth) Blume
+19101056	Struthanthus matudae Lundell
+19101088	Struthanthus oerstedii (Oliv.) Standl. & S. Calderón
+19100566	Struthanthus orbicularis (Kunth) Blume
+19101267	Struthanthus quadrangularis Kuijt
+19100615	Struthanthus quercicola (Schltdl. & Cham.) Blume
+50220863	Struthanthus spirostylis (DC.) Eichler
+19101062	Struthanthus subtilis Kuijt
+19101059	Struthanthus tenuifolius Standl. & Steyerm.
+19100261	Struthanthus woodsonii Cufod.
+40007304	Struthanthus Mart.
+13800609	Voyria pittieri (Standl.) L.O. Williams
+50309852	Apodanthaceae Tiegh. ex Takht.
+42000216	Eremolepidaceae Tiegh. ex Kuijt
+42000218	Hydnoraceae C. Agardh
+42000214	Loranthaceae Juss.
