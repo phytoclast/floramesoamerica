@@ -112,7 +112,44 @@ filtermerged <- subset(NA_Floramerge, !is.na(NA_Floramerge$habit))
 #Distance from positive data can be used as training data, if model can weigh it.
 #Model would probably use it as the primary variable, because by definition all inputs will be at zero distance from the points and therefore only will predict exactly the known locations.It may be more appropriate to multiply a proximity factor to the final prediction before selecting species rate of presence threshold.
 #Distance from positive data can be used to weigh negative data. Greater distance lower weight. Lower density of total point data, lower weight.
+filepath <- 'C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv'
+txa <- read.delim('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                  sep = "\t", header = TRUE, encoding = 'UTF-8')
+txa <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                  sep = "\t", header = TRUE, encoding = 'UTF-8', nrows = 5)
+#----
+#this reads a certain amount of the input file
+filepath <- 'C:/a/bio/biodiversity/2019/0007369-191105090559680/0007369-191105090559680.csv'
+filepath <- 'C:/a/bio/biodiversity/2019/0007993-191105090559680/0007993-191105090559680.csv'
+df <- read.delim(filepath, skip = 150000, nrows = 800, header = FALSE, fileEncoding="UTF-8-BOM", stringsAsFactors=FALSE)
+#This determines the column classes to apply to next table
+df.colclass <- sapply(df,class)
+df2 <- read.delim(filepath, skip = 110000, nrows = 800, header = FALSE, fileEncoding="UTF-8-BOM",
+                  stringsAsFactors=FALSE, colClasses=df.colclass)
+#This renames the headers
+colnames(df) <- colnames(read.delim(filepath, nrows = 1, header = TRUE, fileEncoding="UTF-8-BOM"))
 
+#this determines the number of lines in the file.
+library(readr)
+filelinecount <- length(read_lines(filepath))
+
+#----
+tab5rows <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                       sep = "\t", header = TRUE, encoding = 'UTF-8', nrows = 5)
+classes <- sapply(tab5rows, class)
+tabAll <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                     sep = "\t", header = TRUE, encoding = 'UTF-8', colClasses = classes)
+
+
+
+bigfile.sample <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                             sep = "\t", stringsAsFactors=FALSE, header=T, nrows=20)  
+
+bigfile.colclass <- sapply(bigfile.sample,class)
+
+bigfile.raw <- tbl_df('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
+                      stringsAsFactors=FALSE, header=T,nrow=10000, 
+                               colClasses=attendance.colclass, comment.char=""))  
 
 Species <- read.delim("acuatica.txt", encoding = 'UTF-8')
 USASpp <- read.delim('C:/a/bio/biodiversity/2019/0007369-191105090559680/0007369-191105090559680.csv')
