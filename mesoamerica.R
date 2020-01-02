@@ -121,35 +121,75 @@ txa <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-19
 #this reads a certain amount of the input file
 filepath <- 'C:/a/bio/biodiversity/2019/0007369-191105090559680/0007369-191105090559680.csv'
 filepath <- 'C:/a/bio/biodiversity/2019/0007993-191105090559680/0007993-191105090559680.csv'
-df <- read.delim(filepath, skip = 150000, nrows = 800, header = FALSE, fileEncoding="UTF-8-BOM", stringsAsFactors=FALSE)
+filepath <- 'C:/a/bio/biodiversity/2019/GBIFcaribean.csv.txt'
+df <- read.delim(filepath, sep = "\t", quote = "", skip = 22972, nrows = 5, 
+                 header = FALSE, fileEncoding="UTF-8-BOM", stringsAsFactors=FALSE, colClasses = 'character')
 #This determines the column classes to apply to next table
 df.colclass <- sapply(df,class)
-df2 <- read.delim(filepath, skip = 110000, nrows = 800, header = FALSE, fileEncoding="UTF-8-BOM",
-                  stringsAsFactors=FALSE, colClasses=df.colclass)
+df2 <- read.delim(filepath, sep = "\t", skip = 50000, nrows = 5, header = FALSE, fileEncoding="UTF-8-BOM", stringsAsFactors=FALSE)
 #This renames the headers
-colnames(df) <- colnames(read.delim(filepath, nrows = 1, header = TRUE, fileEncoding="UTF-8-BOM"))
+colnames(df) <- colnames(read.delim(filepath, sep = "\t", nrows = 1, header = TRUE, fileEncoding="UTF-8-BOM"))
 
 #this determines the number of lines in the file.
 library(readr)
 filelinecount <- length(read_lines(filepath))
+df3 <- read_lines(filepath, locale = locale(encoding = "UTF-8"))
+df3[22972]
+library(rgbif)
+library(ggplot2)
+occ_count(basisOfRecord='OBSERVATION')
+gbifrecord <- (name_lookup(query='Tabebuia glomerata', rank="species", return="data"))
+gbifrecord <- occ_search(scientificName = "Tabebuia glomerata", limit = 1000)
+gbifrecord$data
+key <- name_backbone(name='Tabebuia glomerata')$speciesKey
+dat <- occ_search(taxonKey=key, return='data', decimalLatitude='0,18', limit=3000)
+dat <- occ_search(phylumKey = 7707728, return='data', decimalLatitude='42,44', decimalLongitude ='-87,-85', limit=3000)
+dat2 <- subset(dat, key =='415961877')
+gbifmap(dat)
 
+occcount <- occ_search(limit=0,
+           phylumKey = 7707728,
+           decimalLatitude='30,44', decimalLongitude ='-90,-89')$meta$count
+occcount
 #----
-tab5rows <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
-                       sep = "\t", header = TRUE, encoding = 'UTF-8', nrows = 5)
-classes <- sapply(tab5rows, class)
-tabAll <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
-                     sep = "\t", header = TRUE, encoding = 'UTF-8', colClasses = classes)
+#run through lat lon to count records
+library(rgbif)
+lltab<- as.data.frame(cbind(lat0=c(0),lon0=c(0),lat1=c(0),lon1=c(0),ct=c(0)))
+latmin <- 5
+latmax <- 85
+lonmin <- -180
+lonmax <- -50
+latincmax <- 20
+lonincmax <- 20
+for (latinc in 1:latincmax){
+  for (loninc in 1:lonincmax){
+    lat0 <- (latmax-latmin)/latincmax*(latinc-1) + latmin
+    lon0 <- (lonmax-lonmin)/lonincmax*(loninc-1) + lonmin
+    lat1 <- lat0 + (latmax-latmin)/latincmax
+    lon1 <- lon0 + (lonmax-lonmin)/lonincmax
+    lat <- paste0(as.character(lat0), ",",as.character(lat1))
+    lon <- paste0(as.character(lon0), ",",as.character(lon1))
+    ct <- occ_search(limit=0,
+                     phylumKey = 7707728,
+                     decimalLatitude=lat, decimalLongitude =lon)$meta$count
+    
+    lltab1 <- as.data.frame(cbind(lat0,lon0,lat1, lon1, ct))
+    lltab <- rbind(lltab, lltab1)
+  }}
+lltab <-lltab[-1,]
+lltab$lat <- (lltab$lat0 + lltab$lat1)/2 
+lltab$lon <- (lltab$lon0 + lltab$lon1)/2 
+lltab$area <- cos((lltab$lat0+lltab$lat1)/360*pi) * (lltab$lon1 - lltab$lon0)*(lltab$lat1 - lltab$lat0)*(10000/90)^2
+lltab$density <- round(lltab$ct/lltab$area*10000, 1)
+write.csv(lltab, 'output/lltab.csv')
+library(stringi)
+stri_enc_detect(filepath)
+#----
+classes <- "character"
+classes <- sapply(df, class)
 
 
 
-bigfile.sample <- read.table('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
-                             sep = "\t", stringsAsFactors=FALSE, header=T, nrows=20)  
-
-bigfile.colclass <- sapply(bigfile.sample,class)
-
-bigfile.raw <- tbl_df('C:/a/bio/biodiversity/2019/0007389-191105090559680/0007389-191105090559680.csv',
-                      stringsAsFactors=FALSE, header=T,nrow=10000, 
-                               colClasses=attendance.colclass, comment.char=""))  
 
 Species <- read.delim("acuatica.txt", encoding = 'UTF-8')
 USASpp <- read.delim('C:/a/bio/biodiversity/2019/0007369-191105090559680/0007369-191105090559680.csv')
