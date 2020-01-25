@@ -41,4 +41,3 @@ row7 <- c(13, 25, -115, -95)
 row8 <- c(13, 25, -95, -55)
 row9 <- c(5, 13, -90, -60)
 coordtable <- rbind(row1,row2,row3,row4,row5,row6,row7,row8,row9)
-
