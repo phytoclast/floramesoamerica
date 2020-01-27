@@ -64,7 +64,7 @@ lon1 <- -25
 lat <- paste0(as.character(lat0), ",",as.character(lat1))
 lon <- paste0(as.character(lon0), ",",as.character(lon1))
 biogeopts <- occ_search(limit=10000,
-                         phylumKey = 7707728, scientificName = "Liriodendron tulipifera", 
+                         phylumKey = 7707728, scientificName = "Rhizophora mangle", 
                          decimalLatitude=lat, decimalLongitude =lon)$
   data[,c('scientificName', 'decimalLatitude', 'decimalLongitude')]
 
@@ -104,17 +104,28 @@ rf <- randomForest(present ~ water100k+
                    gdem+ hydric+ M+ MAP+ pAET+
                    salids+ sand+ sealevel+ slope+ SoilpH+ Surplus+
                    Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
-                   data=present, importance=TRUE, ntree=10, na.action=na.omit)
+                   data=present, importance=TRUE, ntree=10, maxnodes = 500, na.action=na.omit)
 # Make plot  other params to try: maxnodes=64,mtry=10,
 rf#statistical summary
 varImpPlot(rf)
+if(F){
+rf <- glm(present ~ water100k+
+                     x+ y+ A+ bedrock+ clay+ Deficit+
+                     gdem+ hydric+ M+ MAP+ pAET+
+                     salids+ sand+ sealevel+ slope+ SoilpH+ Surplus+
+                     Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
+                   data=present, na.action=na.omit)
+}
 rbrkfrm$output <- predict(rf, rbrkfrm, progress="window")
-rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >=0.5, 1, 0))
+rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >= 0.5, 1, 0))
 sfpredict <- st_as_sf(x = rbrkfrm, 
-                     coords = c('x', 'y'),
-                     crs = crs(Tw))
+                      coords = c('x', 'y'),
+                      crs = crs(Tw))
+
+
 #sppredict <- as_Spatial(sfpredict)
 #Twlowres <- aggregate(Tw, fact=2, fun=mean)
+
 
 #plot(Twlowres)
 #res(Twlowres)
@@ -125,7 +136,7 @@ plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.7), add=T)
 
-png(filename='output/lirituli2.png',width = 1500, height = 1500, units = 'px', pointsize = 10)
+png(filename='output/Rhizophora mangle.png',width = 1500, height = 1500, units = 'px', pointsize = 10)
 plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.4), add=T)
