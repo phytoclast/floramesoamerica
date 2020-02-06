@@ -15,15 +15,31 @@ fips_sfna$ID <- as.numeric(fips_sfna$ID)
 
 fip_sfna1 <- st_transform(fips_sfna, crs(Tw))
 narast <- fasterize(fip_sfna1, Tw, field = 'ID', fun = "last")
+if(F){ #create shoreline raster
+landvect <- st_read('C:/a/geo/base/americas4.shp')
+landvect <- st_transform(landvect, crs(Tw))
+landgrid <- fasterize(landvect, Tw, field = 'ID', fun = "last")
+nainv <- is.na(landgrid) 
+nainv[nainv == 0]<- NA
+plot(nainv)
+distgrid <- distance(nainv)
+distgrid2 <- ((distgrid >= 15000)*15000 + (distgrid < 15000)*distgrid)/15000*-1+1
+png(filename=paste0('output/', 'shore','.png'),width = 5000, height = 5000, units = 'px', pointsize = 10)
+plot(distgrid2)
+dev.off()
+writeRaster(distgrid2, paste0(path, 'shore.tif'), overwrite=T)
+}
+
 #----
 #make raster brick
 #make st points from lat lon distrib then reproject and convert to raster the same as brick
 #make distance from distrib points raster add to brick
 #convert brick raster to points
-filename <- c("water100k.tif", "A.tif", "bedrock.tif", "clay.tif", "Deficit.tif",
+filename <- c("water100k.tif", "shore.tif", "A.tif", "bedrock.tif", "clay.tif", "Deficit.tif",
               "gdem.tif", "hydric.tif", "M.tif", "MAP.tif", "pAET.tif", 
               "salids.tif", "sand.tif", "sealevel.tif", "slope.tif", "SoilpH.tif", "Surplus.tif", 
               "Tc.tif", "Tcl.tif", "Tclx.tif", "Tgs.tif", "tgsmin.tif", "Tw.tif", "Twh.tif")
+shore <- raster(paste0(path, 'shore.tif'))
 water100k <- raster(paste0(path, 'water100k.tif'))
 A <- raster(paste0(path, 'A.tif'))
 bedrock <- raster(paste0(path, 'bedrock.tif'))
@@ -49,12 +65,12 @@ Tw <- raster(paste0(path, 'Tw.tif'))
 Twh <- raster(paste0(path, 'Twh.tif'))
 
 
-rastbrick <- brick(water100k, A, bedrock, clay, Deficit,
+rastbrick <- brick(water100k, shore, A, bedrock, clay, Deficit,
               gdem, hydric, M, MAP, pAET, 
               salids, sand, sealevel, slope, SoilpH, Surplus, 
               Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh)
 
-
+taxon <- "Rhizophora mangle"
 
 library(rgbif)
 lat0 <- 5
@@ -64,7 +80,7 @@ lon1 <- -25
 lat <- paste0(as.character(lat0), ",",as.character(lat1))
 lon <- paste0(as.character(lon0), ",",as.character(lon1))
 biogeopts <- occ_search(limit=10000,
-                         phylumKey = 7707728, scientificName = "Rhizophora mangle", 
+                         phylumKey = 7707728, scientificName = taxon, 
                          decimalLatitude=lat, decimalLongitude =lon)$
   data[,c('scientificName', 'decimalLatitude', 'decimalLongitude')]
 
@@ -80,7 +96,7 @@ dist <- distance(sfraster)
 plot(dist < 200000 & dist > 50000)
 plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
 
-rastbrick <- brick(water100k, A, bedrock, clay, Deficit,
+rastbrick <- brick(water100k, shore, A, bedrock, clay, Deficit,
                    gdem, hydric, M, MAP, pAET, 
                    salids, sand, sealevel, slope, SoilpH, Surplus, 
                    Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh, dist)
@@ -93,16 +109,16 @@ rbrkfrm <- subset(rbrkfrm, !is.na(Tc) & !is.na(slope)  & !is.na(SoilpH) & !is.na
 
 present <- subset(rbrkfrm, layer == 0)
 present$present <- 1
-absent <- subset(rbrkfrm, layer <= 500000 & layer >= 100000)
+absent <- subset(rbrkfrm, layer <= 500000 & layer >= 50000)
 absent$present <- 0
 present <- rbind(present, absent)
 
 library(randomForest)
 
-rf <- randomForest(present ~ water100k+
-                    x+ y+ A+ bedrock+ clay+ Deficit+
-                   gdem+ hydric+ M+ MAP+ pAET+
-                   salids+ sand+ sealevel+ slope+ SoilpH+ Surplus+
+rf <- randomForest(present ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
+                     A+ bedrock+ clay+ Deficit+
+                   hydric+ M+ MAP+ pAET+
+                   salids+ sand+ slope+ SoilpH+ Surplus+
                    Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
                    data=present, importance=TRUE, ntree=10, maxnodes = 500, na.action=na.omit)
 # Make plot  other params to try: maxnodes=64,mtry=10,
@@ -136,7 +152,7 @@ plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.7), add=T)
 
-png(filename='output/Rhizophora mangle.png',width = 1500, height = 1500, units = 'px', pointsize = 10)
+png(filename=paste0('output/', taxon,'.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
 plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.4), add=T)
