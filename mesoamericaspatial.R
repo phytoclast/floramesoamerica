@@ -2,6 +2,8 @@ library(raster)
 library(sf)
 library(fasterize)
 library(sp)
+library(ranger)
+library(terra)
 #process spatial data points to raster?
 
 path = 'C:/workspace2/treeatlas/nam5k/'
