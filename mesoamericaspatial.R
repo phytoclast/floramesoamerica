@@ -37,10 +37,11 @@ writeRaster(distgrid2, paste0(path, 'shore.tif'), overwrite=T)
 #make st points from lat lon distrib then reproject and convert to raster the same as brick
 #make distance from distrib points raster add to brick
 #convert brick raster to points
-filename <- c("water100k.tif", "shore.tif", "A.tif", "bedrock.tif", "clay.tif", "Deficit.tif",
+filename <- c("effort.tif","water100k.tif", "shore.tif", "A.tif", "bedrock.tif", "clay.tif", "Deficit.tif",
               "gdem.tif", "hydric.tif", "M.tif", "MAP.tif", "pAET.tif", 
               "salids.tif", "sand.tif", "sealevel.tif", "slope.tif", "SoilpH.tif", "Surplus.tif", 
               "Tc.tif", "Tcl.tif", "Tclx.tif", "Tgs.tif", "tgsmin.tif", "Tw.tif", "Twh.tif")
+effort <- raster(paste0(path, 'effort.tif'))
 shore <- raster(paste0(path, 'shore.tif'))
 water100k <- raster(paste0(path, 'water100k.tif'))
 A <- raster(paste0(path, 'A.tif'))
@@ -67,21 +68,24 @@ Tw <- raster(paste0(path, 'Tw.tif'))
 Twh <- raster(paste0(path, 'Twh.tif'))
 
 
-rastbrick <- brick(water100k, shore, A, bedrock, clay, Deficit,
+rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
               gdem, hydric, M, MAP, pAET, 
               salids, sand, sealevel, slope, SoilpH, Surplus, 
               Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh)
 
-taxon <- "Rhizophora mangle"
+taxon <- "Picea mariana"
 
 library(rgbif)
+maxdist <- 500000 
+mindist <- 200000
+middist <- (maxdist+mindist)/2
 lat0 <- 5
 lon0 <- -180
 lat1 <- 85
 lon1 <- -25
 lat <- paste0(as.character(lat0), ",",as.character(lat1))
 lon <- paste0(as.character(lon0), ",",as.character(lon1))
-biogeopts <- occ_search(limit=10000,
+biogeopts <- occ_search(limit=25000,
                          phylumKey = 7707728, scientificName = taxon, 
                          decimalLatitude=lat, decimalLongitude =lon)$
   data[,c('scientificName', 'decimalLatitude', 'decimalLongitude')]
@@ -95,10 +99,10 @@ sfpoints2 <- st_transform(sfpoints, crs(Tw))
 
 sfraster <- rasterize(sfpoints2, Tw, field = 1, fun='count')
 dist <- distance(sfraster)
-plot(dist < 200000 & dist > 50000)
+plot(dist < maxdist & dist > mindist)
 plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
 
-rastbrick <- brick(water100k, shore, A, bedrock, clay, Deficit,
+rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
                    gdem, hydric, M, MAP, pAET, 
                    salids, sand, sealevel, slope, SoilpH, Surplus, 
                    Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh, dist)
@@ -108,11 +112,18 @@ rastbrick <- brick(water100k, shore, A, bedrock, clay, Deficit,
 
 rbrkfrm <- as.data.frame(rasterToPoints(rastbrick))
 rbrkfrm <- subset(rbrkfrm, !is.na(Tc) & !is.na(slope)  & !is.na(SoilpH) & !is.na(M) & !is.na(sand) & !is.na(clay))
+summary(rbrkfrm$effort)
+plot(dist<500000 & dist>=50000 & dist*effort >= 200000000)
+plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
 
 present <- subset(rbrkfrm, layer == 0)
 present$present <- 1
-absent <- subset(rbrkfrm, layer <= 500000 & layer >= 50000)
+absent <- subset(rbrkfrm, layer <= 1000000 & layer >= 50000 & layer*effort >= 200000000)
 absent$present <- 0
+#weighting sceam doesn't work for randforest data where false absence locations all have unique combinations not found in the few occurence dots.
+#wtfactor <- sum(absent$effort, na.rm = T)/sum(1/present$effort, na.rm = T)
+#absent$wt <- absent$effort
+#present$wt <- wtfactor/present$effort
 present <- rbind(present, absent)
 
 library(randomForest)
@@ -135,7 +146,7 @@ rf <- glm(present ~ water100k+
                    data=present, na.action=na.omit)
 }
 rbrkfrm$output <- predict(rf, rbrkfrm, progress="window")
-rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >= 0.5, 1, 0))
+rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >= 0.5 & rbrkfrm$layer < 500000, 1, 0))
 sfpredict <- st_as_sf(x = rbrkfrm, 
                       coords = c('x', 'y'),
                       crs = crs(Tw))
