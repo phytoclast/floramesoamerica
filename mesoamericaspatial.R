@@ -107,57 +107,100 @@ rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
                    salids, sand, sealevel, slope, SoilpH, Surplus, 
                    Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh, dist)
 
-
-
-
 rbrkfrm <- as.data.frame(rasterToPoints(rastbrick))
-rbrkfrm <- subset(rbrkfrm, !is.na(Tc) & !is.na(slope)  & !is.na(SoilpH) & !is.na(M) & !is.na(sand) & !is.na(clay))
-summary(rbrkfrm$effort)
-plot(dist<500000 & dist>=50000 & dist*effort >= 200000000)
-plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
+rbrkfrm <- subset(rbrkfrm, !is.na(sealevel)&  !is.na(salids) & !is.na(tgsmin) & !is.na(Tc) & !is.na(slope)  & !is.na(SoilpH) & !is.na(M) & !is.na(sand) & !is.na(clay))
+#summary(rbrkfrm$effort)
+#plot(dist <= 600000 & ((effort < 500 & dist >= 400000)|(effort >= 500 & dist >= 200000)|
+#                                       (effort >= 1000 & dist >= 100000)|(effort >= 2500 & dist >= 50000)))
+#work on present with buffer then absent relative width
+grid1 <- (50000/((effort/200)^0.5*dist+5000))^2
+grid2 <- dist>100000/(effort/250)^0.5+50000
 
-present <- subset(rbrkfrm, layer == 0)
-present$present <- 1
-absent <- subset(rbrkfrm, layer <= 1000000 & layer >= 50000 & layer*effort >= 200000000)
-absent$present <- 0
-#weighting sceam doesn't work for randforest data where false absence locations all have unique combinations not found in the few occurence dots.
+plot(grid1>0.04)
+plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
+#old code
+#present <- subset(rbrkfrm, layer == 0)
+#present$present <- 1
+#absent <- subset(rbrkfrm, layer <= 500000 & ((effort < 500 & layer >= 400000)|(effort >= 500 & layer >= 200000)|
+#                                               (effort >= 1000 & layer >= 100000)|(effort >= 2500 & layer >= 50000)))
+#absent$present <- 0
+
+present <- subset(rbrkfrm, layer <= 500000)
+present[is.na(present$effort),]$effort <- 100
+present$observed <- 1
+#present$wt <- (5000/(((present$layer*present$effort+1)/1000)+5000))^2
+#present$wt <- (25000/((present$effort/1000)^0.5*present$layer+25000))^2
+present$wt <- (5000/((present$effort/200)^0.5*present$layer+5000))^2
+
+absent <- present
+present <- subset(present, wt >= 0.04)
+absent$observed <- 0
+#absent$wt <- 1-(5000/(((present$layer*present$effort+1)/1000)+5000))
+#absent$wt <- 1-(2000000/((present$effort/1000)^0.5*present$layer+2000000))^2
+absent$wt <- 1
+absent <- subset(absent, layer>100000/(effort/250)^0.5+50000)
+present <- rbind(present, absent)
+present <- subset(present, wt >= 0.0001)
+#weighting scheme doesn't work for randforest data where false absence locations all have unique combinations not found in the few occurence dots.
 #wtfactor <- sum(absent$effort, na.rm = T)/sum(1/present$effort, na.rm = T)
 #absent$wt <- absent$effort
 #present$wt <- wtfactor/present$effort
-present <- rbind(present, absent)
 
+if(F){
 library(randomForest)
 
-rf <- randomForest(present ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
+rf <- randomForest(observed ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
                      A+ bedrock+ clay+ Deficit+
                    hydric+ M+ MAP+ pAET+
                    salids+ sand+ slope+ SoilpH+ Surplus+
                    Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
-                   data=present, importance=TRUE, ntree=10, maxnodes = 500, na.action=na.omit)
+                   data=present, importance=TRUE, ntree=10, maxnodes = 500, weights = present$wt, na.action=na.omit)
 # Make plot  other params to try: maxnodes=64,mtry=10,
+
 rf#statistical summary
 varImpPlot(rf)
+rbrkfrm$output <- predict(rf, rbrkfrm)
+}
+if(T){
+rf <- ranger(observed ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
+                     A+ bedrock+ clay+ Deficit+
+                     hydric+ M+ MAP+ pAET+
+                     salids+ sand+ slope+ SoilpH+ Surplus+
+                     Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
+                   data=present, num.trees=25, max.depth = 200, case.weights = present$wt, importance = 'impurity', write.forest = TRUE)
+
+rbrkfrm$output <- predictions(predict(rf, data=rbrkfrm))
+
+}
+if(F){library(rpart)
+library(rpart.plot)
+
+rfpart <- rpart(observed ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
+               A+ bedrock+ clay+ Deficit+
+               hydric+ M+ MAP+ pAET+
+               salids+ sand+ slope+ SoilpH+ Surplus+
+               Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
+             data=present, weights=present$wt, method="class", control = list(maxdepth = 5, cp=0.0005, minsplit=1000))
+
+rpart.plot(rfpart)
+}
 if(F){
+  altmodel <- subset(present, (wt >=0.005 & present == 1) | (wt >=0.95 & present == 0))
 rf <- glm(present ~ water100k+
-                     x+ y+ A+ bedrock+ clay+ Deficit+
+                     A+ bedrock+ clay+ Deficit+ Tgs*Tgs+ #x+ y+ 
                      gdem+ hydric+ M+ MAP+ pAET+
                      salids+ sand+ sealevel+ slope+ SoilpH+ Surplus+
                      Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
-                   data=present, na.action=na.omit)
+                   data=altmodel, na.action=na.omit)
 }
-rbrkfrm$output <- predict(rf, rbrkfrm, progress="window")
+
+
 rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >= 0.5 & rbrkfrm$layer < 500000, 1, 0))
 sfpredict <- st_as_sf(x = rbrkfrm, 
                       coords = c('x', 'y'),
                       crs = crs(Tw))
 
 
-#sppredict <- as_Spatial(sfpredict)
-#Twlowres <- aggregate(Tw, fact=2, fun=mean)
-
-
-#plot(Twlowres)
-#res(Twlowres)
 sfpositive <- subset(sfpredict, binary==1)
 predictraster <- rasterize(sfpositive, Tw, field = 'binary', fun='last')
 
@@ -171,7 +214,10 @@ plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.4), add=T)
 dev.off()
 
+#writeRaster(dist, 'output/dist.tif')
 
+
+#st_write(sfpoints2, ".", "output/sfpoints2", driver="ESRI Shapefile")
 
 #how to make a sf polygon
 p1 <- rbind(c(-180,-20), c(-140,56), c(10, 0), c(-140,-60), c(-180,-20))
@@ -184,3 +230,12 @@ pols <- st_sf(value = c(1,2,3),
 r <- raster(pols, res = 1)
 r <- fasterize(pols, r, field = "value", fun="sum")
 
+
+
+
+#sppredict <- as_Spatial(sfpredict)
+#Twlowres <- aggregate(Tw, fact=2, fun=mean)
+
+
+#plot(Twlowres)
+#res(Twlowres)
