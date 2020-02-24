@@ -73,7 +73,7 @@ rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
               salids, sand, sealevel, slope, SoilpH, Surplus, 
               Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh)
 
-taxon <- "Picea mariana"
+taxon <- "Populus tremuloides"
 
 library(rgbif)
 maxdist <- 500000 
@@ -185,17 +185,20 @@ rfpart <- rpart(observed ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
 rpart.plot(rfpart)
 }
 if(F){
-  altmodel <- subset(present, (wt >=0.005 & present == 1) | (wt >=0.95 & present == 0))
-rf <- glm(present ~ water100k+
+  altmodel <- subset(present)
+
+rf <- glm(observed ~ water100k+ M*M+
                      A+ bedrock+ clay+ Deficit+ Tgs*Tgs+ #x+ y+ 
                      gdem+ hydric+ M+ MAP+ pAET+
                      salids+ sand+ sealevel+ slope+ SoilpH+ Surplus+
                      Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
-                   data=altmodel, na.action=na.omit)
+                   data=altmodel, weights = wt, na.action=na.omit)
+rbrkfrm$output <- predict(rf, rbrkfrm)
 }
 
-
-rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output >= 0.5 & rbrkfrm$layer < 500000, 1, 0))
+maxmodel <- max(rbrkfrm[rbrkfrm$layer < 500000,]$output)
+maxmodel <- ifelse(maxmodel>1,1,maxmodel)
+rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output/maxmodel >= 0.5 & rbrkfrm$layer < 500000, 1, 0))
 sfpredict <- st_as_sf(x = rbrkfrm, 
                       coords = c('x', 'y'),
                       crs = crs(Tw))
@@ -208,7 +211,7 @@ plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.7), add=T)
 
-png(filename=paste0('output/', taxon,'.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
+png(filename=paste0('output/', taxon,' glm.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
 plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.4), add=T)
