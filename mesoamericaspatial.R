@@ -73,7 +73,7 @@ rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
               salids, sand, sealevel, slope, SoilpH, Surplus, 
               Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh)
 
-taxon <- "Populus tremuloides"
+taxon <- "Picea glauca"
 
 library(rgbif)
 maxdist <- 500000 
@@ -124,7 +124,18 @@ plot(st_geometry(states),  lwd=0.1, fill=F, add=T)
 #absent <- subset(rbrkfrm, layer <= 500000 & ((effort < 500 & layer >= 400000)|(effort >= 500 & layer >= 200000)|
 #                                               (effort >= 1000 & layer >= 100000)|(effort >= 2500 & layer >= 50000)))
 #absent$present <- 0
+#----
+#thermal contraints
+QTclx0 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tclx, 0.01)
+QTclx1 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tclx, 0.99)
+QTc0 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tc, 0.01)
+QTc1 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tc, 0.99)
+QTg0 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tgs, 0.01)
+QTg1 <- quantile(rbrkfrm[rbrkfrm$layer == 0,]$Tgs, 0.99)
 
+
+
+#----
 present <- subset(rbrkfrm, layer <= 500000)
 present[is.na(present$effort),]$effort <- 100
 present$observed <- 1
@@ -133,12 +144,22 @@ present$observed <- 1
 present$wt <- (5000/((present$effort/200)^0.5*present$layer+5000))^2
 
 absent <- present
-present <- subset(present, wt >= 0.04)
+present <- subset(present, wt >= 0.04 | (Tclx >= QTclx0 &
+                                           Tclx <= QTclx1 &
+                                           Tc >= QTc0 &
+                                           Tc <= QTc1 &
+                                           Tgs >= QTg0 &
+                                           Tgs <= QTg1))
 absent$observed <- 0
 #absent$wt <- 1-(5000/(((present$layer*present$effort+1)/1000)+5000))
 #absent$wt <- 1-(2000000/((present$effort/1000)^0.5*present$layer+2000000))^2
 absent$wt <- 1
-absent <- subset(absent, layer>100000/(effort/250)^0.5+50000)
+absent <- subset(absent, layer>100000/(effort/250)^0.5+50000 | (Tclx < QTclx0 &
+                                                                  Tclx > QTclx1 &
+                                                                  Tc < QTc0 &
+                                                                  Tc > QTc1 &
+                                                                  Tgs < QTg0 &
+                                                                  Tgs > QTg1))
 present <- rbind(present, absent)
 present <- subset(present, wt >= 0.0001)
 #weighting scheme doesn't work for randforest data where false absence locations all have unique combinations not found in the few occurence dots.
@@ -211,34 +232,9 @@ plot(predictraster, col='red', legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.7), add=T)
 
-png(filename=paste0('output/', taxon,' glm.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
-plot(predictraster, col='red', legend=F)
+png(filename=paste0('output/', taxon,'_therm.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
+plot(predictraster, col = rgb(red = 0, green = 0.85, blue = 0, alpha = 1), legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
-plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0, green = 0, blue = 0, alpha = 0.4), add=T)
+plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0.85, green = 0, blue = 0, alpha = 1), add=T)
 dev.off()
 
-#writeRaster(dist, 'output/dist.tif')
-
-
-#st_write(sfpoints2, ".", "output/sfpoints2", driver="ESRI Shapefile")
-
-#how to make a sf polygon
-p1 <- rbind(c(-180,-20), c(-140,56), c(10, 0), c(-140,-60), c(-180,-20))
-hole <- rbind(c(-150,-20), c(-100,-10), c(-110,20), c(-150,-20))
-p1 <- list(p1, hole)
-p2 <- list(rbind(c(-10,0), c(140,60), c(160,0), c(140,-55), c(-10,0)))
-p3 <- list(rbind(c(-125,0), c(0,60), c(40,5), c(15,-45), c(-125,0)))
-pols <- st_sf(value = c(1,2,3),
-              geometry = st_sfc(lapply(list(p1, p2, p3), st_polygon)))
-r <- raster(pols, res = 1)
-r <- fasterize(pols, r, field = "value", fun="sum")
-
-
-
-
-#sppredict <- as_Spatial(sfpredict)
-#Twlowres <- aggregate(Tw, fact=2, fun=mean)
-
-
-#plot(Twlowres)
-#res(Twlowres)
