@@ -183,13 +183,13 @@ joined <- st_join(sfpoints2, fip_sfna1)
 go <- F
 joined$fipsstatus <- 'no'
 if(grepl(' ', taxon)){
-  if(nrow(subset(BONAPFips, Scientific.Name %in% taxon & StateStatus %in% c('N','NW')))>0){
-    FIPSlist <- subset(BONAPFips, Scientific.Name %in% taxon & StateStatus %in% c('N','NW'), select=FIPS)[,1]
+  if(nrow(subset(BONAPFips, Scientific.Name %in% taxon ))>0){
+    FIPSlist <- subset(BONAPFips, Scientific.Name %in% taxon, select=FIPS)[,1]
     joined[joined$FIPS %in% FIPSlist,]$fipsstatus <- 'yes'
     go <- T}
 }else{
-  if(nrow(subset(BONAPFips, grepl(taxon, Scientific.Name) & StateStatus %in% c('N','NW')))>0){
-    FIPSlist <- subset(BONAPFips, grepl(taxon, Scientific.Name) & StateStatus %in% c('N','NW'), select=FIPS)[,1]
+  if(nrow(subset(BONAPFips, grepl(taxon, Scientific.Name) ))>0){
+    FIPSlist <- subset(BONAPFips, grepl(taxon, Scientific.Name), select=FIPS)[,1]
     joined[joined$FIPS %in% FIPSlist,]$fipsstatus <- 'yes'
     go <- T}}
 
