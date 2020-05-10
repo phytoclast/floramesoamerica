@@ -16,7 +16,42 @@ fips_sf <- st_read('C:/a/geo/base/americas4.shp')
 fips_sfna <- subset(fips_sf, !GROUP %in% c('South America', 'Bermuda','Hawaii' ))
 states<-st_read("C:/workspace2/modelmap/data/states.shp")
 fips_sfna$ID <- as.numeric(fips_sfna$ID)
+BONAPFips <- readRDS('data/BONAPFips2015.RDS')
+BONAPFips$FIPS2 <- as.character(BONAPFips$FIPS)
+BONAPFips[nchar(BONAPFips$FIPS2)==4,]$FIPS2 <- paste0('0', BONAPFips[nchar(BONAPFips$FIPS2)==4,]$FIPS2 )
+BONAPFips$FIPS <- BONAPFips$FIPS2
+BONAPFips <- BONAPFips[,-7]
+BONAPState <- readRDS('data/BONAPState2015.RDS')
+#liststates <- unique(st_drop_geometry(subset(fips_sf, NATION %in% c('Denmark', 'USA', 'Canada', 'France'),select=c(STATE, NATION, STATECODE))))
+#liststates$simplecode <- substr(liststates$STATECODE, nchar(as.character(liststates$STATECODE))-1, nchar(as.character(liststates$STATECODE)))
+#saveRDS(liststates, 'data/liststates.RDS')
 
+library(stringr)
+BONAPState$Binomial <- paste(str_split_fixed(BONAPState$Scientific.Name, ' ', n=3)[,1],str_split_fixed(BONAPState$Scientific.Name, ' ', n=3)[,2])
+
+BONAPState[substr(BONAPState$Scientific.Name, 1,2) %in% 'X ',]$Binomial <- 
+  paste(str_split_fixed(BONAPState[substr(BONAPState$Scientific.Name, 1,2) %in% 'X ',]$Scientific.Name, ' ', n=4)[,1],
+        str_split_fixed(BONAPState[substr(BONAPState$Scientific.Name, 1,2) %in% 'X ',]$Scientific.Name, ' ', n=4)[,2],
+        str_split_fixed(BONAPState[substr(BONAPState$Scientific.Name, 1,2) %in% 'X ',]$Scientific.Name, ' ', n=4)[,3])
+BONAPState[grepl(' X ', BONAPState$Scientific.Name),]$Binomial <- 
+  paste(str_split_fixed(BONAPState[grepl(' X ', BONAPState$Scientific.Name),]$Scientific.Name, ' ', n=4)[,1],
+        str_split_fixed(BONAPState[grepl(' X ', BONAPState$Scientific.Name),]$Scientific.Name, ' ', n=4)[,2],
+        str_split_fixed(BONAPState[grepl(' X ', BONAPState$Scientific.Name),]$Scientific.Name, ' ', n=4)[,3])
+
+BONAPState <- subset(BONAPState, !Nativity %in% '-')
+DELETEBINOMIAL <- unique(subset(BONAPState, grepl('\\.', Scientific.Name), select='Binomial'))[,1]
+STATENATIVITY <- unique(subset(BONAPState, !Scientific.Name %in% DELETEBINOMIAL, select=c('Binomial', 'State_Code','Nativity')))
+Native <- unique(subset(STATENATIVITY, Nativity %in% c('N', 'NW'), select=c('Binomial', 'State_Code')))
+Native$Nativity <- 'N'
+STATENATIVITY <- merge(STATENATIVITY[,c('Binomial', 'State_Code')], Native, by=c('Binomial', 'State_Code'), all.x=T)
+STATENATIVITY[is.na(STATENATIVITY$Nativity),]$Nativity <- 'I'
+colnames(STATENATIVITY) <- c('Scientific.Name', 'State_Code','Nativity')
+BONAPState <- unique(subset(BONAPState, grepl('\\.', Scientific.Name), 
+                           select=c('Scientific.Name', 'State_Code','Nativity')))
+BONAPState <- rbind(BONAPState, STATENATIVITY)
+liststates <- readRDS('data/liststates.RDS')
+liststates[liststates$simplecode %in% 'UM',]$simplecode <- 'NI'
+BONAPState <- merge(BONAPState, liststates[,3:4], by.x='State_Code', by.y='simplecode', all.x=T)
 fip_sfna1 <- st_transform(fips_sfna, crs(Tw))
 narast <- fasterize(fip_sfna1, Tw, field = 'ID', fun = "last")
 
@@ -56,10 +91,6 @@ Tw <- raster(paste0(path, 'Tw.tif'))
 Twh <- raster(paste0(path, 'Twh.tif'))
 
 
-rastbrick <- brick(effort, water100k, shore, A, bedrock, clay, Deficit,
-              gdem, hydric, M, MAP, pAET, 
-              salids, sand, sealevel, slope, SoilpH, Surplus, 
-              Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh)
 
 #search parameters for rgbif
 maxdist <- 500000 
@@ -71,7 +102,7 @@ lat1 <- 85
 lon1 <- -25
 lat <- paste0(as.character(lat0), ",",as.character(lat1))
 lon <- paste0(as.character(lon0), ",",as.character(lon1))
-
+#----
 taxonlist <- c("Arctostaphylos parryana",
                "Larrea tridentata",
                "Tillandsia usneoides",
@@ -132,9 +163,10 @@ taxonlist <- c("Arctostaphylos parryana",
                "Picea glauca",
                "Picea mariana",
                "Loiseleuria procumbens")
-for (i in 21:60){
+#----
+for (i in 34:60){
 taxon <- taxonlist[i]
-
+if(nrow(prebiogeopts[grepl(taxon,prebiogeopts$taxon),])>0){
 biogeopts <- prebiogeopts[grepl(taxon,prebiogeopts$taxon),]
 
 
@@ -143,6 +175,47 @@ sfpoints <- st_as_sf(x = biogeopts,
                      crs = "+proj=longlat +datum=WGS84")
 
 sfpoints2 <- st_transform(sfpoints, crs(Tw))
+
+joined <- st_join(sfpoints2, fip_sfna1)
+
+
+#filter out wrong FIPS
+go <- F
+joined$fipsstatus <- 'no'
+if(grepl(' ', taxon)){
+  if(nrow(subset(BONAPFips, Scientific.Name %in% taxon & StateStatus %in% c('N','NW')))>0){
+    FIPSlist <- subset(BONAPFips, Scientific.Name %in% taxon & StateStatus %in% c('N','NW'), select=FIPS)[,1]
+    joined[joined$FIPS %in% FIPSlist,]$fipsstatus <- 'yes'
+    go <- T}
+}else{
+  if(nrow(subset(BONAPFips, grepl(taxon, Scientific.Name) & StateStatus %in% c('N','NW')))>0){
+    FIPSlist <- subset(BONAPFips, grepl(taxon, Scientific.Name) & StateStatus %in% c('N','NW'), select=FIPS)[,1]
+    joined[joined$FIPS %in% FIPSlist,]$fipsstatus <- 'yes'
+    go <- T}}
+
+joined$statestatus <- 'no'
+#filter out wrong States
+if(grepl(' ', taxon)){
+  if(nrow(subset(BONAPState, Scientific.Name %in% taxon & Nativity %in% c('N','NW')))>0){
+    Statelist <- subset(BONAPState, Scientific.Name %in% taxon & Nativity %in% c('N','NW'), select=STATECODE)[,1]
+    joined[joined$STATECODE %in% Statelist,]$statestatus <- 'yes'
+    go <- T}
+}else{
+  if(nrow(subset(BONAPState, grepl(taxon, Scientific.Name)  & Nativity %in% c('N','NW')))>0){
+    Statelist <- subset(BONAPState, grepl(taxon, Scientific.Name) & Nativity %in% c('N','NW'), select=STATECODE)[,1]
+    joined[joined$STATECODE %in% Statelist,]$statestatus <- 'yes'
+    go <- T}}
+
+
+
+
+#eliminate off map and water records
+sfpoints2 <- subset(joined, !(COLOR %in% c('Blue or Delete') | is.na(COLOR)))
+#eliminate non matching states
+sfpoints2 <- subset(sfpoints2, !(COLOR %in% c('County Color - County Data', 'State Color - State Data Only') & statestatus %in% 'no'))
+#eliminate non matching fips, except GA
+sfpoints2 <- subset(sfpoints2, !(COLOR %in% 'County Color - County Data' & fipsstatus %in% 'no' & !STATECODE %in% 'US.GA'))
+
 
 sfraster <- rasterize(sfpoints2, Tw, field = 1, fun='count')
 dist <- distance(sfraster)
@@ -215,9 +288,10 @@ sfpredict <- st_as_sf(x = rbrkfrm,
 sfpositive <- subset(sfpredict, binary==1)
 predictraster <- rasterize(sfpositive, Tw, field = 'binary', fun='last')
 
-png(filename=paste0('output2/', taxon,'.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
+png(filename=paste0('output3/', taxon,'.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
 plot(predictraster, col = rgb(red = 0, green = 0.85, blue = 0, alpha = 1), legend=F)
 plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
 plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0.85, green = 0, blue = 0, alpha = 1), add=T)
 dev.off()
+}
 }
