@@ -13,7 +13,7 @@ Tw <- raster(paste0(path, 'Tw.tif'))
 # make simplefeatures spatial dataframe ----------------------------------------------------------
 prebiogeopts <- readRDS('data/prebiogeopts.RDS')
 fips_sf <- st_read('C:/a/geo/base/americas4.shp')
-fips_sfna <- subset(fips_sf, !GROUP %in% c('South America', 'Bermuda','Hawaii' ))
+fips_sfna <- subset(fips_sf, !GROUP %in% c('South America', 'Bermuda' ))
 states<-st_read("C:/workspace2/modelmap/data/states.shp")
 fips_sfna$ID <- as.numeric(fips_sfna$ID)
 BONAPFips <- readRDS('data/BONAPFips2015.RDS')
@@ -163,9 +163,56 @@ taxonlist <- c("Arctostaphylos parryana",
                "Picea glauca",
                "Picea mariana",
                "Loiseleuria procumbens")
+taxonlist <- c('Tsuga canadensis',
+               'Asimina triloba',
+               'Asimina  parviflora',
+               'Asimina reticulata',
+               'Liatris aspera',
+               'Liatris elegans',
+               'Carphephorus bellidifolius',
+               'Carphephorus odoratissimus',
+               'Carphephorus pseudoliatris',
+               'Garberia heterophylla',
+               'Trillium undulatum',
+               'Pseudotrillium rivale',
+               
+               'Eutrochium maculatum',
+               'Eutrochium fistulosum',
+               'Rhododendron maximum',
+               'Rhododendron catawbiense',
+               'Rhododendron macrophyllum',
+               'Pinus echinata',
+               'Pinus rigida')
+taxonlist <- c('Cercis canadensis','Sassafras albidum', 'Lindera benzoin', 'Carya ovata')               
+
 #----
-for (i in 34:60){
-taxon <- taxonlist[i]
+for (i in 1:1){
+taxon <- taxonlist[1]
+
+taxonstatelist <- BONAPState[BONAPState$Scientific.Name %in% taxon & BONAPState$Nativity %in% c('N','NW'), 'STATECODE']
+taxonfipslist <- BONAPFips[BONAPFips$Scientific.Name %in% taxon, 'FIPS']
+
+taxonstates <- subset(fip_sfna1, (STATECODE %in% taxonstatelist & !COLOR %in% 'County Color - County Data') |
+                       ( STATECODE %in% taxonstatelist & FIPS %in% taxonfipslist))
+
+napoints <- freq(narast)
+fip_sfna1 <- merge(fip_sfna1, napoints, by.x= 'ID', by.y= 'value')
+countbystate <- aggregate(fip_sfna1$count, by=list(fip_sfna1$STATECODE), FUN='sum')
+colnames(countbystate) <- c('STATECODE', 'statecount')
+countbyfips <- aggregate(fip_sfna1$count, by=list(fip_sfna1$FIPS), FUN='sum')
+colnames(countbyfips) <- c('FIPS', 'fipscount')
+
+
+
+
+
+
+
+
+
+
+
+
 if(nrow(prebiogeopts[grepl(taxon,prebiogeopts$taxon),])>0){
 biogeopts <- prebiogeopts[grepl(taxon,prebiogeopts$taxon),]
 

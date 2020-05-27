@@ -87,10 +87,31 @@ taxonlist <- c("Arctostaphylos parryana",
                "Picea mariana",
                "Loiseleuria procumbens")
 
+taxonlist <- c('Tsuga canadensis',
+               'Asimina triloba',
+               'Asimina  parviflora',
+               'Asimina reticulata',
+               'Liatris aspera',
+               'Liatris elegans',
+               'Carphephorus bellidifolius',
+               'Carphephorus odoratissimus',
+               'Carphephorus pseudoliatris',
+               'Garberia heterophylla',
+               'Trillium undulatum',
+               'Pseudotrillium rivale',
+               'Eutrochium steelei',
+               'Eutrochium maculatum',
+               'Eutrochium fistulosum',
+               'Rhododendron maximum',
+               'Rhododendron catawbiense',
+               'Rhododendron macrophyllum',
+               'Pinus echinata',
+               'Pinus rigida')
+               
+taxonlist <- c('Cercis canadensis','Sassafras albidum', 'Lindera benzoin', 'Carya ovata')               
 
 
-
-for (i in 36:60){
+for (i in 4:4){
 taxon <- taxonlist[i]
 
 biogeopts1 <- occ_search(limit=25000,
