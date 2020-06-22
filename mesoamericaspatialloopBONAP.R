@@ -52,8 +52,19 @@ BONAPState <- rbind(BONAPState, STATENATIVITY)
 liststates <- readRDS('data/liststates.RDS')
 liststates[liststates$simplecode %in% 'UM',]$simplecode <- 'NI'
 BONAPState <- merge(BONAPState, liststates[,3:4], by.x='State_Code', by.y='simplecode', all.x=T)
+#convert polygons to raster, then count the pixels
 fip_sfna1 <- st_transform(fips_sfna, crs(Tw))
 narast <- fasterize(fip_sfna1, Tw, field = 'ID', fun = "last")
+napoints <- freq(narast)
+fip_sfna1 <- merge(fip_sfna1, napoints, by.x= 'ID', by.y= 'value')
+countbystate <- aggregate(fip_sfna1$count, by=list(fip_sfna1$STATECODE), FUN='sum')
+colnames(countbystate) <- c('STATECODE', 'statecount')
+countbyfips <- aggregate(fip_sfna1$count, by=list(fip_sfna1$FIPS), FUN='sum')
+colnames(countbyfips) <- c('FIPS', 'fipscount')
+
+fip_sfna1 <- merge(fip_sfna1, countbystate, by='STATECODE')
+fip_sfna1 <- merge(fip_sfna1, countbyfips, by='FIPS')
+fip_sfna1$pwt <- ifelse(fip_sfna1$COLOR %in% 'County Color - County Data', (1/fip_sfna1$fipscount)^0.5, (1/fip_sfna1$statecount)^0.5)
 
 #----
 #make raster brick
@@ -186,8 +197,9 @@ taxonlist <- c('Tsuga canadensis',
 taxonlist <- c('Cercis canadensis','Sassafras albidum', 'Lindera benzoin', 'Carya ovata')               
 
 #----
-for (i in 1:1){
-taxon <- taxonlist[1]
+#for (i in 1:1){
+#taxon <- taxonlist[i]
+taxon <- 'Picea mariana'
 
 taxonstatelist <- BONAPState[BONAPState$Scientific.Name %in% taxon & BONAPState$Nativity %in% c('N','NW'), 'STATECODE']
 taxonfipslist <- BONAPFips[BONAPFips$Scientific.Name %in% taxon, 'FIPS']
@@ -195,23 +207,55 @@ taxonfipslist <- BONAPFips[BONAPFips$Scientific.Name %in% taxon, 'FIPS']
 taxonstates <- subset(fip_sfna1, (STATECODE %in% taxonstatelist & !COLOR %in% 'County Color - County Data') |
                        ( STATECODE %in% taxonstatelist & FIPS %in% taxonfipslist))
 
-napoints <- freq(narast)
-fip_sfna1 <- merge(fip_sfna1, napoints, by.x= 'ID', by.y= 'value')
-countbystate <- aggregate(fip_sfna1$count, by=list(fip_sfna1$STATECODE), FUN='sum')
-colnames(countbystate) <- c('STATECODE', 'statecount')
-countbyfips <- aggregate(fip_sfna1$count, by=list(fip_sfna1$FIPS), FUN='sum')
-colnames(countbyfips) <- c('FIPS', 'fipscount')
+pwt <- fasterize(taxonstates, Tw, field = 'pwt')
+dist <- distance(pwt)
+#dist2 <- terra::distance(pwt)
+plot(dist2)
+rastbrick <- brick(pwt, water100k, shore, A, bedrock, clay, Deficit,
+                   gdem, hydric, M, MAP, pAET, 
+                   salids, sand, sealevel, slope, SoilpH, Surplus, 
+                   Tc, Tcl, Tclx, Tgs, tgsmin, Tw, Twh, dist)
+rbrkfrm <- as.data.frame(rasterToPoints(rastbrick))
+rbrkfrm <- subset(rbrkfrm, !is.na(sealevel)&  !is.na(salids) & !is.na(tgsmin) & !is.na(Tc) & !is.na(slope)  & !is.na(SoilpH) & !is.na(M) & !is.na(sand) & !is.na(clay))
+
+present <- subset(rbrkfrm, layer.1 > 0)
+present$observed <- 1
+present$wt <- present$layer.1
+absent <- subset(rbrkfrm, layer.2 >= 50000 & layer.2 < 500000 )
+absent$observed <- 0
+absent$wt <- 1
+
+present <- rbind(present, absent)
+rf <- ranger(observed ~ shore+ gdem+ sealevel+ water100k+ #x+ y+
+               A+ bedrock+ clay+ Deficit+
+               hydric+ M+ MAP+ pAET+
+               salids+ sand+ slope+ SoilpH+ Surplus+
+               Tc+ Tcl+ Tclx+ Tgs+ tgsmin+ Tw+ Twh,
+             data=present, num.trees=50, max.depth = 5, case.weights = present$wt, importance = 'impurity', write.forest = TRUE)
+rbrkfrm$output <- predictions(predict(rf, data=rbrkfrm))
+
+maxmodel <- max(rbrkfrm[rbrkfrm$layer.2 < 500000,]$output)
+maxmodel <- ifelse(maxmodel>1,1,maxmodel)
+rbrkfrm$binary <- as.numeric(ifelse(rbrkfrm$output/maxmodel >= 0.5 & rbrkfrm$layer.2 < 500000, 1, 0))
+sfpredict <- st_as_sf(x = rbrkfrm, 
+                      coords = c('x', 'y'),
+                      crs = crs(Tw))
+
+
+sfpositive <- subset(sfpredict, binary==1)
+predictraster <- rasterize(sfpositive, Tw, field = 'binary', fun='last')
+
+png(filename=paste0('output4/', taxon,'.png'),width = 1500, height = 1500, units = 'px', pointsize = 10)
+plot(predictraster, col = rgb(red = 0, green = 0.85, blue = 0, alpha = 1), legend=F)
+plot(st_geometry(states),  lwd=0.1, fill=F, border = 'black', add=T)
+plot(st_geometry(sfpoints2), pch=20, cex=0.5, col = rgb(red = 0.85, green = 0, blue = 0, alpha = 1), add=T)
+dev.off()
 
 
 
 
 
-
-
-
-
-
-
+################################## code for point data---------
 
 if(nrow(prebiogeopts[grepl(taxon,prebiogeopts$taxon),])>0){
 biogeopts <- prebiogeopts[grepl(taxon,prebiogeopts$taxon),]
