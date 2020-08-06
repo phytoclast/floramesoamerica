@@ -4,7 +4,7 @@ library(raster)
 library(rgdal)
 library(Taxonstand)
 ####----
-#Flora Mesoamericana http://www.tropicos.org/ProjectAdvSearch.aspx?projectid=3&langid=66
+#Flora Mesoamericana http://www.tropicos.org/ProjectAdvSearch.aspx?projectid=3&langid=66 ----
 Species <- read.delim("acuatica.txt", encoding = 'UTF-8')
 Species$habit <- 'H.A'
 SpeciesHabits <- Species
@@ -45,7 +45,7 @@ SpeciesHabits <- rbind(SpeciesHabits, Species)
 #Species$habit <- 'L.trailing'
 #SpeciesHabits <- rbind(SpeciesHabits, Species)
 ####----
-#Vascular Plants of the Americas https://www.tropicos.org/ProjectAdvSearch.aspx?projectid=83
+#Vascular Plants of the Americas https://www.tropicos.org/ProjectAdvSearch.aspx?projectid=83 ----
 NA_Flora <- read.delim("NA_Flora.txt", encoding = 'UTF-8')
 Habit_Symbols <- read.delim("Habit_Symbols.txt", encoding = 'UTF-8')
 SpeciesHabits$split <- paste(str_split_fixed(SpeciesHabits$Name, " ",3)[,1],str_split_fixed(SpeciesHabits$Name , " ",3)[,2])
@@ -83,7 +83,7 @@ SpeciesHabits[grepl(' var\\. ',SpeciesHabits$Name),]$split <-
         str_split_fixed(SpeciesHabits[grepl(' var\\. ',SpeciesHabits$Name),]$Name , " ",5)[,4])
 SpeciesHabits[grepl(' var\\.',SpeciesHabits$Name),]$auth <-
   str_split_fixed(SpeciesHabits[grepl(' var\\. ',SpeciesHabits$Name),]$Name, " ",5)[,5]
-####----Crosstab
+####----Crosstab ----
 SpeciesHabits$a <- 1
 SpeciesHabits2 <- unique(SpeciesHabits[,c('split','auth')])
 forma <- unique(SpeciesHabits$habit)

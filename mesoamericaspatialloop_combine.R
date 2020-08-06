@@ -9,8 +9,8 @@ library(rgbif)
 library(randomForest)
 library(gdalUtilities)
 library("RQGIS3")
-
-#process spatial data points to raster?
+library(stringr)
+#process spatial data points to raster? ----
 
 path = 'C:/workspace2/treeatlas/nam5k/'
 Tw <- raster(paste0(path, 'Tw.tif'))
@@ -30,7 +30,6 @@ BONAPState <- readRDS('data/BONAPState2015.RDS')
 #liststates$simplecode <- substr(liststates$STATECODE, nchar(as.character(liststates$STATECODE))-1, nchar(as.character(liststates$STATECODE)))
 #saveRDS(liststates, 'data/liststates.RDS')
 
-library(stringr)
 BONAPState$Binomial <- paste(str_split_fixed(BONAPState$Scientific.Name, ' ', n=3)[,1],str_split_fixed(BONAPState$Scientific.Name, ' ', n=3)[,2])
 
 BONAPState[substr(BONAPState$Scientific.Name, 1,2) %in% 'X ',]$Binomial <- 
@@ -56,6 +55,7 @@ BONAPState <- rbind(BONAPState, STATENATIVITY)
 liststates <- readRDS('data/liststates.RDS')
 liststates[liststates$simplecode %in% 'UM',]$simplecode <- 'NI'
 BONAPState <- merge(BONAPState, liststates[,3:4], by.x='State_Code', by.y='simplecode', all.x=T)
+#saveRDS(BONAPState,'data/BONAPState_americas.RDS')
 #convert polygons to raster, then count the pixels
 fip_sfna1 <- st_transform(fips_sfna, crs(Tw))
 narast <- fasterize(fip_sfna1, Tw, field = 'ID', fun = "last")
@@ -71,7 +71,7 @@ fip_sfna1 <- merge(fip_sfna1, countbyfips, by='FIPS')
 fip_sfna1$pwt <- ifelse(fip_sfna1$COLOR %in% 'County Color - County Data', (1/fip_sfna1$fipscount)^0.5, (1/fip_sfna1$statecount)^0.5)
 
 #----
-#make raster brick
+#make raster brick ----
 #make st points from lat lon distrib then reproject and convert to raster the same as brick
 #make distance from distrib points raster add to brick
 #convert brick raster to points
@@ -107,7 +107,7 @@ Twh <- raster(paste0(path, 'Twh.tif'))
 
 
 
-#search parameters for rgbif
+#search parameters for rgbif ----
 maxdist <- 500000 
 mindist <- 200000
 middist <- (maxdist+mindist)/2
@@ -117,7 +117,7 @@ lat1 <- 85
 lon1 <- -25
 lat <- paste0(as.character(lat0), ",",as.character(lat1))
 lon <- paste0(as.character(lon0), ",",as.character(lon1))
-#----
+# List of species to try ----
 taxonlist <- c("Arctostaphylos parryana",
                "Larrea tridentata",
                "Tillandsia usneoides",
@@ -200,7 +200,7 @@ taxonlist <- c('Tsuga canadensis',
                'Pinus rigida')
 taxonlist <- c('Cercis canadensis','Sassafras albidum', 'Lindera benzoin', 'Carya ovata')               
 
-#----
+# loop contruction of models ----
 #for (i in 1:1){
 #taxon <- taxonlist[i]
 taxon <- 'Picea mariana'
@@ -215,7 +215,7 @@ pwt <- fasterize(taxonstates, Tw, field = 'pwt')
 writeRaster(pwt, file='tmp/pwt.tif', overwrite=TRUE)
 pwt <- raster('tmp/pwt.tif')
 
-#####QGIS----
+##### QGIS ----
 pwt2 <- pwt
 #writeRaster(pwt2, file='tmp/pwt2.tif', overwrite=TRUE)
 
@@ -236,17 +236,8 @@ params2$OUTPUT = 'tmp/dist2.tif'
 dist2 <- run_qgis(alg = 'gdal:proximity', params = params2, load_output = TRUE,
                  show_output_paths = TRUE, qgis_env = set_env())
 get_options('gdal:proximity')
-#----
+# ----
 
-
-
-
-
-
-
-
-
-#dist2 <- terra::distance(pwt)
 
 rastbrick <- brick(pwt, water100k, shore, A, bedrock, clay, Deficit,
                    gdem, hydric, M, MAP, pAET, 
@@ -269,7 +260,7 @@ present2 <- rbind(present2, absent2)
 
 
 
-################################## code for point data---------
+################################## code for point data ---------
 
 if(nrow(prebiogeopts[grepl(taxon,prebiogeopts$taxon),])>0){
 biogeopts <- prebiogeopts[grepl(taxon,prebiogeopts$taxon),]
